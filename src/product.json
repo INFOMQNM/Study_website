@@ -1,0 +1,85 @@
+
+{
+    "lady":{
+        "sale":[{
+            "id": 1,
+            "name": "Skinny Jeans",
+            "image": "/pants_lady_sale_2.png",
+            "previous": 50,
+            "price": 25,
+            "category":"pants",
+            "gender": "lady",
+            "sale": true
+        },{
+            "id": 5,
+            "name": "Wide Jeans",
+            "image": "/pants_lady_sale_1.png",
+            "previous": 100,
+            "price": 30,
+            "category":"pants",        
+            "gender": "lady",
+            "sale": true
+        },
+        {
+            "id": 6,
+            "name": "T-shirt",
+            "image": "/top_lady_sale_1.png",
+            "previous": 100,
+            "price": 30,
+            "category":"tops",
+            "gender": "lady",
+            "sale": true
+        },
+        {
+            "id": 7,
+            "name": "T-shirt",
+            "image": "/top_lady_sale_2.png",
+            "previous": 100,
+            "price": 30,
+            "category":"tops",
+            "gender": "lady",
+            "sale": true
+        },
+        {
+            "id": 8,
+            "name": "T-shirt",
+            "image": "/top_lady_sale_3.png",
+            "previous": 100,
+            "price": 30,
+            "category":"tops",
+            "gender": "lady",
+            "sale": true
+        }
+    ],
+        "normal": [{
+            "id": 2,
+            "name": "Skinny Jeans",
+            "image": "/pants_lady_normal_1.png",
+            "price": 20,
+            "category":"pants",
+            "gender": "lady",
+            "sale": false
+        }]
+    },
+    "men":{
+        "sale":[{
+            "id": 3,
+            "name": "Skinny Jeans",
+            "image": "/pants_men_sale_1.png",
+            "previous": 75,
+            "price": 25,
+            "category":"pants",
+            "gender": "men",
+            "sale": true
+        }],
+        "normal":[{
+            "id": 4,
+            "name": "Skinny Jeans",
+            "image": "/pants_men_normal_1.png",
+            "price": 65,
+            "category":"pants",
+            "gender": "men",
+            "sale": false
+        }]
+    }
+}
