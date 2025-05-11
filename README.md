@@ -1,3 +1,7 @@
+# Link to FIGMA
+
+https://www.figma.com/design/RbdbOclamhUC7JttjuzcVB/INFOMQNM?node-id=0-1&t=aFCaDYQVEva49xfT-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
