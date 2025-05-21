@@ -14,11 +14,7 @@ function ProductPage(data) {
     let product = productFinder(data.data, gender, sale, id);
     const [smShow, setSmShow] = useState(false);
     const { cart, setCart } = useContext(CartContext);
-    useEffect(() => {
-        if (smShow == true) {
-            data.logger.log('reflective_question', "start");
-        }
-    },[smShow])
+
     return (
         <Container>
             <ModalComponent smShow={smShow} setSmShow={setSmShow} settings={settings} logger={data.logger}  cart={cart} setCart={ setCart} product={product} />
@@ -28,7 +24,7 @@ function ProductPage(data) {
                 </Row>
                 <Row>
                     <Col md={6}>
-                        <img src={product.image} width={500} height={500} />
+                        <img src={"/"+product.image} width={500} height={500} />
                     </Col>
                     <Col md={6} className="d-flex justify-content-center align-items-center">
                         <Row>

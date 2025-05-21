@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "INFOMQNM",
+			"path": "../../../.."
+		},
+		{
+			"name": "fashion-dataset",
+			"path": "../../../../../../../Downloads/fashion-dataset"
+		}
+	],
+	"settings": {}
+}

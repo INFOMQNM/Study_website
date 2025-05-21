@@ -1,7 +1,7 @@
 
 function productFinder(data, gender, sale, id) {
     let s1, s2;
-    if (gender === "lady") {
+    if (gender === "Women") {
         s1 = data.lady
     } else {
         s1 = data.men

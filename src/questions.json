@@ -1,0 +1,22 @@
+{
+    "sustainability": [
+        "Is this item produced sustainably?",
+        "Does this purchase align with your environmental values?"
+    ],
+    "long_term": [
+        "Do you really need this item or are you buying it on impulse?",
+        "Will this purchase bring you long-term satisfaction?"
+    ],
+    "personal_finances": [
+        "Does this item fit in your budget?",
+        "Are you overspending on this purchase?"
+    ],
+    "practicality": [
+        "Will you wear this item more than 10 times?",
+        "Will you wear this item more than once a month?"
+    ],
+    "social_influence": [
+        "Are you buying this because you saw it on social media?",
+        "Are you buying this to impress others or because you genuinely like it?"
+    ]
+}

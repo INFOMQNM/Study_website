@@ -1,51 +1,63 @@
+import React, { useEffect } from 'react';
 import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
+
+// Import your Questions Context
+import { useQuestions } from '../../Context/QuestionContext';
+
 function ModalComponent(props) {
-    const questions = [
-        "Do you really need this item?",
-        "Does this item fit in your budget?",
-        "Will you wear this item more than 10 times?"
-    ]
-    const randomIndex = Math.floor(Math.random() * questions.length );
-    return (
+
+  const { currentQuestion, getNextQuestion } = useQuestions();
+  useEffect(() => {
+      if (props.smShow == true) {
+          props.logger.log(currentQuestion.text, "start");
+      } 
+},[props.smShow])
+  const handleClose = () => {
+      props.logger.log(currentQuestion.text, 'stop');
+      getNextQuestion(); 
+    props.setSmShow(false);
+  };
+  console.log(props.smShow)
+
+  const handleAddToCart = () => {
+    const updatedCart = [...props.cart, props.product];
+    props.setCart(updatedCart);
+    getNextQuestion(); // Go to next question for next time
+    props.setSmShow(false);
+  };
+
+  return (
     <Modal
-        size="sm"
-        show={props.smShow}
-            onHide={() => {
-                props.logger.log("reflective_question", 'stop')
-                props.setSmShow(false)
-            }}
-        aria-labelledby="example-modal-sizes-title-sm"
-        >{
-                props.settings.control == true ?
-                    (
-                        <Modal.Header closeButton>
-                            Item added to cart
-                        </Modal.Header>
-                    ) :
-                    (
-                        <Modal.Header closeButton>
-                            <Container>
-                            <Row>
-                            {questions[randomIndex]}
-                            </Row>
-                                <Row style={{justifyContent:'center'}}>
-                                    
-                                    <Button variant="outline-success" onClick={() => {
-                                        const updatedCart = [...props.cart, props.product];
-                                        props.setCart(updatedCart)
-                                        props.setSmShow(false);
-                            }}>Yes</Button>
-                            </Row>
-                            </Container>
- 
-                        </Modal.Header>       
-                    )
-    }
-
-
-    </Modal>)
+      size="sm"
+      show={props.smShow}
+      onHide={handleClose}
+      aria-labelledby="example-modal-sizes-title-sm"
+    >
+      {props.settings.control ? (
+        // CONTROL == TRUE → Just show a simple "Item added" message
+        <Modal.Header closeButton>
+          <Modal.Title>Item added to cart</Modal.Title>
+        </Modal.Header>
+      ) : (
+        // CONTROL == FALSE → Show the reflective question from context
+        <Modal.Header closeButton>
+          <Container>
+            <Row>
+              {currentQuestion ? currentQuestion.text : 'No question found'}
+            </Row>
+            <Row style={{ justifyContent: 'center', marginTop: '1rem' }}>
+              <Button variant="outline-success" onClick={handleAddToCart}>
+                Yes
+              </Button>
+            </Row>
+          </Container>
+        </Modal.Header>
+      )}
+    </Modal>
+  );
 }
-export default ModalComponent
+
+export default ModalComponent;

@@ -1,22 +1,56 @@
+import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col'
-function SmallProduct(product) {
-    product = product.product
-    return (
-        <Container style={{backgroundColor:'grey', margin:10, padding:10, borderRadius:10}}>
-            <Row className='d-flex'>
-                <Col >
-                    <img src={product.image} width={50} height={50} />                
-                </Col>
-                <Col className="flex" style={{flex: 1, alignContent: 'center'}}>
-                    <p style={{color:'white', textAlign:'center'}}>{product.name}</p>
-                </Col>
-                <Col style={{alignContent: 'center'}}>
-                    <p style={{color:'white', textAlign:'center'}}>${product.price}</p>
-                </Col>
-            </Row>
-        </Container>
-    )
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+
+function SmallProduct({ product, onRemove }) {
+  return (
+    <Container 
+      style={{ 
+        backgroundColor: 'grey', 
+        margin: 10, 
+        padding: 10, 
+        borderRadius: 10 
+      }}
+    >
+      <Row className="d-flex align-items-center">
+        <Col>
+          <img 
+            src={product.image} 
+            width={50} 
+            height={50} 
+            alt={product.name} 
+          />
+        </Col>
+        <Col>
+          <p style={{ color: 'white', textAlign: 'center', margin: 0 }}>
+            {product.name}
+          </p>
+        </Col>
+        <Col>
+          <p style={{ color: 'white', textAlign: 'center', margin: 0 }}>
+            ${product.price * product.quantity}
+          </p>
+        </Col>
+        {product.quantity && (
+          <Col>
+            <p style={{ color: 'white', textAlign: 'center', margin: 0 }}>
+              Qty: {product.quantity}
+            </p>
+          </Col>
+        )}
+        <Col className="text-center">
+          <Button 
+            variant="outline-danger" 
+            onClick={() => onRemove(product.id)}
+          >
+            Remove
+          </Button>
+        </Col>
+      </Row>
+    </Container>
+  );
 }
+
 export default SmallProduct;

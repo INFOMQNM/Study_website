@@ -8,7 +8,7 @@ import CartPage from "./Components/Cart/Cart";
 import ProductPage from "./Components/ProductPage/ProductPage";
 import { CartProvider } from "./Context/CartContext";
 import Logger from "./Logger";
-
+import { QuestionsProvider } from "./Context/QuestionContext";
 const logger = new Logger(); // Create a logger instance
 
 function LogPageView() {
@@ -37,7 +37,7 @@ function LogPageView() {
 function App() {
   return (
     <CartProvider>
-
+         <QuestionsProvider>
       <Router>
       <LogPageView />
         <Navigation />
@@ -49,7 +49,8 @@ function App() {
             <Route path="/product/:gender/:sale/:id" element={<ProductPage data={data} logger={ logger} />} />
           </Routes>
           </div>
-      </Router>
+        </Router>
+        </QuestionsProvider>
       </CartProvider>
   );
 }
