@@ -1,3 +1,10 @@
+#How to start Website
+
+Steps:
+1. cd ./Downloads/Study_website-master/
+2. npm start
+3. (if error: sh: react-scripts: command not found) then npm install create-react-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
