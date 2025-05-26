@@ -10,9 +10,9 @@ assume youre in this directory
 ./Downloads/Study_website-master/
 
 then
-ctrl+c to close website
-cd ./src
-nano settings.json
+ctrl+c to close website \n
+cd ./src \n
+nano settings.json \n
 
 crtl+o after enter
 ctrl+x to close nano
