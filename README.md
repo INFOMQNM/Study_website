@@ -1,9 +1,27 @@
-#How to start Website
+# How to start Website
 
 Steps:
 1. cd ./Downloads/Study_website-master/
 2. npm start
 3. (if error: sh: react-scripts: command not found) then npm install create-react-app
+
+# How to change Variable group
+assume youre in this directory
+./Downloads/Study_website-master/
+
+then
+ctrl+c to close website
+cd ./src
+nano settings.json
+
+crtl+o after enter
+ctrl+x to close nano
+npm start
+
+(to close website do ctrl+c)
+
+
+
 
 # Getting Started with Create React App
 
