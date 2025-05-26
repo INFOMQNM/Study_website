@@ -9,6 +9,7 @@ import ProductPage from "./Components/ProductPage/ProductPage";
 import { CartProvider } from "./Context/CartContext";
 import Logger from "./Logger";
 import { QuestionsProvider } from "./Context/QuestionContext";
+import Endpage from "./Components/EndPage/Endpage";
 const logger = new Logger(); // Create a logger instance
 
 function LogPageView() {
@@ -41,10 +42,11 @@ function App() {
       <Router>
       <LogPageView />
         <Navigation />
-          <div className="App" style={{width:'90%', flex:1}}>
-          <Routes>
-          <Route path="/" element={<Home data={data.lady} title={"Ladies Page"}   />} />
-          <Route path="/men" element={<Home data={data.men} title={"Men's Page"} />} />
+          <div className="App" style={{width:'100%', flex:1}}>
+            <Routes>
+            <Route path="/end" element={<Endpage logger={logger} />} />
+          <Route path="/" element={<Home data={data.lady} title={"Ladies' Section"}   />} />
+          <Route path="/men" element={<Home data={data.men} title={"Men's Section"} />} />
             <Route path="/cart" element={<CartPage logger={logger} />} />
             <Route path="/product/:gender/:sale/:id" element={<ProductPage data={data} logger={ logger} />} />
           </Routes>

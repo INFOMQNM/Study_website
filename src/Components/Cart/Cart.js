@@ -13,7 +13,7 @@ import SmallProduct from './../Product/SmallProduct';
 function CartPage(props) {
   const navigate = useNavigate();
   const { cart, setCart } = useContext(CartContext);
-  const { resetQuestions } = useQuestions();
+
   /**
    * Convert the cart array into a unique list of items,
    * grouping duplicates under a single item with 'quantity'.
@@ -67,16 +67,9 @@ function CartPage(props) {
       <Button
         variant="outline-success"
         onClick={() => {
-          // Example usage of your logger
-          props.logger.log('/cart', 'stop');
-          props.logger.exportLogs();
-          props.logger.clearLogs();
-          resetQuestions();
-          // Clear out local storage cart if needed
-          localStorage.removeItem('cart');
 
           // Navigate away
-          navigate('/');
+          navigate('/end');
         }}
       >
         Proceed to checkout

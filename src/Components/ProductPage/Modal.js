@@ -3,7 +3,7 @@ import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
-
+import Col from 'react-bootstrap/Col';
 // Import your Questions Context
 import { useQuestions } from '../../Context/QuestionContext';
 
@@ -24,6 +24,8 @@ function ModalComponent(props) {
 
   const handleAddToCart = () => {
     const updatedCart = [...props.cart, props.product];
+    props.logger.log(props.product.name, 'buy');
+    props.logger.log(currentQuestion.text, 'stop');
     props.setCart(updatedCart);
     getNextQuestion(); // Go to next question for next time
     props.setSmShow(false);
@@ -48,10 +50,18 @@ function ModalComponent(props) {
             <Row>
               {currentQuestion ? currentQuestion.text : 'No question found'}
             </Row>
-            <Row style={{ justifyContent: 'center', marginTop: '1rem' }}>
-              <Button variant="outline-success" onClick={handleAddToCart}>
-                Yes
-              </Button>
+              <Row style={{ justifyContent: 'center', marginTop: '1rem' }}>
+              <Col>
+                <Button variant="outline-danger" onClick={handleClose}>
+                  No, don't add item to cart
+                </Button>
+                </Col>
+                <Col>
+                <Button variant="outline-success" onClick={handleAddToCart}>
+                Yes, add item to cart
+                </Button>
+                </Col>
+
             </Row>
           </Container>
         </Modal.Header>

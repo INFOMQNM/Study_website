@@ -20,20 +20,20 @@ const questionData = {
     "Does this purchase align with your environmental values?"
   ],
   long_term: [
-    "Do you really need this item or are you buying it on impulse?",
+    "Are you sure you are not buying this item on impulse? Do you really need it?",
     "Will this purchase bring you long-term satisfaction?"
   ],
   personal_finances: [
     "Does this item fit in your budget?",
-    "Are you overspending on this purchase?"
+    "Are you sure you are not overspending on this purchase?"
   ],
   practicality: [
     "Will you wear this item more than 10 times?",
     "Will you wear this item more than once a month?"
   ],
   social_influence: [
-    "Are you buying this because you saw it on social media?",
-    "Are you buying this to impress others or because you genuinely like it?"
+    "Are you sure you are not buying this just because you saw it on social media?",
+    "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
   ],
 };
 
