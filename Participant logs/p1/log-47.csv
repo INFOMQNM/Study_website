@@ -1,0 +1,52 @@
+timestamp,componentName,action,control
+2025-05-26T11:29:29.014Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T11:29:29.014Z,personal_finances: Does this item fit in your budget?,start,True
+2025-05-26T11:29:29.014Z,practicality: Will you wear this item more than 10 times?,start,True
+2025-05-26T11:29:29.014Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T11:29:29.014Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-05-26T11:29:29.122Z,/end,stop,True
+2025-05-26T11:29:29.122Z,/,start,True
+2025-05-26T11:30:25.784Z,/,stop,True
+2025-05-26T11:30:25.784Z,/product/Women/true/2589,start,True
+2025-05-26T11:30:29.286Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T11:30:31.447Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-26T11:30:33.047Z,/product/Women/true/2589,stop,True
+2025-05-26T11:30:33.047Z,/,start,True
+2025-05-26T11:30:55.864Z,/,stop,True
+2025-05-26T11:30:55.864Z,/product/Women/true/10777,start,True
+2025-05-26T11:30:58.568Z,Does this item fit in your budget?,start,True
+2025-05-26T11:31:01.603Z,Does this item fit in your budget?,stop,True
+2025-05-26T11:31:04.605Z,/men,start,True
+2025-05-26T11:31:39.370Z,/,start,True
+2025-05-26T11:32:25.628Z,/men,start,True
+2025-05-26T11:33:16.429Z,/men,stop,True
+2025-05-26T11:33:16.429Z,/product/Men/false/29848,start,True
+2025-05-26T11:33:19.751Z,Will you wear this item more than 10 times?,start,True
+2025-05-26T11:33:21.954Z,Will you wear this item more than 10 times?,stop,True
+2025-05-26T11:33:23.340Z,/product/Men/false/29848,stop,True
+2025-05-26T11:33:23.340Z,/men,start,True
+2025-05-26T11:33:37.494Z,/men,stop,True
+2025-05-26T11:33:37.494Z,/product/Men/false/48947,start,True
+2025-05-26T11:33:39.254Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T11:33:41.515Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-05-26T11:33:44.727Z,/men,start,True
+2025-05-26T11:33:47.431Z,/cart,start,True
+2025-05-26T11:33:57.664Z,/men,start,True
+2025-05-26T11:34:32.737Z,/cart,start,True
+2025-05-26T11:34:40.530Z,/men,start,True
+2025-05-26T11:35:06.058Z,/men,stop,True
+2025-05-26T11:35:06.058Z,/product/Men/true/17152,start,True
+2025-05-26T11:35:07.435Z,Does this purchase align with your environmental values?,start,True
+2025-05-26T11:35:09.029Z,Does this purchase align with your environmental values?,stop,True
+2025-05-26T11:35:09.985Z,/cart,start,True
+2025-05-26T11:35:16.061Z,/men,start,True
+2025-05-26T11:35:35.231Z,/,start,True
+2025-05-26T11:35:55.221Z,/,stop,True
+2025-05-26T11:35:55.221Z,/product/Women/true/52193,start,True
+2025-05-26T11:35:57.918Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T11:36:00.457Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-26T11:36:01.516Z,/cart,start,True
+2025-05-26T11:36:08.577Z,/cart,stop,True
+2025-05-26T11:36:08.577Z,/end,start,True
+2025-05-26T11:36:26.794Z,/end,start,False
+2025-05-26T11:36:29.147Z,/end,stop,False

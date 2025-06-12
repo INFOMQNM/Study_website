@@ -1,0 +1,118 @@
+timestamp,componentName,action,control
+2025-05-26T12:21:12.652Z,/,start,FALSE
+2025-05-26T12:22:23.996Z,/,stop,FALSE
+2025-05-26T12:22:23.996Z,/product/Women/false/15262,start,FALSE
+2025-05-26T12:22:26.380Z,Does this purchase align with your environmental values?,start,FALSE
+2025-05-26T12:22:28.792Z,ADIDAS Originals Women SL 72 Purple Casual Shoes,buy,FALSE
+2025-05-26T12:22:28.793Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-05-26T12:22:32.285Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-26T12:22:35.429Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-26T12:22:37.143Z,/product/Women/false/15262,stop,FALSE
+2025-05-26T12:22:37.143Z,/,start,FALSE
+2025-05-26T12:23:26.110Z,/,stop,FALSE
+2025-05-26T12:23:26.110Z,/product/Women/true/10498,start,FALSE
+2025-05-26T12:23:27.472Z,Does this item fit in your budget?,start,FALSE
+2025-05-26T12:23:31.205Z,Flying Machine Women RN Blue Tops,buy,FALSE
+2025-05-26T12:23:31.205Z,Does this item fit in your budget?,stop,FALSE
+2025-05-26T12:23:36.354Z,/product/Women/true/10498,stop,FALSE
+2025-05-26T12:23:36.354Z,/,start,FALSE
+2025-05-26T12:24:32.280Z,/,stop,FALSE
+2025-05-26T12:24:32.280Z,/product/Women/false/15624,start,FALSE
+2025-05-26T12:24:37.423Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-26T12:24:41.034Z,Nike Women AS Squad Fleece FZ Hoody Grey Sweatshirts,buy,FALSE
+2025-05-26T12:24:41.034Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-26T12:24:42.752Z,/product/Women/false/15624,stop,FALSE
+2025-05-26T12:24:42.752Z,/,start,FALSE
+2025-05-26T12:25:03.320Z,/,stop,FALSE
+2025-05-26T12:25:03.320Z,/cart,start,FALSE
+2025-05-26T12:25:09.757Z,/,start,FALSE
+2025-05-26T12:25:36.649Z,/,stop,FALSE
+2025-05-26T12:25:36.649Z,/product/Women/true/12536,start,FALSE
+2025-05-26T12:25:38.898Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-05-26T12:25:42.525Z,Puma Women Solid Black Sweatshirts,buy,FALSE
+2025-05-26T12:25:42.526Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-05-26T12:25:44.104Z,/product/Women/true/12536,stop,FALSE
+2025-05-26T12:25:44.104Z,/,start,FALSE
+2025-05-26T12:25:57.347Z,/,stop,FALSE
+2025-05-26T12:25:57.347Z,/product/Women/false/59777,start,FALSE
+2025-05-26T12:25:58.643Z,Does this purchase align with your environmental values?,start,FALSE
+2025-05-26T12:26:00.021Z,Estelle Women Gold Bracelet,buy,FALSE
+2025-05-26T12:26:00.021Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-05-26T12:26:01.495Z,/product/Women/false/59777,stop,FALSE
+2025-05-26T12:26:01.495Z,/cart,start,FALSE
+2025-05-26T12:26:04.629Z,/cart,stop,FALSE
+2025-05-26T12:26:04.629Z,/,start,FALSE
+2025-05-26T12:26:20.398Z,/,stop,FALSE
+2025-05-26T12:26:20.398Z,/product/Women/true/58137,start,FALSE
+2025-05-26T12:26:21.971Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-26T12:26:23.383Z,Rreverie Gold Plated Earrings,buy,FALSE
+2025-05-26T12:26:23.384Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-26T12:26:24.979Z,/product/Women/true/58137,stop,FALSE
+2025-05-26T12:26:24.979Z,/cart,start,FALSE
+2025-05-26T12:26:30.913Z,/cart,stop,FALSE
+2025-05-26T12:09:34.981Z,/,start,TRUE
+2025-05-26T12:10:30.012Z,/,stop,TRUE
+2025-05-26T12:10:30.012Z,/product/Women/true/57095,start,TRUE
+2025-05-26T12:10:39.831Z,/product/Women/true/57095,stop,TRUE
+2025-05-26T12:10:39.831Z,/,start,TRUE
+2025-05-26T12:10:51.231Z,/,stop,TRUE
+2025-05-26T12:10:51.231Z,/product/Women/true/10498,start,TRUE
+2025-05-26T12:10:59.365Z,/product/Women/true/10498,stop,TRUE
+2025-05-26T12:11:20.131Z,/,start,TRUE
+2025-05-26T12:12:35.983Z,/,stop,TRUE
+2025-05-26T12:12:35.983Z,/product/Women/true/20011,start,TRUE
+2025-05-26T12:12:44.922Z,/product/Women/true/20011,stop,TRUE
+2025-05-26T12:12:44.922Z,/cart,start,TRUE
+2025-05-26T12:12:48.865Z,/cart,stop,TRUE
+2025-05-26T12:12:48.865Z,/,start,TRUE
+2025-05-26T12:13:12.365Z,/,stop,TRUE
+2025-05-26T12:13:12.365Z,/cart,start,TRUE
+2025-05-26T12:13:20.538Z,/cart,stop,TRUE
+2025-05-26T12:13:20.976Z,/,start,TRUE
+2025-05-26T12:14:14.598Z,/,stop,TRUE
+2025-05-26T12:14:14.598Z,/product/Women/true/52193,start,TRUE
+2025-05-26T12:14:19.148Z,/product/Women/true/52193,stop,TRUE
+2025-05-26T12:14:19.148Z,/,start,TRUE
+2025-05-26T12:14:38.808Z,/,stop,TRUE
+2025-05-26T12:14:38.809Z,/product/Women/true/6880,start,TRUE
+2025-05-26T12:14:46.673Z,/product/Women/true/6880,stop,TRUE
+2025-05-26T12:14:46.673Z,/cart,start,TRUE
+2025-05-26T12:14:50.708Z,/cart,stop,TRUE
+2025-05-26T12:14:50.708Z,/,start,TRUE
+2025-05-26T12:15:05.965Z,/,stop,TRUE
+2025-05-26T12:15:05.965Z,/product/Women/true/19724,start,TRUE
+2025-05-26T12:15:08.837Z,/product/Women/true/19724,stop,TRUE
+2025-05-26T12:15:08.837Z,/,start,TRUE
+2025-05-26T12:16:09.425Z,/,stop,TRUE
+2025-05-26T12:16:09.425Z,/product/Women/false/40409,start,TRUE
+2025-05-26T12:16:17.902Z,/product/Women/false/40409,stop,TRUE
+2025-05-26T12:16:17.902Z,/cart,start,TRUE
+2025-05-26T12:16:22.071Z,/cart,stop,TRUE
+2025-05-26T12:16:22.071Z,/,start,TRUE
+2025-05-26T12:16:42.374Z,/,stop,TRUE
+2025-05-26T12:16:42.374Z,/product/Women/true/22714,start,TRUE
+2025-05-26T12:16:47.513Z,/product/Women/true/22714,stop,TRUE
+2025-05-26T12:16:47.513Z,/cart,start,TRUE
+2025-05-26T12:16:55.318Z,/cart,stop,TRUE
+2025-05-26T12:16:55.318Z,/,start,TRUE
+2025-05-26T12:17:28.988Z,/,stop,TRUE
+2025-05-26T12:17:28.988Z,/cart,start,TRUE
+2025-05-26T12:17:34.167Z,/cart,stop,TRUE
+2025-05-26T12:17:34.167Z,/,start,TRUE
+2025-05-26T12:17:43.027Z,/,stop,TRUE
+2025-05-26T12:17:43.027Z,/men,start,TRUE
+2025-05-26T12:18:10.461Z,/men,stop,TRUE
+2025-05-26T12:18:10.461Z,/cart,start,TRUE
+2025-05-26T12:18:13.112Z,/cart,stop,TRUE
+2025-05-26T12:18:13.112Z,/,start,TRUE
+2025-05-26T12:18:22.762Z,/,stop,TRUE
+2025-05-26T12:18:22.762Z,/product/Women/false/13386,start,TRUE
+2025-05-26T12:18:26.236Z,/product/Women/false/13386,stop,TRUE
+2025-05-26T12:18:26.236Z,/cart,start,TRUE
+2025-05-26T12:18:31.061Z,/cart,stop,TRUE
+2025-05-26T12:18:31.061Z,/,start,TRUE
+2025-05-26T12:18:48.745Z,/,stop,TRUE
+2025-05-26T12:18:48.745Z,/product/Women/false/30956,start,TRUE
+2025-05-26T12:18:55.604Z,/product/Women/false/30956,stop,TRUE
+2025-05-26T12:18:55.604Z,/cart,start,TRUE
+2025-05-26T12:19:18.967Z,/cart,stop,TRUE

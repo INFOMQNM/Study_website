@@ -102,7 +102,7 @@ function Home(props) {
           flex:1,
           // Use maxHeight plus overflowY for scrollable sidebar.
           maxHeight: '65vh',
-          overflowY: 'hidden',
+          overflowY: 'auto',
           margin: 0,
           padding: '2rem',
         }}

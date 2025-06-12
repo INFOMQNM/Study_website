@@ -1,0 +1,60 @@
+timestamp,componentName,action,control
+2025-05-26T13:33:24.044Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T13:33:24.044Z,personal_finances: Does this item fit in your budget?,start,False
+2025-05-26T13:33:24.044Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T13:33:24.044Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-05-26T13:33:24.044Z,practicality: Will you wear this item more than once a month?,start,False
+2025-05-26T13:33:24.112Z,/end,stop,False
+2025-05-26T13:33:24.112Z,/,start,False
+2025-05-26T13:33:26.006Z,/men,start,False
+2025-05-26T13:35:00.795Z,/men,stop,False
+2025-05-26T13:35:00.795Z,/product/Men/true/26134,start,False
+2025-05-26T13:35:03.674Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T13:35:05.494Z,John Miller Men Black Trousers,buy,False
+2025-05-26T13:35:05.494Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-26T13:35:10.090Z,/men,start,False
+2025-05-26T13:35:22.504Z,/men,stop,False
+2025-05-26T13:35:22.504Z,/product/Men/true/53628,start,False
+2025-05-26T13:35:23.276Z,Does this item fit in your budget?,start,False
+2025-05-26T13:35:24.210Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,False
+2025-05-26T13:35:24.210Z,Does this item fit in your budget?,stop,False
+2025-05-26T13:35:27.435Z,/men,start,False
+2025-05-26T13:35:36.598Z,/cart,start,False
+2025-05-26T13:35:39.328Z,/men,start,False
+2025-05-26T13:35:48.003Z,/men,stop,False
+2025-05-26T13:35:48.003Z,/product/Men/true/17152,start,False
+2025-05-26T13:35:49.517Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T13:35:50.606Z,U.S. Polo Assn. Men Solid Black Jacket,buy,False
+2025-05-26T13:35:50.606Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-26T13:35:52.553Z,/men,start,False
+2025-05-26T13:36:21.027Z,/cart,start,False
+2025-05-26T13:36:30.666Z,/men,start,False
+2025-05-26T13:37:12.060Z,/men,stop,False
+2025-05-26T13:37:12.060Z,/product/Men/false/22406,start,False
+2025-05-26T13:37:13.438Z,Does this purchase align with your environmental values?,start,False
+2025-05-26T13:37:14.239Z,Mark Taylor Men Purple Striped Shirt,buy,False
+2025-05-26T13:37:14.239Z,Does this purchase align with your environmental values?,stop,False
+2025-05-26T13:37:15.328Z,/cart,start,False
+2025-05-26T13:37:22.346Z,/men,start,False
+2025-05-26T13:37:38.275Z,/cart,start,False
+2025-05-26T13:37:40.934Z,/men,start,False
+2025-05-26T13:37:54.896Z,/men,stop,False
+2025-05-26T13:37:54.896Z,/product/Men/false/3647,start,False
+2025-05-26T13:37:55.661Z,Will you wear this item more than once a month?,start,False
+2025-05-26T13:37:56.389Z,Fila Men's Paramount White Navy Shoe,buy,False
+2025-05-26T13:37:56.389Z,Will you wear this item more than once a month?,stop,False
+2025-05-26T13:37:57.235Z,/cart,start,False
+2025-05-26T13:38:04.498Z,/men,start,False
+2025-05-26T13:38:27.013Z,/cart,start,False
+2025-05-26T13:38:41.501Z,/men,start,False
+2025-05-26T13:40:06.030Z,/men,stop,False
+2025-05-26T13:40:06.030Z,/product/Men/true/48956,start,False
+2025-05-26T13:40:06.803Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T13:40:07.601Z,Revv Men Steel Ring,buy,False
+2025-05-26T13:40:07.601Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-26T13:40:08.969Z,/men,start,False
+2025-05-26T13:40:10.249Z,/cart,start,False
+2025-05-26T13:40:19.122Z,/cart,stop,False
+2025-05-26T13:40:19.122Z,/end,start,False
+2025-05-26T13:40:33.315Z,/end,start,True
+2025-05-26T13:40:45.378Z,/end,stop,True

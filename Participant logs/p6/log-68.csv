@@ -1,0 +1,37 @@
+timestamp,componentName,action,control
+2025-05-27T09:46:06.243Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-27T09:46:06.243Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-27T09:46:06.243Z,practicality: Will you wear this item more than once a month?,start,True
+2025-05-27T09:46:06.243Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-05-27T09:46:06.243Z,personal_finances: Are you sure you are not overspending on this purchase?,start,True
+2025-05-27T09:46:06.305Z,/end,stop,True
+2025-05-27T09:46:06.305Z,/,start,True
+2025-05-27T09:46:32.208Z,/,stop,True
+2025-05-27T09:46:32.208Z,/product/Women/true/27891,start,True
+2025-05-27T09:46:33.634Z,Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-27T09:46:35.466Z,Are you sure you are not buying this just because you saw it on social media?,stop,True
+2025-05-27T09:46:37.263Z,/,start,True
+2025-05-27T09:46:48.177Z,/,stop,True
+2025-05-27T09:46:48.177Z,/product/Women/true/12532,start,True
+2025-05-27T09:46:49.868Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-27T09:46:50.996Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-27T09:46:53.735Z,/,start,True
+2025-05-27T09:47:10.011Z,/,stop,True
+2025-05-27T09:47:10.011Z,/product/Women/true/52193,start,True
+2025-05-27T09:47:12.150Z,Will you wear this item more than once a month?,start,True
+2025-05-27T09:47:13.641Z,Will you wear this item more than once a month?,stop,True
+2025-05-27T09:47:14.841Z,/,start,True
+2025-05-27T09:47:28.327Z,/,stop,True
+2025-05-27T09:47:28.327Z,/product/Women/false/48496,start,True
+2025-05-27T09:47:29.461Z,Does this purchase align with your environmental values?,start,True
+2025-05-27T09:47:30.988Z,Does this purchase align with your environmental values?,stop,True
+2025-05-27T09:47:32.264Z,/cart,start,True
+2025-05-27T09:47:35.618Z,/,start,True
+2025-05-27T09:47:48.300Z,/,stop,True
+2025-05-27T09:47:48.300Z,/product/Women/true/22714,start,True
+2025-05-27T09:47:49.434Z,Are you sure you are not overspending on this purchase?,start,True
+2025-05-27T09:47:50.454Z,Are you sure you are not overspending on this purchase?,stop,True
+2025-05-27T09:47:51.255Z,/cart,start,True
+2025-05-27T09:47:56.626Z,/cart,stop,True
+2025-05-27T09:47:56.626Z,/end,start,True
+2025-05-27T09:49:42.604Z,/end,stop,True

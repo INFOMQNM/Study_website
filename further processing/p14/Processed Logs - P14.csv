@@ -1,0 +1,101 @@
+timestamp,componentName,action,control
+2025-06-02T21:26:28.796Z,/,start,FALSE
+2025-06-02T21:26:49.729Z,/,stop,FALSE
+2025-06-02T21:26:49.729Z,/men,start,FALSE
+2025-06-02T21:28:06.478Z,/men,stop,FALSE
+2025-06-02T21:28:06.478Z,/product/Men/false/54514,start,FALSE
+2025-06-02T21:28:08.473Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-02T21:28:10.079Z,F Sports Men White Rodeo Shoes,buy,FALSE
+2025-06-02T21:28:10.079Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-02T21:28:15.865Z,/product/Men/false/54514,stop,FALSE
+2025-06-02T21:28:15.865Z,/men,start,FALSE
+2025-06-02T21:30:44.754Z,/men,stop,FALSE
+2025-06-02T21:30:44.754Z,/product/Men/false/48457,start,FALSE
+2025-06-02T21:30:45.983Z,Does this item fit in your budget?,start,FALSE
+2025-06-02T21:30:50.820Z,French Connection Men Multi Coloured Cargo Shorts,buy,FALSE
+2025-06-02T21:30:50.820Z,Does this item fit in your budget?,stop,FALSE
+2025-06-02T21:30:55.255Z,/product/Men/false/48457,stop,FALSE
+2025-06-02T21:30:55.255Z,/men,start,FALSE
+2025-06-02T21:31:49.983Z,/men,stop,FALSE
+2025-06-02T21:31:49.983Z,/product/Men/true/38560,start,FALSE
+2025-06-02T21:31:55.139Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-02T21:32:18.224Z,Nike Men Black Cap,buy,FALSE
+2025-06-02T21:32:18.224Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-02T21:32:20.793Z,/product/Men/true/38560,stop,FALSE
+2025-06-02T21:32:20.793Z,/men,start,FALSE
+2025-06-02T21:32:48.615Z,/men,stop,FALSE
+2025-06-02T21:32:48.615Z,/product/Men/true/48575,start,FALSE
+2025-06-02T21:32:50.205Z,Is this item produced sustainably?,start,FALSE
+2025-06-02T21:32:51.370Z,Revv Men Steel Bracelet,buy,FALSE
+2025-06-02T21:32:51.370Z,Is this item produced sustainably?,stop,FALSE
+2025-06-02T21:32:54.982Z,/product/Men/true/48575,stop,FALSE
+2025-06-02T21:32:54.982Z,/men,start,FALSE
+2025-06-02T21:33:06.703Z,/men,stop,FALSE
+2025-06-02T21:33:06.703Z,/cart,start,FALSE
+2025-06-02T21:33:10.865Z,/cart,stop,FALSE
+2025-06-02T21:33:10.865Z,/men,start,FALSE
+2025-06-02T21:33:49.909Z,/men,stop,FALSE
+2025-06-02T21:33:49.909Z,/product/Men/true/17152,start,FALSE
+2025-06-02T21:33:52.321Z,Will you wear this item more than 10 times?,start,FALSE
+2025-06-02T21:33:58.581Z,U.S. Polo Assn. Men Solid Black Jacket,buy,FALSE
+2025-06-02T21:33:58.581Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-06-02T21:34:01.073Z,/product/Men/true/17152,stop,FALSE
+2025-06-02T21:34:01.073Z,/men,start,FALSE
+2025-06-02T21:34:09.871Z,/men,stop,FALSE
+2025-06-02T21:34:09.871Z,/cart,start,FALSE
+2025-06-02T21:34:18.206Z,/cart,stop,FALSE
+2025-06-02T21:34:18.206Z,/men,start,FALSE
+2025-06-02T21:34:41.410Z,/men,stop,FALSE
+2025-06-02T21:34:41.410Z,/product/Men/true/48950,start,FALSE
+2025-06-02T21:34:42.675Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-02T21:34:43.615Z,Revv Men Steel Ring,buy,FALSE
+2025-06-02T21:34:43.615Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-02T21:34:48.908Z,/product/Men/true/48950,stop,FALSE
+2025-06-02T21:34:48.908Z,/cart,start,FALSE
+2025-06-02T21:35:08.325Z,/cart,stop,FALSE
+2025-06-02T21:35:08.325Z,/men,start,FALSE
+2025-06-02T21:35:09.515Z,/men,stop,FALSE
+2025-06-02T21:35:09.515Z,/cart,start,FALSE
+2025-06-02T21:35:30.648Z,/cart,stop,FALSE
+2025-06-02T21:35:30.648Z,/men,start,FALSE
+2025-06-02T21:35:41.920Z,/men,start,FALSE
+2025-06-02T21:35:43.671Z,/cart,start,FALSE
+2025-06-02T21:35:55.203Z,/cart,stop,FALSE
+2025-06-02T21:39:47.016Z,/,start,TRUE
+2025-06-02T21:39:51.316Z,/,stop,TRUE
+2025-06-02T21:39:51.316Z,/men,start,TRUE
+2025-06-02T21:40:21.550Z,/men,stop,TRUE
+2025-06-02T21:40:21.550Z,/product/Men/true/24770,start,TRUE
+2025-06-02T21:40:34.048Z,/product/Men/true/24770,stop,TRUE
+2025-06-02T21:40:34.048Z,/men,start,TRUE
+2025-06-02T21:41:01.725Z,/men,stop,TRUE
+2025-06-02T21:41:01.725Z,/product/Men/true/42598,start,TRUE
+2025-06-02T21:41:09.244Z,/product/Men/true/42598,stop,TRUE
+2025-06-02T21:41:09.244Z,/men,start,TRUE
+2025-06-02T21:41:46.859Z,/men,stop,TRUE
+2025-06-02T21:41:46.859Z,/product/Men/true/44919,start,TRUE
+2025-06-02T21:41:50.620Z,/product/Men/true/44919,stop,TRUE
+2025-06-02T21:41:50.620Z,/men,start,TRUE
+2025-06-02T21:42:13.457Z,/men,stop,TRUE
+2025-06-02T21:42:13.457Z,/product/Men/true/38560,start,TRUE
+2025-06-02T21:42:18.219Z,/product/Men/true/38560,stop,TRUE
+2025-06-02T21:42:18.219Z,/men,start,TRUE
+2025-06-02T21:42:27.836Z,/men,stop,TRUE
+2025-06-02T21:42:27.836Z,/cart,start,TRUE
+2025-06-02T21:42:29.776Z,/cart,stop,TRUE
+2025-06-02T21:42:29.776Z,/men,start,TRUE
+2025-06-02T21:43:11.226Z,/men,stop,TRUE
+2025-06-02T21:43:11.226Z,/product/Men/true/48563,start,TRUE
+2025-06-02T21:43:15.014Z,/product/Men/true/48563,stop,TRUE
+2025-06-02T21:43:15.014Z,/men,start,TRUE
+2025-06-02T21:43:36.093Z,/men,stop,TRUE
+2025-06-02T21:43:37.601Z,/cart,start,TRUE
+2025-06-02T21:43:42.144Z,/cart,stop,TRUE
+2025-06-02T21:43:42.144Z,/men,start,TRUE
+2025-06-02T21:43:43.825Z,/men,stop,TRUE
+2025-06-02T21:43:43.825Z,/cart,start,TRUE
+2025-06-02T21:43:46.039Z,/cart,stop,TRUE
+2025-06-02T21:43:46.039Z,/men,start,TRUE
+2025-06-02T21:44:36.451Z,/men,start,TRUE
+2025-06-02T21:44:38.235Z,/cart,start,TRUE
+2025-06-02T21:45:01.462Z,/cart,stop,TRUE

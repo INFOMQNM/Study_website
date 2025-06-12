@@ -1,0 +1,98 @@
+timestamp,componentName,action,control
+2025-05-26T13:33:24.112Z,/,start,FALSE
+2025-05-26T13:33:26.006Z,/,stop,FALSE
+2025-05-26T13:33:26.006Z,/men,start,FALSE
+2025-05-26T13:35:00.795Z,/men,stop,FALSE
+2025-05-26T13:35:00.795Z,/product/Men/true/26134,start,FALSE
+2025-05-26T13:35:03.674Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-26T13:35:05.494Z,John Miller Men Black Trousers,buy,FALSE
+2025-05-26T13:35:05.494Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-26T13:35:10.090Z,/product/Men/true/26134,stop,FALSE
+2025-05-26T13:35:10.090Z,/men,start,FALSE
+2025-05-26T13:35:22.504Z,/men,stop,FALSE
+2025-05-26T13:35:22.504Z,/product/Men/true/53628,start,FALSE
+2025-05-26T13:35:23.276Z,Does this item fit in your budget?,start,FALSE
+2025-05-26T13:35:24.210Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,FALSE
+2025-05-26T13:35:24.210Z,Does this item fit in your budget?,stop,FALSE
+2025-05-26T13:35:27.435Z,/product/Men/true/53628,stop,FALSE
+2025-05-26T13:35:27.435Z,/men,start,FALSE
+2025-05-26T13:35:36.598Z,/men,stop,FALSE
+2025-05-26T13:35:36.598Z,/cart,start,FALSE
+2025-05-26T13:35:39.328Z,/cart,stop,FALSE
+2025-05-26T13:35:39.328Z,/men,start,FALSE
+2025-05-26T13:35:48.003Z,/men,stop,FALSE
+2025-05-26T13:35:48.003Z,/product/Men/true/17152,start,FALSE
+2025-05-26T13:35:49.517Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-26T13:35:50.606Z,U.S. Polo Assn. Men Solid Black Jacket,buy,FALSE
+2025-05-26T13:35:50.606Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-26T13:35:52.553Z,/product/Men/true/17152,stop,FALSE
+2025-05-26T13:35:52.553Z,/men,start,FALSE
+2025-05-26T13:36:21.027Z,/men,stop,FALSE
+2025-05-26T13:36:21.027Z,/cart,start,FALSE
+2025-05-26T13:36:30.666Z,/cart,stop,FALSE
+2025-05-26T13:36:30.666Z,/men,start,FALSE
+2025-05-26T13:37:12.060Z,/men,stop,FALSE
+2025-05-26T13:37:12.060Z,/product/Men/false/22406,start,FALSE
+2025-05-26T13:37:13.438Z,Does this purchase align with your environmental values?,start,FALSE
+2025-05-26T13:37:14.239Z,Mark Taylor Men Purple Striped Shirt,buy,FALSE
+2025-05-26T13:37:14.239Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-05-26T13:37:15.328Z,/product/Men/false/22406,stop,FALSE
+2025-05-26T13:37:15.328Z,/cart,start,FALSE
+2025-05-26T13:37:22.346Z,/men,start,FALSE
+2025-05-26T13:37:38.275Z,/men,stop,FALSE
+2025-05-26T13:37:38.275Z,/cart,start,FALSE
+2025-05-26T13:37:40.934Z,/cart,stop,FALSE
+2025-05-26T13:37:40.934Z,/men,start,FALSE
+2025-05-26T13:37:54.896Z,/men,stop,FALSE
+2025-05-26T13:37:54.896Z,/product/Men/false/3647,start,FALSE
+2025-05-26T13:37:55.661Z,Will you wear this item more than once a month?,start,FALSE
+2025-05-26T13:37:56.389Z,Fila Men's Paramount White Navy Shoe,buy,FALSE
+2025-05-26T13:37:56.389Z,Will you wear this item more than once a month?,stop,FALSE
+2025-05-26T13:37:57.235Z,/product/Men/false/3647,stop,FALSE
+2025-05-26T13:37:57.235Z,/cart,start,FALSE
+2025-05-26T13:38:04.498Z,/cart,stop,FALSE
+2025-05-26T13:38:04.498Z,/men,start,FALSE
+2025-05-26T13:38:27.013Z,/men,stop,FALSE
+2025-05-26T13:38:27.013Z,/cart,start,FALSE
+2025-05-26T13:38:41.501Z,/cart,stop,FALSE
+2025-05-26T13:38:41.501Z,/men,start,FALSE
+2025-05-26T13:40:06.030Z,/men,stop,FALSE
+2025-05-26T13:40:06.030Z,/product/Men/true/48956,start,FALSE
+2025-05-26T13:40:06.803Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-26T13:40:07.601Z,Revv Men Steel Ring,buy,FALSE
+2025-05-26T13:40:07.601Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-26T13:40:08.969Z,/product/Men/true/48956,stop,FALSE
+2025-05-26T13:40:08.969Z,/men,start,FALSE
+2025-05-26T13:40:10.249Z,/men,stop,FALSE
+2025-05-26T13:40:10.249Z,/cart,start,FALSE
+2025-05-26T13:40:19.122Z,/cart,stop,FALSE
+2025-05-26T13:41:56.340Z,/,start,TRUE
+2025-05-26T13:41:59.595Z,/,stop,TRUE
+2025-05-26T13:41:59.595Z,/men,start,TRUE
+2025-05-26T13:42:11.962Z,/men,stop,TRUE
+2025-05-26T13:42:11.963Z,/product/Men/false/44230,start,TRUE
+2025-05-26T13:42:17.509Z,/product/Men/false/44230,stop,TRUE
+2025-05-26T13:42:17.509Z,/men,start,TRUE
+2025-05-26T13:42:50.112Z,/men,stop,TRUE
+2025-05-26T13:42:50.112Z,/product/Men/false/25021,start,TRUE
+2025-05-26T13:42:53.098Z,/product/Men/false/25021,stop,TRUE
+2025-05-26T13:42:53.098Z,/men,start,TRUE
+2025-05-26T13:42:55.405Z,/men,stop,TRUE
+2025-05-26T13:42:55.405Z,/cart,start,TRUE
+2025-05-26T13:42:59.706Z,/cart,stop,TRUE
+2025-05-26T13:42:59.706Z,/men,start,TRUE
+2025-05-26T13:43:16.845Z,/men,stop,TRUE
+2025-05-26T13:43:16.845Z,/product/Men/false/29848,start,TRUE
+2025-05-26T13:43:19.923Z,/product/Men/false/29848,stop,TRUE
+2025-05-26T13:43:19.923Z,/men,start,TRUE
+2025-05-26T13:43:22.368Z,/men,stop,TRUE
+2025-05-26T13:43:22.368Z,/cart,start,TRUE
+2025-05-26T13:43:26.677Z,/cart,stop,TRUE
+2025-05-26T13:43:26.677Z,/men,start,TRUE
+2025-05-26T13:43:51.292Z,/men,stop,TRUE
+2025-05-26T13:43:51.292Z,/product/Men/true/53628,start,TRUE
+2025-05-26T13:43:54.759Z,/product/Men/true/53628,stop,TRUE
+2025-05-26T13:43:54.759Z,/men,start,TRUE
+2025-05-26T13:43:56.236Z,/men,stop,TRUE
+2025-05-26T13:43:56.236Z,/cart,start,TRUE
+2025-05-26T13:44:04.415Z,/cart,stop,TRUE

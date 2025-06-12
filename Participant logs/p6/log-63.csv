@@ -1,0 +1,59 @@
+timestamp,componentName,action,control
+2025-05-27T09:36:04.936Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T09:36:04.936Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-05-27T09:36:04.936Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-27T09:36:04.936Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-05-27T09:36:04.936Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-27T09:36:05.040Z,/end,stop,False
+2025-05-27T09:36:05.040Z,/,start,False
+2025-05-27T09:36:41.677Z,/,stop,False
+2025-05-27T09:36:41.677Z,/product/Women/false/27863,start,False
+2025-05-27T09:36:43.445Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T09:36:44.886Z,Scullers For Her Printed Purple Shirt,buy,False
+2025-05-27T09:36:44.887Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-27T09:36:49.493Z,/,start,False
+2025-05-27T09:37:08.875Z,/,stop,False
+2025-05-27T09:37:08.875Z,/product/Women/true/27905,start,False
+2025-05-27T09:37:11.052Z,/,start,False
+2025-05-27T09:37:12.040Z,/,start,False
+2025-05-27T09:37:20.302Z,/cart,start,False
+2025-05-27T09:37:22.757Z,/,start,False
+2025-05-27T09:37:23.694Z,/,start,False
+2025-05-27T09:37:38.767Z,/,stop,False
+2025-05-27T09:37:38.767Z,/product/Women/true/43523,start,False
+2025-05-27T09:37:40.378Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-27T09:37:41.412Z,French Connection Women Beige Trousers,buy,False
+2025-05-27T09:37:41.412Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-27T09:37:43.502Z,/,start,False
+2025-05-27T09:38:54.297Z,/,stop,False
+2025-05-27T09:38:54.297Z,/product/Women/false/32585,start,False
+2025-05-27T09:38:56.606Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-27T09:38:59.104Z,Only  Women Black Trousers,buy,False
+2025-05-27T09:38:59.104Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-05-27T09:39:00.662Z,/,start,False
+2025-05-27T09:39:55.357Z,/cart,start,False
+2025-05-27T09:40:08.307Z,/,start,False
+2025-05-27T09:40:17.288Z,/,stop,False
+2025-05-27T09:40:17.288Z,/product/Women/true/49041,start,False
+2025-05-27T09:40:18.592Z,Will you wear this item more than 10 times?,start,False
+2025-05-27T09:40:19.474Z,Lucera Women Silver Ring,buy,False
+2025-05-27T09:40:19.474Z,Will you wear this item more than 10 times?,stop,False
+2025-05-27T09:40:20.400Z,/,start,False
+2025-05-27T09:40:43.785Z,/,stop,False
+2025-05-27T09:40:43.786Z,/product/Women/false/20755,start,False
+2025-05-27T09:40:45.045Z,Is this item produced sustainably?,start,False
+2025-05-27T09:40:46.353Z,Carlton London Women Peep Toe Denim Blue Casual shoes,buy,False
+2025-05-27T09:40:46.353Z,Is this item produced sustainably?,stop,False
+2025-05-27T09:40:47.670Z,/,start,False
+2025-05-27T09:41:22.092Z,/,stop,False
+2025-05-27T09:41:22.092Z,/product/Women/true/52193,start,False
+2025-05-27T09:41:23.381Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T09:41:24.428Z,Lencia Sterling Silver Earrings,buy,False
+2025-05-27T09:41:24.429Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-27T09:41:25.828Z,/cart,start,False
+2025-05-27T09:41:30.243Z,/,start,False
+2025-05-27T09:42:10.453Z,/cart,start,False
+2025-05-27T09:42:12.401Z,/cart,stop,False
+2025-05-27T09:42:12.401Z,/end,start,False
+2025-05-27T09:44:02.420Z,/end,start,True
+2025-05-27T09:44:07.732Z,/end,stop,True

@@ -1,0 +1,401 @@
+[
+  {
+    "timestamp": "2025-05-27T09:43:47.199Z",
+    "componentName": [
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:43:47.272Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:43:47.272Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:10.745Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:10.745Z",
+    "componentName": "/product/Women/false/19012",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:12.358Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:16.014Z",
+    "componentName": "ADIDAS Originals Women Supergirl TT Pink Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:16.014Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:20.354Z",
+    "componentName": "/product/Women/false/19012",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:20.355Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:48.268Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:48.268Z",
+    "componentName": "/product/Women/false/32585",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:49.556Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:53.978Z",
+    "componentName": "Only  Women Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:53.978Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:59.046Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:13.641Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:13.641Z",
+    "componentName": "/product/Women/true/46087",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:14.595Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:23.844Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:25.465Z",
+    "componentName": "/product/Women/true/46087",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:25.465Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:37.181Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:37.181Z",
+    "componentName": "/product/Women/true/18964",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:42.820Z",
+    "componentName": "/product/Women/true/18964",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:42.820Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:50.545Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:50.545Z",
+    "componentName": "/product/Women/true/34756",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:51.775Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:52.968Z",
+    "componentName": "Puma Women Aurora Blue Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:52.968Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:45:53.986Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:16.007Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:26.453Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:26.453Z",
+    "componentName": "/product/Women/true/34756",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:27.528Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:28.762Z",
+    "componentName": "Puma Women Aurora Blue Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:28.763Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:31.501Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:39.935Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:39.935Z",
+    "componentName": "/product/Women/true/49005",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:40.761Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:41.917Z",
+    "componentName": "Lucera Women Silver Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:41.917Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:46:44.273Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:04.237Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:04.238Z",
+    "componentName": "/product/Women/true/48569",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:05.392Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:06.629Z",
+    "componentName": "Lucera Women Black & Silver Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:06.629Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:08.858Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:15.830Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:47:15.830Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T10:19:28.564Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:29.055Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:47.979Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:47.980Z",
+    "componentName": "/product/Women/true/30002",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:49.159Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:51.393Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:19:58.118Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:20:21.095Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:20:21.095Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:20:24.159Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

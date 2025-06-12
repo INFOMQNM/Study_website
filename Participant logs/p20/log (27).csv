@@ -1,0 +1,49 @@
+timestamp,componentName,action,control
+2025-06-07T12:54:46.437Z,personal_finances: Does this item fit in your budget?,start,True
+2025-06-07T12:54:46.437Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:54:46.437Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-06-07T12:54:46.437Z,long_term: Will this purchase bring you long-term satisfaction?,start,True
+2025-06-07T12:54:46.437Z,practicality: Will you wear this item more than 10 times?,start,True
+2025-06-07T12:54:46.781Z,/end,stop,True
+2025-06-07T12:54:46.781Z,/,start,True
+2025-06-07T12:54:59.162Z,/,start,True
+2025-06-07T12:55:10.235Z,/,stop,True
+2025-06-07T12:55:10.235Z,/product/Women/false/26905,start,True
+2025-06-07T12:55:12.680Z,Does this item fit in your budget?,start,True
+2025-06-07T12:55:14.530Z,Does this item fit in your budget?,stop,True
+2025-06-07T12:55:18.026Z,/,start,True
+2025-06-07T12:55:36.897Z,/,stop,True
+2025-06-07T12:55:36.898Z,/product/Women/true/12536,start,True
+2025-06-07T12:55:39.161Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:55:41.172Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-07T12:55:42.981Z,/,start,True
+2025-06-07T12:56:02.546Z,/,stop,True
+2025-06-07T12:56:02.546Z,/product/Women/true/57095,start,True
+2025-06-07T12:56:03.593Z,Does this purchase align with your environmental values?,start,True
+2025-06-07T12:56:04.962Z,Does this purchase align with your environmental values?,stop,True
+2025-06-07T12:56:06.821Z,/,start,True
+2025-06-07T12:56:24.114Z,/,stop,True
+2025-06-07T12:56:24.114Z,/product/Women/true/2589,start,True
+2025-06-07T12:56:25.301Z,Will this purchase bring you long-term satisfaction?,start,True
+2025-06-07T12:56:26.580Z,Will this purchase bring you long-term satisfaction?,stop,True
+2025-06-07T12:56:27.942Z,/cart,start,True
+2025-06-07T12:56:33.076Z,/,start,True
+2025-06-07T12:56:56.931Z,/,stop,True
+2025-06-07T12:56:56.931Z,/product/Women/true/34756,start,True
+2025-06-07T12:56:57.808Z,Will you wear this item more than 10 times?,start,True
+2025-06-07T12:56:58.979Z,Will you wear this item more than 10 times?,stop,True
+2025-06-07T12:57:01.391Z,/,start,True
+2025-06-07T12:57:25.220Z,/,stop,True
+2025-06-07T12:57:25.220Z,/product/Women/false/59777,start,True
+2025-06-07T12:57:26.566Z,Does this item fit in your budget?,start,True
+2025-06-07T12:57:27.692Z,Does this item fit in your budget?,stop,True
+2025-06-07T12:57:30.110Z,/,start,True
+2025-06-07T12:58:00.381Z,/,stop,True
+2025-06-07T12:58:00.381Z,/product/Women/false/21693,start,True
+2025-06-07T12:58:02.029Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:58:03.242Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-07T12:58:06.738Z,/,start,True
+2025-06-07T12:58:12.428Z,/cart,start,True
+2025-06-07T12:58:16.700Z,/cart,stop,True
+2025-06-07T12:58:16.700Z,/end,start,True
+2025-06-07T12:58:20.194Z,/end,stop,True

@@ -1,0 +1,293 @@
+[
+  {
+    "timestamp": "2025-06-07T12:41:48.073Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:41:48.345Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:41:48.346Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:41:58.438Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:05.615Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:05.615Z",
+    "componentName": "/product/Women/true/10498",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:08.577Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:13.861Z",
+    "componentName": "Flying Machine Women RN Blue Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:13.861Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:18.614Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:25.066Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:40.079Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:40.079Z",
+    "componentName": "/product/Women/true/43523",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:41.421Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:45.069Z",
+    "componentName": "French Connection Women Beige Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:45.069Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:42:47.536Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:07.307Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:07.307Z",
+    "componentName": "/product/Women/false/44237",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:09.048Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:10.854Z",
+    "componentName": "Nike Women White and Green Sneakers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:10.854Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:14.957Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:34.507Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:34.507Z",
+    "componentName": "/product/Women/false/22314",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:36.395Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:40.092Z",
+    "componentName": "Wildcraft Women Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:40.093Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:42.923Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:56.991Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:56.991Z",
+    "componentName": "/product/Women/true/56320",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:43:57.822Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:00.196Z",
+    "componentName": "Fastrack Women Steel Dial Watch",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:00.196Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:04.321Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:10.024Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:10.024Z",
+    "componentName": "/product/Women/true/49005",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:12.559Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:14.529Z",
+    "componentName": "Lucera Women Silver Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:14.529Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:17.656Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:19.824Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:30.459Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:30.459Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:44:38.354Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

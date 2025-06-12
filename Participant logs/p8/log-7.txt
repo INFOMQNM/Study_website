@@ -1,0 +1,323 @@
+[
+  {
+    "timestamp": "2025-05-27T13:54:49.465Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:54:49.546Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:54:49.547Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:55:27.168Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:55:59.504Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:55:59.505Z",
+    "componentName": "/product/Men/false/6609",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:56:00.580Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:56:28.822Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:56:40.568Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:30.364Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:30.364Z",
+    "componentName": "/product/Men/true/44919",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:31.183Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:40.041Z",
+    "componentName": "Puma Men Black Shorts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:40.041Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:57:42.448Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:06.609Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:19.960Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:19.961Z",
+    "componentName": "/product/Men/true/38560",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:21.129Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:38.565Z",
+    "componentName": "Nike Men Black Cap",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:38.566Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:58:44.963Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:03.683Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:03.683Z",
+    "componentName": "/product/Men/true/25447",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:06.817Z",
+    "componentName": "/product/Men/true/25447",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:06.817Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:51.391Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:51.391Z",
+    "componentName": "/product/Men/false/54514",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T13:59:52.392Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:00.519Z",
+    "componentName": "F Sports Men White Rodeo Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:00.519Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:03.090Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:05.558Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:08.084Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:13.420Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:13.421Z",
+    "componentName": "/product/Men/false/6609",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:14.091Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:41.631Z",
+    "componentName": "Spykar Men's Stripes White Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:41.632Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:43.547Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:00:54.635Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:29.517Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:29.518Z",
+    "componentName": "/product/Men/true/24288",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:31.226Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:36.681Z",
+    "componentName": "Quiksilver Men Grey Sweatshirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:36.681Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:38.313Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:43.690Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:43.690Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T14:01:46.036Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

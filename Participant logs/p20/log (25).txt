@@ -1,0 +1,269 @@
+[
+  {
+    "timestamp": "2025-06-07T12:49:13.519Z",
+    "componentName": [
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:13.854Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:13.854Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:27.100Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:31.228Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:31.228Z",
+    "componentName": "/product/Women/true/14717",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:34.409Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:39.470Z",
+    "componentName": "Jealous 21 Women Casual Top Black Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:39.470Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:49:42.492Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:17.143Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:17.143Z",
+    "componentName": "/product/Women/false/32585",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:20.412Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:23.334Z",
+    "componentName": "Only  Women Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:23.334Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:25.758Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:35.158Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:35.159Z",
+    "componentName": "/product/Women/false/58519",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:37.001Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:39.193Z",
+    "componentName": "Tonga Women Grey Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:39.194Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:50:41.591Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:02.407Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:02.407Z",
+    "componentName": "/product/Women/true/22714",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:03.647Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:04.914Z",
+    "componentName": "Nike Women Dunk High Skinny Olive Casual Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:04.914Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:09.587Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:11.207Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:17.700Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:27.545Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:27.546Z",
+    "componentName": "/product/Women/true/6880",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:29.467Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:31.022Z",
+    "componentName": "Forever New Women Long Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:31.022Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:35.196Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:51:42.619Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:52:11.784Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:52:18.867Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:52:18.867Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-07T12:52:24.303Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

@@ -1,0 +1,39 @@
+timestamp,componentName,action,control
+2025-05-26T13:46:36.127Z,personal_finances: Does this item fit in your budget?,start,True
+2025-05-26T13:46:36.127Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-05-26T13:46:36.127Z,long_term: Will this purchase bring you long-term satisfaction?,start,True
+2025-05-26T13:46:36.127Z,practicality: Will you wear this item more than once a month?,start,True
+2025-05-26T13:46:36.127Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-26T13:46:36.193Z,/end,stop,True
+2025-05-26T13:46:36.193Z,/,start,True
+2025-05-26T13:46:53.536Z,/men,start,True
+2025-05-26T13:47:14.263Z,/men,stop,True
+2025-05-26T13:47:14.263Z,/product/Men/true/53628,start,True
+2025-05-26T13:47:15.681Z,Does this item fit in your budget?,start,True
+2025-05-26T13:47:17.385Z,Does this item fit in your budget?,stop,True
+2025-05-26T13:47:23.118Z,/men,start,True
+2025-05-26T13:48:00.318Z,/men,stop,True
+2025-05-26T13:48:00.318Z,/product/Men/true/17152,start,True
+2025-05-26T13:48:02.114Z,Does this purchase align with your environmental values?,start,True
+2025-05-26T13:48:04.031Z,Does this purchase align with your environmental values?,stop,True
+2025-05-26T13:48:04.933Z,/men,start,True
+2025-05-26T13:48:25.742Z,/men,stop,True
+2025-05-26T13:48:25.743Z,/product/Men/true/25447,start,True
+2025-05-26T13:48:26.894Z,Will this purchase bring you long-term satisfaction?,start,True
+2025-05-26T13:48:28.709Z,Will this purchase bring you long-term satisfaction?,stop,True
+2025-05-26T13:48:29.781Z,/men,start,True
+2025-05-26T13:48:50.859Z,/men,stop,True
+2025-05-26T13:48:50.860Z,/product/Men/false/29848,start,True
+2025-05-26T13:48:52.418Z,Will you wear this item more than once a month?,start,True
+2025-05-26T13:48:55.776Z,Will you wear this item more than once a month?,stop,True
+2025-05-26T13:48:56.890Z,/cart,start,True
+2025-05-26T13:49:03.524Z,/men,start,True
+2025-05-26T13:49:52.736Z,/men,stop,True
+2025-05-26T13:49:52.736Z,/product/Men/true/18207,start,True
+2025-05-26T13:49:54.274Z,Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-26T13:49:56.522Z,Are you sure you are not buying this just because you saw it on social media?,stop,True
+2025-05-26T13:49:58.020Z,/cart,start,True
+2025-05-26T13:50:15.319Z,/cart,stop,True
+2025-05-26T13:50:15.319Z,/end,start,True
+2025-05-26T13:50:26.564Z,/end,start,False
+2025-05-26T13:50:30.182Z,/end,stop,False

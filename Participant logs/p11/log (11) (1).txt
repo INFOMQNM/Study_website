@@ -1,0 +1,299 @@
+[
+  {
+    "timestamp": "2025-06-01T14:43:26.424Z",
+    "componentName": [
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:26.920Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:26.920Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:30.116Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:32.783Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:39.211Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:39.212Z",
+    "componentName": "/product/Women/true/14717",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:40.897Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:47.556Z",
+    "componentName": "Jealous 21 Women Casual Top Black Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:47.556Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:43:52.455Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:06.872Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:06.872Z",
+    "componentName": "/product/Women/true/57095",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:09.480Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:13.714Z",
+    "componentName": "Elle Women Black Culottes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:13.715Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:16.863Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:47.186Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:47.187Z",
+    "componentName": "/product/Women/true/34756",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:48.774Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:57.425Z",
+    "componentName": "Puma Women Aurora Blue Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:44:57.425Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:03.707Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:21.163Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:21.163Z",
+    "componentName": "/product/Women/true/52193",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:22.501Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:25.981Z",
+    "componentName": "Lencia Sterling Silver Earrings",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:25.981Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:30.185Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:32.190Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:44.609Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:44.609Z",
+    "componentName": "/product/Women/false/59777",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:46.050Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:49.839Z",
+    "componentName": "Estelle Women Gold Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:49.839Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:45:55.555Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:01.689Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:01.690Z",
+    "componentName": "/product/Women/true/30002",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:04.206Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:06.497Z",
+    "componentName": "Aspen Women White Dial Watch",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:06.498Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:10.546Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:45.779Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:52.108Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T14:46:52.108Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:07:08.466Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

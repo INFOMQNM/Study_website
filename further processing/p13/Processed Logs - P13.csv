@@ -1,0 +1,114 @@
+timestamp,componentName,action,control
+2025-06-01T15:47:45.538Z,/,start,TRUE
+2025-06-01T15:48:07.369Z,/,stop,TRUE
+2025-06-01T15:48:07.369Z,/cart,start,TRUE
+2025-06-01T15:48:08.602Z,/cart,stop,TRUE
+2025-06-01T15:48:08.602Z,/,start,TRUE
+2025-06-01T15:48:15.734Z,/,stop,TRUE
+2025-06-01T15:48:15.734Z,/product/Women/true/27891,start,TRUE
+2025-06-01T15:48:22.777Z,/product/Women/true/27891,stop,TRUE
+2025-06-01T15:48:22.777Z,/,start,TRUE
+2025-06-01T15:48:26.233Z,/,stop,TRUE
+2025-06-01T15:48:26.233Z,/product/Women/true/10135,start,TRUE
+2025-06-01T15:48:33.484Z,/product/Women/true/10135,stop,TRUE
+2025-06-01T15:48:33.484Z,/,start,TRUE
+2025-06-01T15:48:47.461Z,/,stop,TRUE
+2025-06-01T15:48:47.461Z,/product/Women/false/15504,start,TRUE
+2025-06-01T15:48:52.467Z,/product/Women/false/15504,stop,TRUE
+2025-06-01T15:48:52.467Z,/,start,TRUE
+2025-06-01T15:49:30.729Z,/,stop,TRUE
+2025-06-01T15:49:30.729Z,/product/Women/true/27905,start,TRUE
+2025-06-01T15:49:36.899Z,/product/Women/true/27905,stop,TRUE
+2025-06-01T15:49:36.899Z,/cart,start,TRUE
+2025-06-01T15:49:43.345Z,/cart,stop,TRUE
+2025-06-01T15:49:43.345Z,/,start,TRUE
+2025-06-01T15:49:54.247Z,/,stop,TRUE
+2025-06-01T15:49:54.247Z,/product/Women/true/49041,start,TRUE
+2025-06-01T15:49:58.401Z,/product/Women/true/49041,stop,TRUE
+2025-06-01T15:49:58.401Z,/,start,TRUE
+2025-06-01T15:50:18.360Z,/,stop,TRUE
+2025-06-01T15:50:18.360Z,/product/Women/true/6880,start,TRUE
+2025-06-01T15:50:24.775Z,/product/Women/true/6880,stop,TRUE
+2025-06-01T15:50:24.775Z,/,start,TRUE
+2025-06-01T15:50:51.347Z,/,stop,TRUE
+2025-06-01T15:50:51.347Z,/product/Women/false/59777,start,TRUE
+2025-06-01T15:50:55.552Z,/product/Women/false/59777,stop,TRUE
+2025-06-01T15:50:55.552Z,/cart,start,TRUE
+2025-06-01T15:51:02.505Z,/cart,stop,TRUE
+2025-06-01T15:57:19.229Z,/,start,FALSE
+2025-06-01T15:57:21.124Z,/,stop,FALSE
+2025-06-01T15:57:21.124Z,/cart,start,FALSE
+2025-06-01T15:57:22.729Z,/cart,stop,FALSE
+2025-06-01T15:57:22.729Z,/,start,FALSE
+2025-06-01T15:57:44.190Z,/,stop,FALSE
+2025-06-01T15:57:44.190Z,/product/Women/true/43523,start,FALSE
+2025-06-01T15:57:45.393Z,Does this item fit in your budget?,start,FALSE
+2025-06-01T15:57:47.210Z,French Connection Women Beige Trousers,buy,FALSE
+2025-06-01T15:57:47.211Z,Does this item fit in your budget?,stop,FALSE
+2025-06-01T15:57:51.485Z,/product/Women/true/43523,stop,FALSE
+2025-06-01T15:57:51.485Z,/,start,FALSE
+2025-06-01T15:58:33.509Z,/,stop,FALSE
+2025-06-01T15:58:33.509Z,/product/Women/true/19125,start,FALSE
+2025-06-01T15:58:35.713Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-01T15:58:38.162Z,Lotto Women XL Kelly Blue Slippers,buy,FALSE
+2025-06-01T15:58:38.162Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-01T15:58:40.271Z,/product/Women/true/19125,stop,FALSE
+2025-06-01T15:58:40.271Z,/,start,FALSE
+2025-06-01T15:58:41.622Z,/,stop,FALSE
+2025-06-01T15:58:41.622Z,/cart,start,FALSE
+2025-06-01T15:58:46.808Z,/cart,stop,FALSE
+2025-06-01T15:58:46.808Z,/,start,FALSE
+2025-06-01T15:59:05.353Z,/,stop,FALSE
+2025-06-01T15:59:05.353Z,/product/Women/false/44237,start,FALSE
+2025-06-01T15:59:06.873Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-06-01T15:59:08.959Z,Nike Women White and Green Sneakers,buy,FALSE
+2025-06-01T15:59:08.959Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-06-01T15:59:10.689Z,/product/Women/false/44237,stop,FALSE
+2025-06-01T15:59:10.689Z,/,start,FALSE
+2025-06-01T15:59:50.972Z,/,stop,FALSE
+2025-06-01T15:59:50.972Z,/product/Women/true/14717,start,FALSE
+2025-06-01T15:59:52.710Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-01T15:59:55.176Z,Jealous 21 Women Casual Top Black Tops,buy,FALSE
+2025-06-01T15:59:55.176Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-01T15:59:59.451Z,/product/Women/true/14717,stop,FALSE
+2025-06-01T15:59:59.451Z,/,start,FALSE
+2025-06-01T16:00:15.441Z,/,stop,FALSE
+2025-06-01T16:00:15.441Z,/cart,start,FALSE
+2025-06-01T16:00:24.482Z,/cart,stop,FALSE
+2025-06-01T16:00:24.482Z,/,start,FALSE
+2025-06-01T16:00:29.609Z,/,stop,FALSE
+2025-06-01T16:00:29.609Z,/product/Women/true/30002,start,FALSE
+2025-06-01T16:00:30.459Z,Will you wear this item more than 10 times?,start,FALSE
+2025-06-01T16:00:31.570Z,Aspen Women White Dial Watch,buy,FALSE
+2025-06-01T16:00:31.571Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-06-01T16:00:33.109Z,/product/Women/true/30002,stop,FALSE
+2025-06-01T16:00:33.109Z,/,start,FALSE
+2025-06-01T16:00:34.953Z,/,stop,FALSE
+2025-06-01T16:00:34.953Z,/cart,start,FALSE
+2025-06-01T16:00:40.727Z,/cart,stop,FALSE
+2025-06-01T16:00:40.727Z,/,start,FALSE
+2025-06-01T16:01:26.870Z,/,stop,FALSE
+2025-06-01T16:01:26.870Z,/product/Women/false/48683,start,FALSE
+2025-06-01T16:01:27.905Z,Does this item fit in your budget?,start,FALSE
+2025-06-01T16:01:29.199Z,Lucera Women Silver Earrings,buy,FALSE
+2025-06-01T16:01:29.200Z,Does this item fit in your budget?,stop,FALSE
+2025-06-01T16:01:31.987Z,/product/Women/false/48683,stop,FALSE
+2025-06-01T16:01:31.987Z,/,start,FALSE
+2025-06-01T16:01:33.703Z,/,stop,FALSE
+2025-06-01T16:01:33.703Z,/cart,start,FALSE
+2025-06-01T16:01:39.309Z,/cart,stop,FALSE
+2025-06-01T16:01:39.309Z,/,start,FALSE
+2025-06-01T16:01:56.834Z,/,stop,FALSE
+2025-06-01T16:01:56.834Z,/cart,start,FALSE
+2025-06-01T16:02:01.536Z,/cart,stop,FALSE
+2025-06-01T16:02:01.536Z,/,start,FALSE
+2025-06-01T16:02:05.241Z,/,stop,FALSE
+2025-06-01T16:02:05.241Z,/men,start,FALSE
+2025-06-01T16:02:19.518Z,/men,stop,FALSE
+2025-06-01T16:02:19.518Z,/product/Men/true/38560,start,FALSE
+2025-06-01T16:02:20.361Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-01T16:02:21.956Z,Nike Men Black Cap,buy,FALSE
+2025-06-01T16:02:21.956Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-01T16:02:23.273Z,/product/Men/true/38560,stop,FALSE
+2025-06-01T16:02:23.273Z,/cart,start,FALSE
+2025-06-01T16:02:29.183Z,/cart,stop,FALSE

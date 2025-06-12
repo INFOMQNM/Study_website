@@ -1,0 +1,99 @@
+timestamp,componentName,action,control
+2025-06-05T13:38:06.667Z,/,start,TRUE
+2025-06-05T13:38:33.468Z,/,stop,TRUE
+2025-06-05T13:38:33.468Z,/product/Women/true/27891,start,TRUE
+2025-06-05T13:38:37.234Z,/product/Women/true/27891,stop,TRUE
+2025-06-05T13:38:37.234Z,/,start,TRUE
+2025-06-05T13:38:44.294Z,/,stop,TRUE
+2025-06-05T13:38:44.294Z,/product/Women/true/43523,start,TRUE
+2025-06-05T13:38:47.133Z,/product/Women/true/43523,stop,TRUE
+2025-06-05T13:38:47.133Z,/,start,TRUE
+2025-06-05T13:38:53.033Z,/,stop,TRUE
+2025-06-05T13:38:53.034Z,/product/Women/true/43815,start,TRUE
+2025-06-05T13:38:56.245Z,/product/Women/true/43815,stop,TRUE
+2025-06-05T13:38:56.245Z,/,start,TRUE
+2025-06-05T13:39:01.557Z,/,stop,TRUE
+2025-06-05T13:39:01.557Z,/product/Women/true/49005,start,TRUE
+2025-06-05T13:39:04.062Z,/product/Women/true/49005,,TRUE
+2025-06-05T13:39:04.062Z,/,start,TRUE
+2025-06-05T13:39:07.833Z,/,stop,TRUE
+2025-06-05T13:39:07.833Z,/product/Women/true/49041,start,TRUE
+2025-06-05T13:39:10.484Z,/product/Women/true/49041,stop,TRUE
+2025-06-05T13:39:10.484Z,/,start,TRUE
+2025-06-05T13:39:23.285Z,/,stop,TRUE
+2025-06-05T13:39:23.285Z,/cart,start,TRUE
+2025-06-05T13:39:27.002Z,/cart,stop,TRUE
+2025-06-05T13:39:27.002Z,/,start,TRUE
+2025-06-05T13:39:44.380Z,/,stop,TRUE
+2025-06-05T13:39:44.380Z,/product/Women/false/13386,start,TRUE
+2025-06-05T13:39:46.986Z,/product/Women/false/13386,stop,TRUE
+2025-06-05T13:39:46.986Z,/,start,TRUE
+2025-06-05T13:39:49.976Z,/,stop,TRUE
+2025-06-05T13:39:49.976Z,/cart,start,TRUE
+2025-06-05T13:39:53.157Z,/cart,stop,TRUE
+2025-06-05T13:39:53.157Z,/,start,TRUE
+2025-06-05T13:39:56.634Z,/,stop,TRUE
+2025-06-05T13:39:56.634Z,/cart,start,TRUE
+2025-06-05T13:39:57.930Z,/cart,stop,TRUE
+2025-06-05T13:31:42.825Z,/,start,FALSE
+2025-06-05T13:32:28.883Z,/,stop,FALSE
+2025-06-05T13:32:28.883Z,/product/Women/false/22314,start,FALSE
+2025-06-05T13:32:30.380Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-05T13:32:32.173Z,Wildcraft Women Solid Black Jacket,buy,FALSE
+2025-06-05T13:32:32.174Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-05T13:32:39.689Z,/product/Women/false/22314,stop,FALSE
+2025-06-05T13:32:39.689Z,/,start,FALSE
+2025-06-05T13:32:56.164Z,/,stop,FALSE
+2025-06-05T13:33:00.072Z,/cart,start,FALSE
+2025-06-05T13:33:05.641Z,/cart,stop,FALSE
+2025-06-05T13:33:05.641Z,/,start,FALSE
+2025-06-05T13:33:06.516Z,/,start,FALSE
+2025-06-05T13:33:11.867Z,/cart,start,FALSE
+2025-06-05T13:33:13.968Z,/cart,stop,FALSE
+2025-06-05T13:33:13.968Z,/,start,FALSE
+2025-06-05T13:33:29.158Z,/,stop,FALSE
+2025-06-05T13:33:29.158Z,/product/Women/true/57095,start,FALSE
+2025-06-05T13:33:30.522Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-05T13:33:31.785Z,Elle Women Black Culottes,buy,FALSE
+2025-06-05T13:33:31.785Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-05T13:33:34.617Z,/product/Women/true/57095,stop,FALSE
+2025-06-05T13:33:34.617Z,/,start,FALSE
+2025-06-05T13:33:46.089Z,/,stop,FALSE
+2025-06-05T13:33:46.090Z,/product/Women/false/15262,start,FALSE
+2025-06-05T13:33:47.390Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-05T13:33:48.363Z,ADIDAS Originals Women SL 72 Purple Casual Shoes,buy,FALSE
+2025-06-05T13:33:48.364Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-05T13:33:49.951Z,/product/Women/false/15262,stop,FALSE
+2025-06-05T13:33:49.951Z,/,start,FALSE
+2025-06-05T13:34:21.257Z,/,stop,FALSE
+2025-06-05T13:34:21.257Z,/product/Women/false/30956,start,FALSE
+2025-06-05T13:34:22.971Z,Does this item fit in your budget?,start,FALSE
+2025-06-05T13:34:23.964Z,Fabindia Women Mustard Tussar Top,buy,FALSE
+2025-06-05T13:34:23.965Z,Does this item fit in your budget?,stop,FALSE
+2025-06-05T13:34:25.733Z,/product/Women/false/30956,stop,FALSE
+2025-06-05T13:34:25.733Z,/cart,start,FALSE
+2025-06-05T13:34:30.404Z,/cart,stop,FALSE
+2025-06-05T13:34:30.404Z,/,start,FALSE
+2025-06-05T13:34:36.807Z,/,stop,FALSE
+2025-06-05T13:34:36.807Z,/product/Women/true/10498,start,FALSE
+2025-06-05T13:34:38.671Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-05T13:34:39.693Z,Flying Machine Women RN Blue Tops,buy,FALSE
+2025-06-05T13:34:39.693Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-05T13:34:40.946Z,/product/Women/true/10498,stop,FALSE
+2025-06-05T13:34:40.946Z,/,start,FALSE
+2025-06-05T13:34:55.291Z,/,stop,FALSE
+2025-06-05T13:34:55.291Z,/cart,start,FALSE
+2025-06-05T13:34:56.821Z,/cart,stop,FALSE
+2025-06-05T13:34:56.821Z,/,start,FALSE
+2025-06-05T13:35:13.941Z,/,stop,FALSE
+2025-06-05T13:35:13.941Z,/product/Women/true/49005,start,FALSE
+2025-06-05T13:35:14.745Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-05T13:35:15.522Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-05T13:35:16.344Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-05T13:35:16.968Z,Lucera Women Silver Ring,buy,FALSE
+2025-06-05T13:35:16.968Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-05T13:35:18.769Z,/product/Women/true/49005,stop,FALSE
+2025-06-05T13:35:18.769Z,/,start,FALSE
+2025-06-05T13:35:22.092Z,/,stop,FALSE
+2025-06-05T13:35:22.092Z,/cart,start,FALSE
+2025-06-05T13:35:25.316Z,/cart,stop,FALSE

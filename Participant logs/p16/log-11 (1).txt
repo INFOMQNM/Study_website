@@ -1,0 +1,275 @@
+[
+  {
+    "timestamp": "2025-06-05T13:38:06.589Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      }
+    ],
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:06.667Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:06.667Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:33.468Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:33.468Z",
+    "componentName": "/product/Women/true/27891",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:34.491Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:35.825Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:37.234Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:38.686Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:44.294Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:44.294Z",
+    "componentName": "/product/Women/true/43523",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:45.282Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:46.379Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:47.133Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:53.033Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:53.034Z",
+    "componentName": "/product/Women/true/43815",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:53.900Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:55.088Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:38:56.245Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:01.557Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:01.557Z",
+    "componentName": "/product/Women/true/49005",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:02.311Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:03.361Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:04.062Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:07.833Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:07.833Z",
+    "componentName": "/product/Women/true/49041",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:08.680Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:09.637Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:10.484Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:23.285Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:27.002Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:44.380Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:44.380Z",
+    "componentName": "/product/Women/false/13386",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:45.180Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:46.346Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:46.986Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:49.976Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:53.157Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:56.634Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:57.930Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:57.930Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-06-05T13:39:58.932Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

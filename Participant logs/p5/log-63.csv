@@ -1,0 +1,52 @@
+timestamp,componentName,action,control
+2025-05-26T13:53:21.903Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-05-26T13:53:21.903Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-05-26T13:53:21.903Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-26T13:53:21.903Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-26T13:53:21.903Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T13:53:22.002Z,/end,stop,False
+2025-05-26T13:53:22.002Z,/,start,False
+2025-05-26T13:53:34.939Z,/men,start,False
+2025-05-26T13:53:37.682Z,/men,start,False
+2025-05-26T13:54:17.859Z,/men,stop,False
+2025-05-26T13:54:17.859Z,/product/Men/false/29568,start,False
+2025-05-26T13:54:19.182Z,Will you wear this item more than 10 times?,start,False
+2025-05-26T13:54:26.561Z,Vans Men Baxter Black Shoes,buy,False
+2025-05-26T13:54:26.562Z,Will you wear this item more than 10 times?,stop,False
+2025-05-26T13:54:31.167Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-05-26T13:54:32.218Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-05-26T13:54:33.661Z,/men,start,False
+2025-05-26T13:55:12.193Z,/men,stop,False
+2025-05-26T13:55:12.193Z,/product/Men/false/13299,start,False
+2025-05-26T13:55:13.232Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-26T13:55:18.088Z,Gini and Jony Men Solid White Shorts,buy,False
+2025-05-26T13:55:18.089Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-05-26T13:55:20.022Z,/men,start,False
+2025-05-26T13:55:38.574Z,/men,stop,False
+2025-05-26T13:55:38.574Z,/product/Men/true/48559,start,False
+2025-05-26T13:55:40.242Z,Is this item produced sustainably?,start,False
+2025-05-26T13:55:47.684Z,Is this item produced sustainably?,stop,False
+2025-05-26T13:55:49.314Z,/men,start,False
+2025-05-26T13:55:53.908Z,/men,stop,False
+2025-05-26T13:55:53.908Z,/product/Men/true/48559,start,False
+2025-05-26T13:55:54.948Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T13:55:55.747Z,Revv Men Steel Bracelet,buy,False
+2025-05-26T13:55:55.747Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-26T13:55:57.169Z,/men,start,False
+2025-05-26T13:56:18.846Z,/men,stop,False
+2025-05-26T13:56:18.846Z,/product/Men/false/6609,start,False
+2025-05-26T13:56:20.018Z,Will you wear this item more than 10 times?,start,False
+2025-05-26T13:56:21.096Z,Spykar Men's Stripes White Top,buy,False
+2025-05-26T13:56:21.096Z,Will you wear this item more than 10 times?,stop,False
+2025-05-26T13:56:23.894Z,/men,start,False
+2025-05-26T13:56:25.110Z,/cart,start,False
+2025-05-26T13:56:35.334Z,/men,start,False
+2025-05-26T13:57:57.539Z,/men,stop,False
+2025-05-26T13:57:57.539Z,/product/Men/true/48952,start,False
+2025-05-26T13:57:58.559Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-05-26T13:58:02.234Z,Revv Men Steel Ring,buy,False
+2025-05-26T13:58:02.235Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-05-26T13:58:03.649Z,/cart,start,False
+2025-05-26T13:58:14.907Z,/cart,stop,False
+2025-05-26T13:58:14.907Z,/end,start,False
+2025-05-26T14:00:37.720Z,/end,stop,False

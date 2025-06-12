@@ -1,0 +1,51 @@
+timestamp,componentName,action,control
+2025-06-05T13:37:44.715Z,practicality: Will you wear this item more than once a month?,start,False
+2025-06-05T13:37:44.715Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-05T13:37:44.715Z,sustainability: Is this item produced sustainably?,start,False
+2025-06-05T13:37:44.715Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-06-05T13:37:44.715Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-05T13:37:44.785Z,/end,stop,False
+2025-06-05T13:37:44.785Z,/,start,False
+2025-06-05T13:38:00.716Z,/men,start,False
+2025-06-05T13:38:14.906Z,/men,stop,False
+2025-06-05T13:38:14.906Z,/product/Men/false/24845,start,False
+2025-06-05T13:38:16.389Z,Will you wear this item more than once a month?,start,False
+2025-06-05T13:38:20.837Z,Wildcraft Men Wind Cheaters Beige Jacket,buy,False
+2025-06-05T13:38:20.838Z,Will you wear this item more than once a month?,stop,False
+2025-06-05T13:38:22.356Z,/men,start,False
+2025-06-05T13:38:43.859Z,/men,stop,False
+2025-06-05T13:38:43.859Z,/product/Men/true/12870,start,False
+2025-06-05T13:38:45.335Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-05T13:38:50.828Z,Lee Cooper MenCasual Black Shoes,buy,False
+2025-06-05T13:38:50.829Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-06-05T13:38:52.643Z,/men,start,False
+2025-06-05T13:39:19.725Z,/men,stop,False
+2025-06-05T13:39:19.725Z,/product/Men/true/16059,start,False
+2025-06-05T13:39:20.884Z,Is this item produced sustainably?,start,False
+2025-06-05T13:39:32.862Z,Is this item produced sustainably?,stop,False
+2025-06-05T13:39:34.625Z,/men,start,False
+2025-06-05T13:39:46.944Z,/men,stop,False
+2025-06-05T13:39:46.944Z,/product/Men/false/40281,start,False
+2025-06-05T13:39:48.018Z,Are you sure you are not overspending on this purchase?,start,False
+2025-06-05T13:39:52.104Z,Scullers Men Beige Trousers,buy,False
+2025-06-05T13:39:52.104Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-06-05T13:39:53.692Z,/men,start,False
+2025-06-05T13:40:11.203Z,/cart,start,False
+2025-06-05T13:40:13.912Z,/men,start,False
+2025-06-05T13:40:38.356Z,/men,stop,False
+2025-06-05T13:40:38.356Z,/product/Men/true/53628,start,False
+2025-06-05T13:40:39.790Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-05T13:40:44.512Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,False
+2025-06-05T13:40:44.512Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-05T13:40:45.888Z,/men,start,False
+2025-06-05T13:40:48.401Z,/cart,start,False
+2025-06-05T13:40:50.477Z,/men,start,False
+2025-06-05T13:41:09.490Z,/men,stop,False
+2025-06-05T13:41:09.490Z,/product/Men/true/42598,start,False
+2025-06-05T13:41:10.569Z,Will you wear this item more than once a month?,start,False
+2025-06-05T13:41:13.974Z,United Colors of Benetton Men Blue Shirt,buy,False
+2025-06-05T13:41:13.974Z,Will you wear this item more than once a month?,stop,False
+2025-06-05T13:41:15.135Z,/cart,start,False
+2025-06-05T13:41:17.125Z,/cart,stop,False
+2025-06-05T13:41:17.125Z,/end,start,False
+2025-06-05T13:41:19.091Z,/end,stop,False

@@ -1,0 +1,47 @@
+timestamp,componentName,action,control
+2025-06-01T15:10:23.049Z,practicality: Will you wear this item more than once a month?,start,False
+2025-06-01T15:10:23.049Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T15:10:23.049Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T15:10:23.049Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-01T15:10:23.049Z,sustainability: Is this item produced sustainably?,start,False
+2025-06-01T15:10:23.321Z,/end,stop,False
+2025-06-01T15:10:23.321Z,/,start,False
+2025-06-01T15:10:33.548Z,/men,start,False
+2025-06-01T15:10:44.011Z,/men,stop,False
+2025-06-01T15:10:44.011Z,/product/Men/true/16202,start,False
+2025-06-01T15:10:45.391Z,Will you wear this item more than once a month?,start,False
+2025-06-01T15:10:48.100Z,Puma Men Logo Hooded Black SweatShirt,buy,False
+2025-06-01T15:10:48.100Z,Will you wear this item more than once a month?,stop,False
+2025-06-01T15:10:51.380Z,/cart,start,False
+2025-06-01T15:10:53.582Z,/men,start,False
+2025-06-01T15:11:03.528Z,/men,stop,False
+2025-06-01T15:11:03.528Z,/product/Men/true/53628,start,False
+2025-06-01T15:11:04.835Z,Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T15:11:07.736Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,False
+2025-06-01T15:11:07.736Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-06-01T15:11:10.811Z,/cart,start,False
+2025-06-01T15:11:12.998Z,/men,start,False
+2025-06-01T15:11:43.429Z,/men,stop,False
+2025-06-01T15:11:43.429Z,/product/Men/false/16020,start,False
+2025-06-01T15:11:45.170Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T15:11:47.919Z,Turtle Solid Men Grey Trouser,buy,False
+2025-06-01T15:11:47.919Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-01T15:11:53.250Z,/men,start,False
+2025-06-01T15:11:56.712Z,/cart,start,False
+2025-06-01T15:12:02.459Z,/men,start,False
+2025-06-01T15:12:36.189Z,/men,stop,False
+2025-06-01T15:12:36.189Z,/product/Men/true/25447,start,False
+2025-06-01T15:12:37.318Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-01T15:12:41.169Z,Nike Men Casual Navy Blue Shoes,buy,False
+2025-06-01T15:12:41.169Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-06-01T15:12:43.837Z,/cart,start,False
+2025-06-01T15:12:49.978Z,/men,start,False
+2025-06-01T15:13:24.060Z,/men,stop,False
+2025-06-01T15:13:24.061Z,/product/Men/true/48583,start,False
+2025-06-01T15:13:25.281Z,Is this item produced sustainably?,start,False
+2025-06-01T15:13:28.405Z,Revv Men Steel Bracelet,buy,False
+2025-06-01T15:13:28.405Z,Is this item produced sustainably?,stop,False
+2025-06-01T15:13:30.186Z,/cart,start,False
+2025-06-01T15:13:43.289Z,/cart,stop,False
+2025-06-01T15:13:43.289Z,/end,start,False
+2025-06-01T15:16:08.137Z,/end,stop,False

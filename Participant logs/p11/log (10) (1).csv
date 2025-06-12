@@ -1,0 +1,42 @@
+timestamp,componentName,action,control
+2025-06-01T14:38:06.426Z,practicality: Will you wear this item more than once a month?,start,True
+2025-06-01T14:38:06.426Z,personal_finances: Does this item fit in your budget?,start,True
+2025-06-01T14:38:06.426Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-01T14:38:06.426Z,long_term: Will this purchase bring you long-term satisfaction?,start,True
+2025-06-01T14:38:06.426Z,sustainability: Is this item produced sustainably?,start,True
+2025-06-01T14:38:06.769Z,/end,stop,True
+2025-06-01T14:38:06.770Z,/,start,True
+2025-06-01T14:38:10.237Z,/cart,start,True
+2025-06-01T14:38:23.359Z,/,start,True
+2025-06-01T14:38:26.718Z,/,start,True
+2025-06-01T14:38:42.706Z,/,stop,True
+2025-06-01T14:38:42.706Z,/product/Women/true/49041,start,True
+2025-06-01T14:38:44.002Z,Will you wear this item more than once a month?,start,True
+2025-06-01T14:38:45.550Z,Will you wear this item more than once a month?,stop,True
+2025-06-01T14:38:47.501Z,/,start,True
+2025-06-01T14:38:53.473Z,/,stop,True
+2025-06-01T14:38:53.473Z,/product/Women/true/10135,start,True
+2025-06-01T14:38:54.885Z,Does this item fit in your budget?,start,True
+2025-06-01T14:38:56.823Z,Does this item fit in your budget?,stop,True
+2025-06-01T14:39:02.960Z,/,start,True
+2025-06-01T14:39:29.687Z,/,stop,True
+2025-06-01T14:39:29.687Z,/product/Women/false/37949,start,True
+2025-06-01T14:39:31.264Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-01T14:39:33.036Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-01T14:39:37.990Z,/,start,True
+2025-06-01T14:40:21.999Z,/,stop,True
+2025-06-01T14:40:22.000Z,/product/Women/true/44667,start,True
+2025-06-01T14:40:23.384Z,Will this purchase bring you long-term satisfaction?,start,True
+2025-06-01T14:40:25.360Z,Will this purchase bring you long-term satisfaction?,stop,True
+2025-06-01T14:40:30.228Z,/cart,start,True
+2025-06-01T14:40:35.582Z,/,start,True
+2025-06-01T14:40:40.862Z,/,start,True
+2025-06-01T14:41:04.009Z,/,stop,True
+2025-06-01T14:41:04.009Z,/product/Women/false/13386,start,True
+2025-06-01T14:41:05.391Z,Is this item produced sustainably?,start,True
+2025-06-01T14:41:07.275Z,Is this item produced sustainably?,stop,True
+2025-06-01T14:41:09.047Z,/cart,start,True
+2025-06-01T14:41:16.510Z,/cart,stop,True
+2025-06-01T14:41:16.511Z,/end,start,True
+2025-06-01T14:43:09.499Z,/end,start,False
+2025-06-01T14:43:26.421Z,/end,stop,False

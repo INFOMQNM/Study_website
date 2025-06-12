@@ -1,0 +1,102 @@
+timestamp,componentName,action,control
+2025-05-26T11:29:29.122Z,/,start,TRUE
+2025-05-26T11:30:25.784Z,/,stop,TRUE
+2025-05-26T11:30:25.784Z,/product/Women/true/2589,start,TRUE
+2025-05-26T11:30:33.047Z,/product/Women/true/2589,stop,TRUE
+2025-05-26T11:30:33.047Z,/,start,TRUE
+2025-05-26T11:30:55.864Z,/,stop,TRUE
+2025-05-26T11:30:55.864Z,/product/Women/true/10777,start,TRUE
+2025-05-26T11:31:04.605Z,/product/Women/true/10777,stop,TRUE
+2025-05-26T11:31:04.605Z,/men,start,TRUE
+2025-05-26T11:31:39.370Z,/men,stop,TRUE
+2025-05-26T11:31:39.370Z,/,start,TRUE
+2025-05-26T11:32:25.628Z,/,stop,TRUE
+2025-05-26T11:32:25.628Z,/men,start,TRUE
+2025-05-26T11:33:16.429Z,/men,stop,TRUE
+2025-05-26T11:33:16.429Z,/product/Men/false/29848,start,TRUE
+2025-05-26T11:33:23.340Z,/product/Men/false/29848,stop,TRUE
+2025-05-26T11:33:23.340Z,/men,start,TRUE
+2025-05-26T11:33:37.494Z,/men,stop,TRUE
+2025-05-26T11:33:37.494Z,/product/Men/false/48947,start,TRUE
+2025-05-26T11:33:44.727Z,/product/Men/false/48947,stop,TRUE
+2025-05-26T11:33:44.727Z,/men,start,TRUE
+2025-05-26T11:33:47.431Z,/men,stop,TRUE
+2025-05-26T11:33:47.431Z,/cart,start,TRUE
+2025-05-26T11:33:57.664Z,/cart,stop,TRUE
+2025-05-26T11:33:57.664Z,/men,start,TRUE
+2025-05-26T11:34:32.737Z,/men,stop,TRUE
+2025-05-26T11:34:32.737Z,/cart,start,TRUE
+2025-05-26T11:34:40.530Z,/cart,stop,TRUE
+2025-05-26T11:34:40.530Z,/men,start,TRUE
+2025-05-26T11:35:06.058Z,/men,stop,TRUE
+2025-05-26T11:35:06.058Z,/product/Men/true/17152,start,TRUE
+2025-05-26T11:35:09.985Z,/product/Men/true/17152,stop,TRUE
+2025-05-26T11:35:09.985Z,/cart,start,TRUE
+2025-05-26T11:35:16.061Z,/cart,stop,TRUE
+2025-05-26T11:35:16.061Z,/men,start,TRUE
+2025-05-26T11:35:35.231Z,/men,stop,TRUE
+2025-05-26T11:35:35.231Z,/,start,TRUE
+2025-05-26T11:35:55.221Z,/,stop,TRUE
+2025-05-26T11:35:55.221Z,/product/Women/true/52193,start,TRUE
+2025-05-26T11:36:01.516Z,/product/Women/true/52193,stop,TRUE
+2025-05-26T11:36:01.516Z,/cart,start,TRUE
+2025-05-26T11:36:08.577Z,/cart,stop,TRUE
+2025-05-26T11:38:14.555Z,/,start,FALSE
+2025-05-26T11:38:25.496Z,/,stop,FALSE
+2025-05-26T11:38:25.496Z,/men,start,FALSE
+2025-05-26T11:39:19.095Z,/men,stop,FALSE
+2025-05-26T11:39:19.095Z,/,start,FALSE
+2025-05-26T11:39:47.999Z,/,stop,FALSE
+2025-05-26T11:39:47.999Z,/men,start,FALSE
+2025-05-26T11:40:53.203Z,/men,stop,FALSE
+2025-05-26T11:40:53.203Z,/product/Men/true/31287,start,FALSE
+2025-05-26T11:40:54.467Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-26T11:41:04.692Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-26T11:41:05.759Z,/product/Men/true/31287,stop,FALSE
+2025-05-26T11:41:05.759Z,/men,start,FALSE
+2025-05-26T11:41:30.755Z,/men,stop,FALSE
+2025-05-26T11:41:30.755Z,/product/Men/true/24311,start,FALSE
+2025-05-26T11:41:31.740Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-26T11:41:32.639Z,ADIDAS Men Black Shorts,buy,FALSE
+2025-05-26T11:41:32.639Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-26T11:41:35.532Z,/product/Men/true/24311,stop,FALSE
+2025-05-26T11:41:35.532Z,/men,start,FALSE
+2025-05-26T11:41:53.386Z,/men,stop,FALSE
+2025-05-26T11:41:53.386Z,/,start,FALSE
+2025-05-26T11:42:05.331Z,/,stop,FALSE
+2025-05-26T11:42:05.331Z,/men,start,FALSE
+2025-05-26T11:42:15.408Z,/men,stop,FALSE
+2025-05-26T11:42:15.408Z,/product/Men/true/42598,start,FALSE
+2025-05-26T11:42:16.436Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-26T11:42:18.131Z,United Colors of Benetton Men Blue Shirt,buy,FALSE
+2025-05-26T11:42:18.131Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-26T11:42:19.401Z,/product/Men/true/42598,stop,FALSE
+2025-05-26T11:42:19.401Z,/men,start,FALSE
+2025-05-26T11:42:40.812Z,/men,stop,FALSE
+2025-05-26T11:42:40.812Z,/product/Men/true/24770,start,FALSE
+2025-05-26T11:42:41.735Z,Is this item produced sustainably?,start,FALSE
+2025-05-26T11:42:42.538Z,Spalding Men Game Grey Orange Flip Flops,buy,FALSE
+2025-05-26T11:42:42.539Z,Is this item produced sustainably?,stop,FALSE
+2025-05-26T11:42:44.219Z,/product/Men/true/24770,stop,FALSE
+2025-05-26T11:42:44.219Z,/men,start,FALSE
+2025-05-26T11:43:14.292Z,/men,stop,FALSE
+2025-05-26T11:43:14.292Z,/cart,start,FALSE
+2025-05-26T11:43:27.500Z,/cart,stop,FALSE
+2025-05-26T11:43:27.500Z,/men,start,FALSE
+2025-05-26T11:43:41.825Z,/men,stop,FALSE
+2025-05-26T11:43:41.826Z,/product/Men/true/48950,start,FALSE
+2025-05-26T11:43:43.711Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-05-26T11:43:44.405Z,Revv Men Steel Ring,buy,FALSE
+2025-05-26T11:43:44.406Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-05-26T11:43:47.450Z,/product/Men/true/48950,stop,FALSE
+2025-05-26T11:43:47.450Z,/cart,start,FALSE
+2025-05-26T11:43:51.158Z,/cart,stop,FALSE
+2025-05-26T11:43:51.158Z,/men,start,FALSE
+2025-05-26T11:44:32.787Z,/men,stop,FALSE
+2025-05-26T11:44:32.787Z,/product/Men/true/17152,start,FALSE
+2025-05-26T11:44:36.654Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-26T11:44:37.877Z,U.S. Polo Assn. Men Solid Black Jacket,buy,FALSE
+2025-05-26T11:44:37.877Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-26T11:44:40.142Z,/product/Men/true/17152,stop,FALSE
+2025-05-26T11:44:40.142Z,/cart,start,FALSE
+2025-05-26T11:44:47.986Z,/cart,stop,FALSE

@@ -1,0 +1,86 @@
+timestamp,componentName,action,control
+2025-06-01T15:16:08.487Z,/,start,TRUE
+2025-06-01T15:16:34.748Z,/,stop,TRUE
+2025-06-01T15:16:34.748Z,/men,start,TRUE
+2025-06-01T15:16:50.572Z,/men,stop,TRUE
+2025-06-01T15:16:50.572Z,/product/Men/true/6753,start,TRUE
+2025-06-01T15:17:00.222Z,/product/Men/true/6753,stop,TRUE
+2025-06-01T15:17:00.222Z,/men,start,TRUE
+2025-06-01T15:17:14.584Z,/men,stop,TRUE
+2025-06-01T15:17:14.584Z,/product/Men/false/6609,start,TRUE
+2025-06-01T15:17:20.196Z,/product/Men/false/6609,stop,TRUE
+2025-06-01T15:17:20.196Z,/men,start,TRUE
+2025-06-01T15:17:27.187Z,/men,stop,TRUE
+2025-06-01T15:17:27.188Z,/product/Men/true/24311,start,TRUE
+2025-06-01T15:17:32.168Z,/product/Men/true/24311,stop,TRUE
+2025-06-01T15:17:32.168Z,/cart,start,TRUE
+2025-06-01T15:17:35.284Z,/cart,stop,TRUE
+2025-06-01T15:17:35.284Z,/men,start,TRUE
+2025-06-01T15:17:54.403Z,/men,stop,TRUE
+2025-06-01T15:17:54.403Z,/product/Men/true/38560,start,TRUE
+2025-06-01T15:17:58.151Z,/product/Men/true/38560,stop,TRUE
+2025-06-01T15:17:58.151Z,/men,start,TRUE
+2025-06-01T15:18:08.818Z,/men,stop,TRUE
+2025-06-01T15:18:08.818Z,/product/Men/true/16196,start,TRUE
+2025-06-01T15:18:14.394Z,/product/Men/true/16196,stop,TRUE
+2025-06-01T15:18:14.394Z,/,start,TRUE
+2025-06-01T15:18:16.883Z,/,stop,TRUE
+2025-06-01T15:18:16.883Z,/men,start,TRUE
+2025-06-01T15:18:53.570Z,/men,stop,TRUE
+2025-06-01T15:18:53.570Z,/cart,start,TRUE
+2025-06-01T15:18:56.284Z,/cart,stop,TRUE
+2025-06-01T15:18:56.284Z,/men,start,TRUE
+2025-06-01T15:19:07.418Z,/men,stop,TRUE
+2025-06-01T15:19:07.419Z,/product/Men/true/39021,start,TRUE
+2025-06-01T15:19:11.083Z,/product/Men/true/39021,stop,TRUE
+2025-06-01T15:19:11.083Z,/cart,start,TRUE
+2025-06-01T15:19:16.565Z,/cart,stop,TRUE
+2025-06-01T15:10:23.321Z,/,start,FALSE
+2025-06-01T15:10:33.548Z,/,stop,FALSE
+2025-06-01T15:10:33.548Z,/men,start,FALSE
+2025-06-01T15:10:44.011Z,/men,stop,FALSE
+2025-06-01T15:10:44.011Z,/product/Men/true/16202,start,FALSE
+2025-06-01T15:10:45.391Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-01T15:10:48.100Z,Puma Men Logo Hooded Black SweatShirt,buy,FALSE
+2025-06-01T15:10:48.100Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-01T15:10:51.380Z,/product/Men/true/16202,stop,FALSE
+2025-06-01T15:10:51.380Z,/cart,start,FALSE
+2025-06-01T15:10:53.582Z,/cart,stop,FALSE
+2025-06-01T15:10:53.582Z,/men,start,FALSE
+2025-06-01T15:11:03.528Z,/men,stop,FALSE
+2025-06-01T15:11:03.528Z,/product/Men/true/53628,start,FALSE
+2025-06-01T15:11:04.835Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-06-01T15:11:07.736Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,FALSE
+2025-06-01T15:11:07.736Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-06-01T15:11:10.811Z,/product/Men/true/53628,stop,FALSE
+2025-06-01T15:11:10.811Z,/cart,start,FALSE
+2025-06-01T15:11:12.998Z,/cart,stop,FALSE
+2025-06-01T15:11:12.998Z,/men,start,FALSE
+2025-06-01T15:11:43.429Z,/men,stop,FALSE
+2025-06-01T15:11:43.429Z,/product/Men/false/16020,start,FALSE
+2025-06-01T15:11:45.170Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-01T15:11:47.919Z,Turtle Solid Men Grey Trouser,buy,FALSE
+2025-06-01T15:11:47.919Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-01T15:11:53.250Z,/product/Men/false/16020,stop,FALSE
+2025-06-01T15:11:53.250Z,/men,start,FALSE
+2025-06-01T15:11:56.712Z,/men,stop,FALSE
+2025-06-01T15:11:56.712Z,/cart,start,FALSE
+2025-06-01T15:12:02.459Z,/cart,stop,FALSE
+2025-06-01T15:12:02.459Z,/men,start,FALSE
+2025-06-01T15:12:36.189Z,/men,stop,FALSE
+2025-06-01T15:12:36.189Z,/product/Men/true/25447,start,FALSE
+2025-06-01T15:12:37.318Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-06-01T15:12:41.169Z,Nike Men Casual Navy Blue Shoes,buy,FALSE
+2025-06-01T15:12:41.169Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-06-01T15:12:43.837Z,/product/Men/true/25447,stop,FALSE
+2025-06-01T15:12:43.837Z,/cart,start,FALSE
+2025-06-01T15:12:49.978Z,/cart,stop,FALSE
+2025-06-01T15:12:49.978Z,/men,start,FALSE
+2025-06-01T15:13:24.060Z,/men,stop,FALSE
+2025-06-01T15:13:24.061Z,/product/Men/true/48583,start,FALSE
+2025-06-01T15:13:25.281Z,Is this item produced sustainably?,start,FALSE
+2025-06-01T15:13:28.405Z,Revv Men Steel Bracelet,buy,FALSE
+2025-06-01T15:13:28.405Z,Is this item produced sustainably?,stop,FALSE
+2025-06-01T15:13:30.186Z,/product/Men/true/48583,stop,FALSE
+2025-06-01T15:13:30.186Z,/cart,start,FALSE
+2025-06-01T15:13:43.289Z,/cart,stop,FALSE

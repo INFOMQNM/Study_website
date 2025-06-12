@@ -1,0 +1,70 @@
+timestamp,componentName,action,control
+2025-05-26T12:09:30.770Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T12:09:30.770Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T12:09:30.770Z,sustainability: Is this item produced sustainably?,start,True
+2025-05-26T12:09:30.770Z,practicality: Will you wear this item more than once a month?,start,True
+2025-05-26T12:09:30.770Z,personal_finances: Does this item fit in your budget?,start,True
+2025-05-26T12:09:30.849Z,/end,stop,True
+2025-05-26T12:09:30.849Z,/,start,True
+2025-05-26T12:09:34.981Z,/,start,True
+2025-05-26T12:10:30.012Z,/,stop,True
+2025-05-26T12:10:30.012Z,/product/Women/true/57095,start,True
+2025-05-26T12:10:35.555Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T12:10:38.865Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-05-26T12:10:39.831Z,/,start,True
+2025-05-26T12:10:51.231Z,/,stop,True
+2025-05-26T12:10:51.231Z,/product/Women/true/10498,start,True
+2025-05-26T12:10:59.365Z,/,start,True
+2025-05-26T12:11:20.131Z,/,start,True
+2025-05-26T12:12:35.983Z,/,stop,True
+2025-05-26T12:12:35.983Z,/product/Women/true/20011,start,True
+2025-05-26T12:12:40.384Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T12:12:43.982Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-26T12:12:44.922Z,/cart,start,True
+2025-05-26T12:12:48.865Z,/,start,True
+2025-05-26T12:13:12.365Z,/cart,start,True
+2025-05-26T12:13:20.538Z,/,start,True
+2025-05-26T12:13:20.976Z,/,start,True
+2025-05-26T12:14:14.598Z,/,stop,True
+2025-05-26T12:14:14.598Z,/product/Women/true/52193,start,True
+2025-05-26T12:14:16.370Z,Is this item produced sustainably?,start,True
+2025-05-26T12:14:17.739Z,Is this item produced sustainably?,stop,True
+2025-05-26T12:14:19.148Z,/,start,True
+2025-05-26T12:14:38.808Z,/,stop,True
+2025-05-26T12:14:38.809Z,/product/Women/true/6880,start,True
+2025-05-26T12:14:43.751Z,Will you wear this item more than once a month?,start,True
+2025-05-26T12:14:45.527Z,Will you wear this item more than once a month?,stop,True
+2025-05-26T12:14:46.673Z,/cart,start,True
+2025-05-26T12:14:50.708Z,/,start,True
+2025-05-26T12:15:05.965Z,/,stop,True
+2025-05-26T12:15:05.965Z,/product/Women/true/19724,start,True
+2025-05-26T12:15:08.837Z,/,start,True
+2025-05-26T12:16:09.425Z,/,stop,True
+2025-05-26T12:16:09.425Z,/product/Women/false/40409,start,True
+2025-05-26T12:16:15.698Z,Does this item fit in your budget?,start,True
+2025-05-26T12:16:16.980Z,Does this item fit in your budget?,stop,True
+2025-05-26T12:16:17.902Z,/cart,start,True
+2025-05-26T12:16:22.071Z,/,start,True
+2025-05-26T12:16:42.374Z,/,stop,True
+2025-05-26T12:16:42.374Z,/product/Women/true/22714,start,True
+2025-05-26T12:16:45.148Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T12:16:46.606Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-05-26T12:16:47.513Z,/cart,start,True
+2025-05-26T12:16:55.318Z,/,start,True
+2025-05-26T12:17:28.988Z,/cart,start,True
+2025-05-26T12:17:34.167Z,/,start,True
+2025-05-26T12:17:43.027Z,/men,start,True
+2025-05-26T12:18:10.461Z,/cart,start,True
+2025-05-26T12:18:13.112Z,/,start,True
+2025-05-26T12:18:22.762Z,/,stop,True
+2025-05-26T12:18:22.762Z,/product/Women/false/13386,start,True
+2025-05-26T12:18:23.874Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T12:18:25.280Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-26T12:18:26.236Z,/cart,start,True
+2025-05-26T12:18:31.061Z,/,start,True
+2025-05-26T12:18:48.745Z,/,stop,True
+2025-05-26T12:18:48.745Z,/product/Women/false/30956,start,True
+2025-05-26T12:18:55.604Z,/cart,start,True
+2025-05-26T12:19:18.967Z,/cart,stop,True
+2025-05-26T12:19:18.967Z,/end,start,True
+2025-05-26T12:19:30.488Z,/end,stop,True

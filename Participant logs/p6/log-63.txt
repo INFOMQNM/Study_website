@@ -1,0 +1,347 @@
+[
+  {
+    "timestamp": "2025-05-27T09:36:04.936Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:05.040Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:05.040Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:41.677Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:41.677Z",
+    "componentName": "/product/Women/false/27863",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:43.445Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:44.886Z",
+    "componentName": "Scullers For Her Printed Purple Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:44.887Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:36:49.493Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:08.875Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:08.875Z",
+    "componentName": "/product/Women/true/27905",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:11.052Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:12.040Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:20.302Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:22.757Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:23.694Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:38.767Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:38.767Z",
+    "componentName": "/product/Women/true/43523",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:40.378Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:41.412Z",
+    "componentName": "French Connection Women Beige Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:41.412Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:37:43.502Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:38:54.297Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:38:54.297Z",
+    "componentName": "/product/Women/false/32585",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:38:56.606Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:38:59.104Z",
+    "componentName": "Only  Women Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:38:59.104Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:39:00.662Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:39:55.357Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:08.307Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:17.288Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:17.288Z",
+    "componentName": "/product/Women/true/49041",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:18.592Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:19.474Z",
+    "componentName": "Lucera Women Silver Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:19.474Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:20.400Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:43.785Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:43.786Z",
+    "componentName": "/product/Women/false/20755",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:45.045Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:46.353Z",
+    "componentName": "Carlton London Women Peep Toe Denim Blue Casual shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:46.353Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:40:47.670Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:22.092Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:22.092Z",
+    "componentName": "/product/Women/true/52193",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:23.381Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:24.428Z",
+    "componentName": "Lencia Sterling Silver Earrings",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:24.429Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:25.828Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:41:30.243Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:42:10.453Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:42:12.401Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:42:12.401Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-27T09:44:02.420Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:44:07.732Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

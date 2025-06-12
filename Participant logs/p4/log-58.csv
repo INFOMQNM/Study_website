@@ -1,0 +1,37 @@
+timestamp,componentName,action,control
+2025-05-26T13:41:56.274Z,practicality: Will you wear this item more than 10 times?,start,True
+2025-05-26T13:41:56.274Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T13:41:56.274Z,sustainability: Is this item produced sustainably?,start,True
+2025-05-26T13:41:56.274Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T13:41:56.274Z,personal_finances: Are you sure you are not overspending on this purchase?,start,True
+2025-05-26T13:41:56.340Z,/end,stop,True
+2025-05-26T13:41:56.340Z,/,start,True
+2025-05-26T13:41:59.595Z,/men,start,True
+2025-05-26T13:42:11.962Z,/men,stop,True
+2025-05-26T13:42:11.963Z,/product/Men/false/44230,start,True
+2025-05-26T13:42:12.873Z,Will you wear this item more than 10 times?,start,True
+2025-05-26T13:42:15.622Z,Will you wear this item more than 10 times?,stop,True
+2025-05-26T13:42:17.509Z,/men,start,True
+2025-05-26T13:42:50.112Z,/men,stop,True
+2025-05-26T13:42:50.112Z,/product/Men/false/25021,start,True
+2025-05-26T13:42:50.994Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-05-26T13:42:51.902Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-05-26T13:42:53.098Z,/men,start,True
+2025-05-26T13:42:55.405Z,/cart,start,True
+2025-05-26T13:42:59.706Z,/men,start,True
+2025-05-26T13:43:16.845Z,/men,stop,True
+2025-05-26T13:43:16.845Z,/product/Men/false/29848,start,True
+2025-05-26T13:43:18.337Z,Is this item produced sustainably?,start,True
+2025-05-26T13:43:19.139Z,Is this item produced sustainably?,stop,True
+2025-05-26T13:43:19.923Z,/men,start,True
+2025-05-26T13:43:22.368Z,/cart,start,True
+2025-05-26T13:43:26.677Z,/men,start,True
+2025-05-26T13:43:51.292Z,/men,stop,True
+2025-05-26T13:43:51.292Z,/product/Men/true/53628,start,True
+2025-05-26T13:43:51.860Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-05-26T13:43:52.485Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-05-26T13:43:54.759Z,/men,start,True
+2025-05-26T13:43:56.236Z,/cart,start,True
+2025-05-26T13:44:04.415Z,/cart,stop,True
+2025-05-26T13:44:04.415Z,/end,start,True
+2025-05-26T13:46:32.099Z,/end,stop,True

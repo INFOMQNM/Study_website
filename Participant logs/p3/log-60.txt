@@ -1,0 +1,305 @@
+[
+  {
+    "timestamp": "2025-05-26T12:21:12.546Z",
+    "componentName": [
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:21:12.652Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:21:12.652Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:23.996Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:23.996Z",
+    "componentName": "/product/Women/false/15262",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:26.380Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:28.792Z",
+    "componentName": "ADIDAS Originals Women SL 72 Purple Casual Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:28.793Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:32.285Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:35.429Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:22:37.143Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:26.110Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:26.110Z",
+    "componentName": "/product/Women/true/10498",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:27.472Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:31.205Z",
+    "componentName": "Flying Machine Women RN Blue Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:31.205Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:23:36.354Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:32.280Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:32.280Z",
+    "componentName": "/product/Women/false/15624",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:37.423Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:41.034Z",
+    "componentName": "Nike Women AS Squad Fleece FZ Hoody Grey Sweatshirts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:41.034Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:24:42.752Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:03.320Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:09.757Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:36.649Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:36.649Z",
+    "componentName": "/product/Women/true/12536",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:38.898Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:42.525Z",
+    "componentName": "Puma Women Solid Black Sweatshirts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:42.526Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:44.104Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:57.347Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:57.347Z",
+    "componentName": "/product/Women/false/59777",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:25:58.643Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:00.021Z",
+    "componentName": "Estelle Women Gold Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:00.021Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:01.495Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:04.629Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:20.398Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:20.398Z",
+    "componentName": "/product/Women/true/58137",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:21.971Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:23.383Z",
+    "componentName": "Rreverie Gold Plated Earrings",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:23.384Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:24.979Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:30.913Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:26:30.913Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T12:28:33.859Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

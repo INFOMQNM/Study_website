@@ -1,0 +1,92 @@
+timestamp,componentName,action,control
+2025-06-05T13:37:44.785Z,/,start,FALSE
+2025-06-05T13:38:00.716Z,/,stop,FALSE
+2025-06-05T13:38:00.716Z,/men,start,FALSE
+2025-06-05T13:38:14.906Z,/men,stop,FALSE
+2025-06-05T13:38:14.906Z,/product/Men/false/24845,start,FALSE
+2025-06-05T13:38:16.389Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-05T13:38:20.837Z,Wildcraft Men Wind Cheaters Beige Jacket,buy,FALSE
+2025-06-05T13:38:20.838Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-05T13:38:22.356Z,/product/Men/false/24845,stop,FALSE
+2025-06-05T13:38:22.356Z,/men,start,FALSE
+2025-06-05T13:38:43.859Z,/men,stop,FALSE
+2025-06-05T13:38:43.859Z,/product/Men/true/12870,start,FALSE
+2025-06-05T13:38:45.335Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-05T13:38:50.828Z,Lee Cooper MenCasual Black Shoes,buy,FALSE
+2025-06-05T13:38:50.829Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-05T13:38:52.643Z,/product/Men/true/12870,stop,FALSE
+2025-06-05T13:38:52.643Z,/men,start,FALSE
+2025-06-05T13:39:19.725Z,/men,stop,FALSE
+2025-06-05T13:39:19.725Z,/product/Men/true/16059,start,FALSE
+2025-06-05T13:39:20.884Z,Is this item produced sustainably?,start,FALSE
+2025-06-05T13:39:32.862Z,Is this item produced sustainably?,stop,FALSE
+2025-06-05T13:39:34.625Z,/product/Men/true/16059,stop,FALSE
+2025-06-05T13:39:34.625Z,/men,start,FALSE
+2025-06-05T13:39:46.944Z,/men,stop,FALSE
+2025-06-05T13:39:46.944Z,/product/Men/false/40281,start,FALSE
+2025-06-05T13:39:48.018Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-06-05T13:39:52.104Z,Scullers Men Beige Trousers,buy,FALSE
+2025-06-05T13:39:52.104Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-06-05T13:39:53.692Z,/product/Men/false/40281,stop,FALSE
+2025-06-05T13:39:53.692Z,/men,start,FALSE
+2025-06-05T13:40:11.203Z,/men,stop,FALSE
+2025-06-05T13:40:11.203Z,/cart,start,FALSE
+2025-06-05T13:40:13.912Z,/cart,stop,FALSE
+2025-06-05T13:40:13.912Z,/men,start,FALSE
+2025-06-05T13:40:38.356Z,/men,stop,FALSE
+2025-06-05T13:40:38.356Z,/product/Men/true/53628,start,FALSE
+2025-06-05T13:40:39.790Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-05T13:40:44.512Z,Q&Q Men Black Dial Analogue Watch C152J202Y,buy,FALSE
+2025-06-05T13:40:44.512Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-05T13:40:45.888Z,/product/Men/true/53628,stop,FALSE
+2025-06-05T13:40:45.888Z,/men,start,FALSE
+2025-06-05T13:40:48.401Z,/men,stop,FALSE
+2025-06-05T13:40:48.401Z,/cart,start,FALSE
+2025-06-05T13:40:50.477Z,/cart,stop,FALSE
+2025-06-05T13:40:50.477Z,/men,start,FALSE
+2025-06-05T13:41:09.490Z,/men,stop,FALSE
+2025-06-05T13:41:09.490Z,/product/Men/true/42598,start,FALSE
+2025-06-05T13:41:10.569Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-05T13:41:13.974Z,United Colors of Benetton Men Blue Shirt,buy,FALSE
+2025-06-05T13:41:13.974Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-05T13:41:15.135Z,/product/Men/true/42598,stop,FALSE
+2025-06-05T13:41:15.135Z,/cart,start,FALSE
+2025-06-05T13:41:17.125Z,/cart,stop,FALSE
+2025-06-05T13:32:31.389Z,/,start,TRUE
+2025-06-05T13:33:26.022Z,/,stop,TRUE
+2025-06-05T13:33:26.022Z,/product/Women/true/6880,start,TRUE
+2025-06-05T13:33:32.126Z,/product/Women/true/6880,stop,TRUE
+2025-06-05T13:33:32.126Z,/men,start,TRUE
+2025-06-05T13:33:34.736Z,/men,stop,TRUE
+2025-06-05T13:33:34.736Z,/cart,start,TRUE
+2025-06-05T13:33:39.102Z,/cart,stop,TRUE
+2025-06-05T13:33:39.102Z,/men,start,TRUE
+2025-06-05T13:33:52.162Z,/men,stop,TRUE
+2025-06-05T13:33:52.162Z,/product/Men/true/17152,start,TRUE
+2025-06-05T13:33:55.711Z,/product/Men/true/17152,stop,TRUE
+2025-06-05T13:33:55.711Z,/men,start,TRUE
+2025-06-05T13:34:30.623Z,/men,stop,TRUE
+2025-06-05T13:34:30.623Z,/product/Men/true/26134,start,TRUE
+2025-06-05T13:34:33.860Z,/product/Men/true/26134,stop,TRUE
+2025-06-05T13:34:33.860Z,/men,start,TRUE
+2025-06-05T13:34:44.834Z,/men,stop,TRUE
+2025-06-05T13:34:44.834Z,/product/Men/true/42598,start,TRUE
+2025-06-05T13:34:49.878Z,/product/Men/true/42598,stop,TRUE
+2025-06-05T13:34:49.878Z,/men,start,TRUE
+2025-06-05T13:34:59.579Z,/men,stop,TRUE
+2025-06-05T13:34:59.579Z,/cart,start,TRUE
+2025-06-05T13:35:03.359Z,/cart,stop,TRUE
+2025-06-05T13:35:03.359Z,/men,start,TRUE
+2025-06-05T13:35:26.833Z,/men,stop,TRUE
+2025-06-05T13:35:26.833Z,/product/Men/false/29568,start,TRUE
+2025-06-05T13:35:30.362Z,/product/Men/false/29568,stop,TRUE
+2025-06-05T13:35:30.362Z,/men,start,TRUE
+2025-06-05T13:35:31.411Z,/men,stop,TRUE
+2025-06-05T13:35:31.411Z,/cart,start,TRUE
+2025-06-05T13:35:33.152Z,/cart,stop,TRUE
+2025-06-05T13:35:33.152Z,/men,start,TRUE
+2025-06-05T13:36:00.133Z,/men,stop,TRUE
+2025-06-05T13:36:00.133Z,/product/Men/true/53628,start,TRUE
+2025-06-05T13:36:03.137Z,/product/Men/true/53628,stop,TRUE
+2025-06-05T13:36:03.137Z,/cart,start,TRUE
+2025-06-05T13:36:12.171Z,/cart,stop,TRUE

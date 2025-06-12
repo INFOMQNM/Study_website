@@ -1,0 +1,53 @@
+timestamp,componentName,action,control
+2025-05-26T11:51:10.001Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T11:51:10.001Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-05-26T11:51:10.001Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-26T11:51:10.001Z,practicality: Will you wear this item more than once a month?,start,False
+2025-05-26T11:51:10.001Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T11:51:10.086Z,/end,stop,False
+2025-05-26T11:51:10.087Z,/,start,False
+2025-05-26T11:51:36.009Z,/men,start,False
+2025-05-26T11:52:12.468Z,/men,stop,False
+2025-05-26T11:52:12.468Z,/product/Men/true/2467,start,False
+2025-05-26T11:52:23.327Z,/product/Men/true/2467,stop,False
+2025-05-26T11:52:23.327Z,/men,start,False
+2025-05-26T11:52:25.083Z,/men,stop,False
+2025-05-26T11:52:25.083Z,/product/Men/true/2467,start,False
+2025-05-26T11:52:25.763Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T11:52:30.691Z,Nike Men White Cap,buy,False
+2025-05-26T11:52:30.691Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-26T11:52:33.943Z,/product/Men/true/2467,stop,False
+2025-05-26T11:52:33.944Z,/men,start,False
+2025-05-26T11:53:14.269Z,/men,stop,False
+2025-05-26T11:53:14.269Z,/product/Men/false/8848,start,False
+2025-05-26T11:53:17.713Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-05-26T11:53:19.211Z,Mark Taylor Men Blue Striped Shirt,buy,False
+2025-05-26T11:53:19.211Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-05-26T11:53:23.226Z,/product/Men/false/8848,stop,False
+2025-05-26T11:53:23.226Z,/men,start,False
+2025-05-26T11:54:40.147Z,/men,stop,False
+2025-05-26T11:54:40.147Z,/product/Men/false/3647,start,False
+2025-05-26T11:54:43.453Z,Is this item produced sustainably?,start,False
+2025-05-26T11:54:44.598Z,Fila Men's Paramount White Navy Shoe,buy,False
+2025-05-26T11:54:44.598Z,Is this item produced sustainably?,stop,False
+2025-05-26T11:54:46.488Z,/product/Men/false/3647,stop,False
+2025-05-26T11:54:46.488Z,/men,start,False
+2025-05-26T11:54:56.400Z,/men,stop,False
+2025-05-26T11:54:56.400Z,/product/Men/false/24845,start,False
+2025-05-26T11:54:57.567Z,Will you wear this item more than once a month?,start,False
+2025-05-26T11:54:58.798Z,Wildcraft Men Wind Cheaters Beige Jacket,buy,False
+2025-05-26T11:54:58.799Z,Will you wear this item more than once a month?,stop,False
+2025-05-26T11:55:02.449Z,/product/Men/false/24845,stop,False
+2025-05-26T11:55:02.450Z,/men,start,False
+2025-05-26T11:55:32.976Z,/men,stop,False
+2025-05-26T11:55:32.976Z,/product/Men/false/39028,start,False
+2025-05-26T11:55:35.104Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T11:55:36.911Z,CASIO ENTICER Men Black Dial Watch A642,buy,False
+2025-05-26T11:55:36.911Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-26T11:55:39.375Z,/product/Men/false/39028,stop,False
+2025-05-26T11:55:39.375Z,/men,start,False
+2025-05-26T11:55:49.497Z,/cart,start,False
+2025-05-26T11:55:55.198Z,/cart,stop,False
+2025-05-26T11:55:55.198Z,/end,start,False
+2025-05-26T11:56:16.589Z,/end,start,True
+2025-05-26T11:56:18.469Z,/end,stop,True

@@ -1,0 +1,100 @@
+timestamp,componentName,action,control
+2025-05-27T13:54:49.547Z,/,start,FALSE
+2025-05-27T13:55:27.168Z,/,stop,FALSE
+2025-05-27T13:55:27.168Z,/men,start,FALSE
+2025-05-27T13:55:59.504Z,/men,stop,FALSE
+2025-05-27T13:55:59.505Z,/product/Men/false/6609,start,FALSE
+2025-05-27T13:56:00.580Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-27T13:56:28.822Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-27T13:56:40.568Z,/product/Men/false/6609,stop,FALSE
+2025-05-27T13:56:40.568Z,/men,start,FALSE
+2025-05-27T13:57:30.364Z,/men,stop,FALSE
+2025-05-27T13:57:30.364Z,/product/Men/true/44919,start,FALSE
+2025-05-27T13:57:31.183Z,Does this item fit in your budget?,start,FALSE
+2025-05-27T13:57:40.041Z,Puma Men Black Shorts,buy,FALSE
+2025-05-27T13:57:40.041Z,Does this item fit in your budget?,stop,FALSE
+2025-05-27T13:57:42.448Z,/product/Men/true/44919,stop,FALSE
+2025-05-27T13:57:42.448Z,/men,start,FALSE
+2025-05-27T13:58:06.609Z,/men,stop,FALSE
+2025-05-27T13:58:06.609Z,/cart,start,FALSE
+2025-05-27T13:58:19.960Z,/cart,stop,FALSE
+2025-05-27T13:58:19.960Z,/men,start,FALSE
+2025-05-27T13:58:19.961Z,/men,stop,FALSE
+2025-05-27T13:58:19.961Z,/product/Men/true/38560,start,FALSE
+2025-05-27T13:58:21.129Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-27T13:58:38.565Z,Nike Men Black Cap,buy,FALSE
+2025-05-27T13:58:38.566Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-27T13:58:44.963Z,/product/Men/true/38560,stop,FALSE
+2025-05-27T13:58:44.963Z,/men,start,FALSE
+2025-05-27T13:59:03.683Z,/men,stop,FALSE
+2025-05-27T13:59:03.683Z,/product/Men/true/25447,start,FALSE
+2025-05-27T13:59:06.817Z,/product/Men/true/25447,stop,FALSE
+2025-05-27T13:59:06.817Z,/men,start,FALSE
+2025-05-27T13:59:51.391Z,/men,stop,FALSE
+2025-05-27T13:59:51.391Z,/product/Men/false/54514,start,FALSE
+2025-05-27T13:59:52.392Z,Is this item produced sustainably?,start,FALSE
+2025-05-27T14:00:00.519Z,F Sports Men White Rodeo Shoes,buy,FALSE
+2025-05-27T14:00:00.519Z,Is this item produced sustainably?,stop,FALSE
+2025-05-27T14:00:03.090Z,/product/Men/false/54514,stop,FALSE
+2025-05-27T14:00:03.090Z,/men,start,FALSE
+2025-05-27T14:00:05.558Z,/men,stop,FALSE
+2025-05-27T14:00:05.558Z,/cart,start,FALSE
+2025-05-27T14:00:08.084Z,/cart,stop,FALSE
+2025-05-27T14:00:08.084Z,/men,start,FALSE
+2025-05-27T14:00:13.420Z,/men,stop,FALSE
+2025-05-27T14:00:13.421Z,/product/Men/false/6609,start,FALSE
+2025-05-27T14:00:14.091Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-27T14:00:41.631Z,Spykar Men's Stripes White Top,buy,FALSE
+2025-05-27T14:00:41.632Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-27T14:00:43.547Z,/product/Men/false/6609,stop,FALSE
+2025-05-27T14:00:43.547Z,/cart,start,FALSE
+2025-05-27T14:00:54.635Z,/cart,stop,FALSE
+2025-05-27T14:00:54.635Z,/men,start,FALSE
+2025-05-27T14:01:29.517Z,/men,stop,FALSE
+2025-05-27T14:01:29.518Z,/product/Men/true/24288,start,FALSE
+2025-05-27T14:01:31.226Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-27T14:01:36.681Z,Quiksilver Men Grey Sweatshirt,buy,FALSE
+2025-05-27T14:01:36.681Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-27T14:01:38.313Z,/product/Men/true/24288,stop,FALSE
+2025-05-27T14:01:38.313Z,/cart,start,FALSE
+2025-05-27T14:01:43.690Z,/cart,stop,FALSE
+2025-05-27T10:20:24.241Z,/,start,TRUE
+2025-05-27T10:21:15.690Z,/,stop,TRUE
+2025-05-27T10:21:15.690Z,/cart,start,TRUE
+2025-05-27T13:41:56.229Z,/cart,stop,TRUE
+2025-05-27T13:41:56.229Z,/,start,TRUE
+2025-05-27T13:44:19.674Z,/,stop,TRUE
+2025-05-27T13:44:19.674Z,/men,start,TRUE
+2025-05-27T13:47:14.756Z,/men,stop,TRUE
+2025-05-27T13:47:14.756Z,/product/Men/true/12213,start,TRUE
+2025-05-27T13:47:24.699Z,/product/Men/true/12213,stop,TRUE
+2025-05-27T13:47:24.699Z,/men,start,TRUE
+2025-05-27T13:48:01.704Z,/men,stop,TRUE
+2025-05-27T13:48:01.704Z,/product/Men/true/5970,start,TRUE
+2025-05-27T13:48:05.168Z,/product/Men/true/5970,stop,TRUE
+2025-05-27T13:48:05.168Z,/men,start,TRUE
+2025-05-27T13:49:17.116Z,/men,stop,TRUE
+2025-05-27T13:49:17.116Z,/product/Men/true/42598,start,TRUE
+2025-05-27T13:49:19.840Z,/product/Men/true/42598,stop,TRUE
+2025-05-27T13:49:19.840Z,/cart,start,TRUE
+2025-05-27T13:49:26.349Z,/cart,stop,TRUE
+2025-05-27T13:49:26.349Z,/men,start,TRUE
+2025-05-27T13:49:39.329Z,/men,stop,TRUE
+2025-05-27T13:49:39.329Z,/product/Men/false/44230,start,TRUE
+2025-05-27T13:49:44.789Z,/product/Men/false/44230,stop,TRUE
+2025-05-27T13:49:44.789Z,/men,start,TRUE
+2025-05-27T13:50:59.556Z,/men,stop,TRUE
+2025-05-27T13:50:59.556Z,/product/Men/false/29750,start,TRUE
+2025-05-27T13:51:02.781Z,/product/Men/false/29750,stop,TRUE
+2025-05-27T13:51:02.781Z,/men,start,TRUE
+2025-05-27T13:51:49.393Z,/men,stop,TRUE
+2025-05-27T13:51:49.393Z,/product/Men/false/19339,start,TRUE
+2025-05-27T13:51:53.601Z,/product/Men/false/19339,stop,TRUE
+2025-05-27T13:51:53.601Z,/men,start,TRUE
+2025-05-27T13:51:55.029Z,/men,stop,TRUE
+2025-05-27T13:51:55.029Z,/cart,start,TRUE
+2025-05-27T13:51:58.494Z,/cart,stop,TRUE
+2025-05-27T13:51:58.494Z,/men,start,TRUE
+2025-05-27T13:52:23.694Z,/men,stop,TRUE
+2025-05-27T13:52:23.694Z,/cart,start,TRUE
+2025-05-27T13:52:24.676Z,/cart,stop,TRUE

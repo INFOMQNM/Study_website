@@ -1,0 +1,57 @@
+timestamp,componentName,action,control
+2025-06-02T21:26:28.724Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-02T21:26:28.724Z,personal_finances: Does this item fit in your budget?,start,False
+2025-06-02T21:26:28.724Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-02T21:26:28.724Z,sustainability: Is this item produced sustainably?,start,False
+2025-06-02T21:26:28.724Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-06-02T21:26:28.796Z,/end,stop,False
+2025-06-02T21:26:28.796Z,/,start,False
+2025-06-02T21:26:49.729Z,/men,start,False
+2025-06-02T21:28:06.478Z,/men,stop,False
+2025-06-02T21:28:06.478Z,/product/Men/false/54514,start,False
+2025-06-02T21:28:08.473Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-02T21:28:10.079Z,F Sports Men White Rodeo Shoes,buy,False
+2025-06-02T21:28:10.079Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-02T21:28:15.865Z,/men,start,False
+2025-06-02T21:30:44.754Z,/men,stop,False
+2025-06-02T21:30:44.754Z,/product/Men/false/48457,start,False
+2025-06-02T21:30:45.983Z,Does this item fit in your budget?,start,False
+2025-06-02T21:30:50.820Z,French Connection Men Multi Coloured Cargo Shorts,buy,False
+2025-06-02T21:30:50.820Z,Does this item fit in your budget?,stop,False
+2025-06-02T21:30:55.255Z,/men,start,False
+2025-06-02T21:31:49.983Z,/men,stop,False
+2025-06-02T21:31:49.983Z,/product/Men/true/38560,start,False
+2025-06-02T21:31:55.139Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-02T21:32:18.224Z,Nike Men Black Cap,buy,False
+2025-06-02T21:32:18.224Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-06-02T21:32:20.793Z,/men,start,False
+2025-06-02T21:32:48.615Z,/men,stop,False
+2025-06-02T21:32:48.615Z,/product/Men/true/48575,start,False
+2025-06-02T21:32:50.205Z,Is this item produced sustainably?,start,False
+2025-06-02T21:32:51.370Z,Revv Men Steel Bracelet,buy,False
+2025-06-02T21:32:51.370Z,Is this item produced sustainably?,stop,False
+2025-06-02T21:32:54.982Z,/men,start,False
+2025-06-02T21:33:06.703Z,/cart,start,False
+2025-06-02T21:33:10.865Z,/men,start,False
+2025-06-02T21:33:49.909Z,/men,stop,False
+2025-06-02T21:33:49.909Z,/product/Men/true/17152,start,False
+2025-06-02T21:33:52.321Z,Will you wear this item more than 10 times?,start,False
+2025-06-02T21:33:58.581Z,U.S. Polo Assn. Men Solid Black Jacket,buy,False
+2025-06-02T21:33:58.581Z,Will you wear this item more than 10 times?,stop,False
+2025-06-02T21:34:01.073Z,/men,start,False
+2025-06-02T21:34:09.871Z,/cart,start,False
+2025-06-02T21:34:18.206Z,/men,start,False
+2025-06-02T21:34:41.410Z,/men,stop,False
+2025-06-02T21:34:41.410Z,/product/Men/true/48950,start,False
+2025-06-02T21:34:42.675Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-02T21:34:43.615Z,Revv Men Steel Ring,buy,False
+2025-06-02T21:34:43.615Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-02T21:34:48.908Z,/cart,start,False
+2025-06-02T21:35:08.325Z,/men,start,False
+2025-06-02T21:35:09.515Z,/cart,start,False
+2025-06-02T21:35:30.648Z,/men,start,False
+2025-06-02T21:35:41.920Z,/men,start,False
+2025-06-02T21:35:43.671Z,/cart,start,False
+2025-06-02T21:35:55.203Z,/cart,stop,False
+2025-06-02T21:35:55.203Z,/end,start,False
+2025-06-02T21:36:45.130Z,/end,stop,False

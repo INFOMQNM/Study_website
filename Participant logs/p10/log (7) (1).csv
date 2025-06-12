@@ -1,0 +1,49 @@
+timestamp,componentName,action,control
+2025-06-01T13:47:03.236Z,sustainability: Is this item produced sustainably?,start,False
+2025-06-01T13:47:03.236Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-01T13:47:03.236Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T13:47:03.236Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T13:47:03.236Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-06-01T13:47:03.552Z,/end,stop,False
+2025-06-01T13:47:03.552Z,/,start,False
+2025-06-01T13:47:23.760Z,/men,start,False
+2025-06-01T13:47:40.255Z,/men,stop,False
+2025-06-01T13:47:40.255Z,/product/Men/true/7054,start,False
+2025-06-01T13:47:42.655Z,Is this item produced sustainably?,start,False
+2025-06-01T13:47:56.669Z,s.Oliver Men Striped Dark Grey Shirt,buy,False
+2025-06-01T13:47:56.669Z,Is this item produced sustainably?,stop,False
+2025-06-01T13:48:02.590Z,/men,start,False
+2025-06-01T13:48:16.981Z,/men,stop,False
+2025-06-01T13:48:16.981Z,/product/Men/true/26134,start,False
+2025-06-01T13:48:22.988Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-06-01T13:48:29.121Z,John Miller Men Black Trousers,buy,False
+2025-06-01T13:48:29.121Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-06-01T13:48:37.156Z,/men,start,False
+2025-06-01T13:48:56.002Z,/men,stop,False
+2025-06-01T13:48:56.003Z,/product/Men/true/17152,start,False
+2025-06-01T13:48:58.006Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T13:49:02.657Z,U.S. Polo Assn. Men Solid Black Jacket,buy,False
+2025-06-01T13:49:02.658Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-01T13:49:06.466Z,/men,start,False
+2025-06-01T13:49:29.738Z,/men,stop,False
+2025-06-01T13:49:29.738Z,/product/Men/false/12511,start,False
+2025-06-01T13:49:33.836Z,Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T13:49:36.660Z,Red Tape Men Casual Brown Casual Shoes,buy,False
+2025-06-01T13:49:36.660Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-06-01T13:49:39.893Z,/men,start,False
+2025-06-01T13:50:19.305Z,/men,stop,False
+2025-06-01T13:50:19.305Z,/product/Men/false/48578,start,False
+2025-06-01T13:50:21.044Z,Will you wear this item more than 10 times?,start,False
+2025-06-01T13:50:22.665Z,Revv Men Steel Bracelet,buy,False
+2025-06-01T13:50:22.666Z,Will you wear this item more than 10 times?,stop,False
+2025-06-01T13:50:26.151Z,/cart,start,False
+2025-06-01T13:50:30.654Z,/men,start,False
+2025-06-01T13:50:41.922Z,/men,stop,False
+2025-06-01T13:50:41.923Z,/product/Men/true/48950,start,False
+2025-06-01T13:50:43.225Z,Is this item produced sustainably?,start,False
+2025-06-01T13:50:47.240Z,Revv Men Steel Ring,buy,False
+2025-06-01T13:50:47.241Z,Is this item produced sustainably?,stop,False
+2025-06-01T13:50:51.255Z,/cart,start,False
+2025-06-01T13:51:58.012Z,/cart,stop,False
+2025-06-01T13:51:58.012Z,/end,start,False
+2025-06-01T13:54:33.280Z,/end,stop,False

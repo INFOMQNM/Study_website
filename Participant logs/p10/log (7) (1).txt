@@ -1,0 +1,287 @@
+[
+  {
+    "timestamp": "2025-06-01T13:47:03.236Z",
+    "componentName": [
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:03.552Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:03.552Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:23.760Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:40.255Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:40.255Z",
+    "componentName": "/product/Men/true/7054",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:42.655Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:56.669Z",
+    "componentName": "s.Oliver Men Striped Dark Grey Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:47:56.669Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:02.590Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:16.981Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:16.981Z",
+    "componentName": "/product/Men/true/26134",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:22.988Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:29.121Z",
+    "componentName": "John Miller Men Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:29.121Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:37.156Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:56.002Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:56.003Z",
+    "componentName": "/product/Men/true/17152",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:48:58.006Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:02.657Z",
+    "componentName": "U.S. Polo Assn. Men Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:02.658Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:06.466Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:29.738Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:29.738Z",
+    "componentName": "/product/Men/false/12511",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:33.836Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:36.660Z",
+    "componentName": "Red Tape Men Casual Brown Casual Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:36.660Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:49:39.893Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:19.305Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:19.305Z",
+    "componentName": "/product/Men/false/48578",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:21.044Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:22.665Z",
+    "componentName": "Revv Men Steel Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:22.666Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:26.151Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:30.654Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:41.922Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:41.923Z",
+    "componentName": "/product/Men/true/48950",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:43.225Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:47.240Z",
+    "componentName": "Revv Men Steel Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:47.241Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:50:51.255Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:51:58.012Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:51:58.012Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T13:54:33.280Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

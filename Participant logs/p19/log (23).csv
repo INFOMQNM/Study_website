@@ -1,0 +1,50 @@
+timestamp,componentName,action,control
+2025-06-07T12:41:48.073Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-06-07T12:41:48.073Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-07T12:41:48.073Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-06-07T12:41:48.073Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-06-07T12:41:48.073Z,personal_finances: Does this item fit in your budget?,start,False
+2025-06-07T12:41:48.345Z,/end,stop,False
+2025-06-07T12:41:48.346Z,/,start,False
+2025-06-07T12:41:58.438Z,/,start,False
+2025-06-07T12:42:05.615Z,/,stop,False
+2025-06-07T12:42:05.615Z,/product/Women/true/10498,start,False
+2025-06-07T12:42:08.577Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-06-07T12:42:13.861Z,Flying Machine Women RN Blue Tops,buy,False
+2025-06-07T12:42:13.861Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-06-07T12:42:18.614Z,/men,start,False
+2025-06-07T12:42:25.066Z,/,start,False
+2025-06-07T12:42:40.079Z,/,stop,False
+2025-06-07T12:42:40.079Z,/product/Women/true/43523,start,False
+2025-06-07T12:42:41.421Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-07T12:42:45.069Z,French Connection Women Beige Trousers,buy,False
+2025-06-07T12:42:45.069Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-06-07T12:42:47.536Z,/,start,False
+2025-06-07T12:43:07.307Z,/,stop,False
+2025-06-07T12:43:07.307Z,/product/Women/false/44237,start,False
+2025-06-07T12:43:09.048Z,Will you wear this item more than 10 times?,start,False
+2025-06-07T12:43:10.854Z,Nike Women White and Green Sneakers,buy,False
+2025-06-07T12:43:10.854Z,Will you wear this item more than 10 times?,stop,False
+2025-06-07T12:43:14.957Z,/,start,False
+2025-06-07T12:43:34.507Z,/,stop,False
+2025-06-07T12:43:34.507Z,/product/Women/false/22314,start,False
+2025-06-07T12:43:36.395Z,Does this purchase align with your environmental values?,start,False
+2025-06-07T12:43:40.092Z,Wildcraft Women Solid Black Jacket,buy,False
+2025-06-07T12:43:40.093Z,Does this purchase align with your environmental values?,stop,False
+2025-06-07T12:43:42.923Z,/,start,False
+2025-06-07T12:43:56.991Z,/,stop,False
+2025-06-07T12:43:56.991Z,/product/Women/true/56320,start,False
+2025-06-07T12:43:57.822Z,Does this item fit in your budget?,start,False
+2025-06-07T12:44:00.196Z,Fastrack Women Steel Dial Watch,buy,False
+2025-06-07T12:44:00.196Z,Does this item fit in your budget?,stop,False
+2025-06-07T12:44:04.321Z,/,start,False
+2025-06-07T12:44:10.024Z,/,stop,False
+2025-06-07T12:44:10.024Z,/product/Women/true/49005,start,False
+2025-06-07T12:44:12.559Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-06-07T12:44:14.529Z,Lucera Women Silver Ring,buy,False
+2025-06-07T12:44:14.529Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-06-07T12:44:17.656Z,/,start,False
+2025-06-07T12:44:19.824Z,/cart,start,False
+2025-06-07T12:44:30.459Z,/cart,stop,False
+2025-06-07T12:44:30.459Z,/end,start,False
+2025-06-07T12:44:38.354Z,/end,stop,False

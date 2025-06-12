@@ -1,0 +1,215 @@
+[
+  {
+    "timestamp": "2025-05-27T09:46:06.243Z",
+    "componentName": [
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      }
+    ],
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:06.305Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:06.305Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:32.208Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:32.208Z",
+    "componentName": "/product/Women/true/27891",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:33.634Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:35.466Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:37.263Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:48.177Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:48.177Z",
+    "componentName": "/product/Women/true/12532",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:49.868Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:50.996Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:46:53.735Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:10.011Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:10.011Z",
+    "componentName": "/product/Women/true/52193",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:12.150Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:13.641Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:14.841Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:28.327Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:28.327Z",
+    "componentName": "/product/Women/false/48496",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:29.461Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:30.988Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:32.264Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:35.618Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:48.300Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:48.300Z",
+    "componentName": "/product/Women/true/22714",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:49.434Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:50.454Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:51.255Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:56.626Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:47:56.626Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T09:49:42.604Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

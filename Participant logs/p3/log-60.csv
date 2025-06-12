@@ -1,0 +1,52 @@
+timestamp,componentName,action,control
+2025-05-26T12:21:12.546Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-05-26T12:21:12.546Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-05-26T12:21:12.546Z,personal_finances: Does this item fit in your budget?,start,False
+2025-05-26T12:21:12.546Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T12:21:12.546Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-26T12:21:12.652Z,/end,stop,False
+2025-05-26T12:21:12.652Z,/,start,False
+2025-05-26T12:22:23.996Z,/,stop,False
+2025-05-26T12:22:23.996Z,/product/Women/false/15262,start,False
+2025-05-26T12:22:26.380Z,Does this purchase align with your environmental values?,start,False
+2025-05-26T12:22:28.792Z,ADIDAS Originals Women SL 72 Purple Casual Shoes,buy,False
+2025-05-26T12:22:28.793Z,Does this purchase align with your environmental values?,stop,False
+2025-05-26T12:22:32.285Z,Will you wear this item more than 10 times?,start,False
+2025-05-26T12:22:35.429Z,Will you wear this item more than 10 times?,stop,False
+2025-05-26T12:22:37.143Z,/,start,False
+2025-05-26T12:23:26.110Z,/,stop,False
+2025-05-26T12:23:26.110Z,/product/Women/true/10498,start,False
+2025-05-26T12:23:27.472Z,Does this item fit in your budget?,start,False
+2025-05-26T12:23:31.205Z,Flying Machine Women RN Blue Tops,buy,False
+2025-05-26T12:23:31.205Z,Does this item fit in your budget?,stop,False
+2025-05-26T12:23:36.354Z,/,start,False
+2025-05-26T12:24:32.280Z,/,stop,False
+2025-05-26T12:24:32.280Z,/product/Women/false/15624,start,False
+2025-05-26T12:24:37.423Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T12:24:41.034Z,Nike Women AS Squad Fleece FZ Hoody Grey Sweatshirts,buy,False
+2025-05-26T12:24:41.034Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-26T12:24:42.752Z,/,start,False
+2025-05-26T12:25:03.320Z,/cart,start,False
+2025-05-26T12:25:09.757Z,/,start,False
+2025-05-26T12:25:36.649Z,/,stop,False
+2025-05-26T12:25:36.649Z,/product/Women/true/12536,start,False
+2025-05-26T12:25:38.898Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-26T12:25:42.525Z,Puma Women Solid Black Sweatshirts,buy,False
+2025-05-26T12:25:42.526Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-05-26T12:25:44.104Z,/,start,False
+2025-05-26T12:25:57.347Z,/,stop,False
+2025-05-26T12:25:57.347Z,/product/Women/false/59777,start,False
+2025-05-26T12:25:58.643Z,Does this purchase align with your environmental values?,start,False
+2025-05-26T12:26:00.021Z,Estelle Women Gold Bracelet,buy,False
+2025-05-26T12:26:00.021Z,Does this purchase align with your environmental values?,stop,False
+2025-05-26T12:26:01.495Z,/cart,start,False
+2025-05-26T12:26:04.629Z,/,start,False
+2025-05-26T12:26:20.398Z,/,stop,False
+2025-05-26T12:26:20.398Z,/product/Women/true/58137,start,False
+2025-05-26T12:26:21.971Z,Will you wear this item more than 10 times?,start,False
+2025-05-26T12:26:23.383Z,Rreverie Gold Plated Earrings,buy,False
+2025-05-26T12:26:23.384Z,Will you wear this item more than 10 times?,stop,False
+2025-05-26T12:26:24.979Z,/cart,start,False
+2025-05-26T12:26:30.913Z,/cart,stop,False
+2025-05-26T12:26:30.913Z,/end,start,False
+2025-05-26T12:28:33.859Z,/end,stop,False

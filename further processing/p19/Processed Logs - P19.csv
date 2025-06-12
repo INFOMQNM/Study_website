@@ -1,0 +1,107 @@
+timestamp,componentName,action,control
+2025-06-07T12:41:48.346Z,/,start,FALSE
+2025-06-07T12:42:05.615Z,/,stop,FALSE
+2025-06-07T12:42:05.615Z,/product/Women/true/10498,start,FALSE
+2025-06-07T12:42:08.577Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-07T12:42:13.861Z,Flying Machine Women RN Blue Tops,buy,FALSE
+2025-06-07T12:42:13.861Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-07T12:42:18.614Z,/product/Women/true/10498,stop,FALSE
+2025-06-07T12:42:18.614Z,/men,start,FALSE
+2025-06-07T12:42:25.066Z,/men,stop,FALSE
+2025-06-07T12:42:25.066Z,/,start,FALSE
+2025-06-07T12:42:40.079Z,/,stop,FALSE
+2025-06-07T12:42:40.079Z,/product/Women/true/43523,start,FALSE
+2025-06-07T12:42:41.421Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-06-07T12:42:45.069Z,French Connection Women Beige Trousers,buy,FALSE
+2025-06-07T12:42:45.069Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-06-07T12:42:47.536Z,/product/Women/true/43523,stop,FALSE
+2025-06-07T12:42:47.536Z,/,start,FALSE
+2025-06-07T12:43:07.307Z,/,stop,FALSE
+2025-06-07T12:43:07.307Z,/product/Women/false/44237,start,FALSE
+2025-06-07T12:43:09.048Z,Will you wear this item more than 10 times?,start,FALSE
+2025-06-07T12:43:10.854Z,Nike Women White and Green Sneakers,buy,FALSE
+2025-06-07T12:43:10.854Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-06-07T12:43:14.957Z,/product/Women/false/44237,stop,FALSE
+2025-06-07T12:43:14.957Z,/,start,FALSE
+2025-06-07T12:43:34.507Z,/,stop,FALSE
+2025-06-07T12:43:34.507Z,/product/Women/false/22314,start,FALSE
+2025-06-07T12:43:36.395Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-07T12:43:40.092Z,Wildcraft Women Solid Black Jacket,buy,FALSE
+2025-06-07T12:43:40.093Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-07T12:43:42.923Z,/product/Women/false/22314,stop,FALSE
+2025-06-07T12:43:42.923Z,/,start,FALSE
+2025-06-07T12:43:56.991Z,/,stop,FALSE
+2025-06-07T12:43:56.991Z,/product/Women/true/56320,start,FALSE
+2025-06-07T12:43:57.822Z,Does this item fit in your budget?,start,FALSE
+2025-06-07T12:44:00.196Z,Fastrack Women Steel Dial Watch,buy,FALSE
+2025-06-07T12:44:00.196Z,Does this item fit in your budget?,stop,FALSE
+2025-06-07T12:44:04.321Z,/product/Women/true/56320,stop,FALSE
+2025-06-07T12:44:04.321Z,/,start,FALSE
+2025-06-07T12:44:10.024Z,/,stop,FALSE
+2025-06-07T12:44:10.024Z,/product/Women/true/49005,start,FALSE
+2025-06-07T12:44:12.559Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-07T12:44:14.529Z,Lucera Women Silver Ring,buy,FALSE
+2025-06-07T12:44:14.529Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-07T12:44:17.656Z,/product/Women/true/49005,stop,FALSE
+2025-06-07T12:44:17.656Z,/,start,FALSE
+2025-06-07T12:44:19.824Z,/,stop,FALSE
+2025-06-07T12:44:19.824Z,/cart,start,FALSE
+2025-06-07T12:44:30.459Z,/cart,stop,FALSE
+2025-06-07T12:34:17.735Z,/,start,TRUE
+2025-06-07T12:34:27.265Z,/,stop,TRUE
+2025-06-07T12:34:27.265Z,/cart,start,TRUE
+2025-06-07T12:34:29.175Z,/cart,stop,TRUE
+2025-06-07T12:34:29.175Z,/,start,TRUE
+2025-06-07T12:34:40.646Z,/,stop,TRUE
+2025-06-07T12:34:40.647Z,/product/Women/true/12532,start,TRUE
+2025-06-07T12:34:48.595Z,/product/Women/true/12532,stop,TRUE
+2025-06-07T12:34:48.595Z,/cart,start,TRUE
+2025-06-07T12:34:50.439Z,/cart,stop,TRUE
+2025-06-07T12:34:50.439Z,/,start,TRUE
+2025-06-07T12:35:04.671Z,/,stop,TRUE
+2025-06-07T12:35:04.672Z,/product/Women/true/27891,start,TRUE
+2025-06-07T12:35:11.194Z,/product/Women/true/27891,stop,TRUE
+2025-06-07T12:35:11.194Z,/,start,TRUE
+2025-06-07T12:35:16.090Z,/,stop,TRUE
+2025-06-07T12:35:16.090Z,/product/Women/true/38026,start,TRUE
+2025-06-07T12:35:22.716Z,/product/Women/true/38026,stop,TRUE
+2025-06-07T12:35:22.716Z,/,start,TRUE
+2025-06-07T12:35:34.053Z,/,stop,TRUE
+2025-06-07T12:35:34.053Z,/product/Women/true/57095,start,TRUE
+2025-06-07T12:35:41.574Z,/product/Women/true/57095,stop,TRUE
+2025-06-07T12:35:41.574Z,/,start,TRUE
+2025-06-07T12:35:42.691Z,/,stop,TRUE
+2025-06-07T12:35:42.691Z,/cart,start,TRUE
+2025-06-07T12:35:44.880Z,/cart,stop,TRUE
+2025-06-07T12:35:44.880Z,/,start,TRUE
+2025-06-07T12:36:09.132Z,/,stop,TRUE
+2025-06-07T12:36:09.132Z,/product/Women/false/48319,start,TRUE
+2025-06-07T12:36:15.797Z,/product/Women/false/48319,stop,TRUE
+2025-06-07T12:36:15.797Z,/,start,TRUE
+2025-06-07T12:36:27.612Z,/,stop,TRUE
+2025-06-07T12:36:27.612Z,/product/Women/false/58030,start,TRUE
+2025-06-07T12:36:32.893Z,/product/Women/false/58030,stop,TRUE
+2025-06-07T12:36:32.893Z,/,start,TRUE
+2025-06-07T12:36:33.763Z,/,stop,TRUE
+2025-06-07T12:36:33.763Z,/cart,start,TRUE
+2025-06-07T12:36:38.877Z,/cart,stop,TRUE
+2025-06-07T12:36:38.877Z,/,start,TRUE
+2025-06-07T12:37:04.946Z,/,stop,TRUE
+2025-06-07T12:37:04.946Z,/product/Women/true/22714,start,TRUE
+2025-06-07T12:37:10.354Z,/product/Women/true/22714,stop,TRUE
+2025-06-07T12:37:10.354Z,/,start,TRUE
+2025-06-07T12:37:16.202Z,/,stop,TRUE
+2025-06-07T12:37:16.202Z,/cart,start,TRUE
+2025-06-07T12:37:27.529Z,/cart,stop,TRUE
+2025-06-07T12:37:27.529Z,/,start,TRUE
+2025-06-07T12:37:37.282Z,/,stop,TRUE
+2025-06-07T12:37:37.282Z,/product/Women/true/49041,start,TRUE
+2025-06-07T12:37:41.449Z,/product/Women/true/49041,stop,TRUE
+2025-06-07T12:37:41.449Z,/,start,TRUE
+2025-06-07T12:37:44.315Z,/,stop,TRUE
+2025-06-07T12:37:44.315Z,/product/Women/true/49005,start,TRUE
+2025-06-07T12:37:50.008Z,/product/Women/true/49005,stop,TRUE
+2025-06-07T12:37:50.008Z,/,start,TRUE
+2025-06-07T12:38:27.410Z,/,stop,TRUE
+2025-06-07T12:38:27.410Z,/cart,start,TRUE
+2025-06-07T12:38:43.699Z,/cart,stop,TRUE

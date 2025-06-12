@@ -1,0 +1,347 @@
+[
+  {
+    "timestamp": "2025-06-05T13:54:24.967Z",
+    "componentName": [
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:25.044Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:25.044Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:33.583Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:33.583Z",
+    "componentName": "/product/Women/true/22714",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:34.658Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:41.962Z",
+    "componentName": "Nike Women Dunk High Skinny Olive Casual Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:41.962Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:44.506Z",
+    "componentName": "/product/Women/true/22714",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:54:44.506Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:12.733Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:12.734Z",
+    "componentName": "/product/Women/true/20011",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:18.681Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:26.314Z",
+    "componentName": "United Colors of Benetton Women Red Striped Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:26.315Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:27.898Z",
+    "componentName": "/product/Women/true/20011",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:27.898Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:34.398Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:43.943Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:43.943Z",
+    "componentName": "/product/Women/false/32585",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:49.343Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:53.002Z",
+    "componentName": "Only  Women Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:53.003Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:54.212Z",
+    "componentName": "/product/Women/false/32585",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:55:54.212Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:02.214Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:02.214Z",
+    "componentName": "/product/Women/true/2589",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:05.620Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:08.557Z",
+    "componentName": "Quechua Women Maroon Cap",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:08.557Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:09.750Z",
+    "componentName": "/product/Women/true/2589",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:09.750Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:11.890Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:14.404Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:56:36.473Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:04.804Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:04.804Z",
+    "componentName": "/product/Women/false/59777",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:07.520Z",
+    "componentName": "/product/Women/false/59777",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:07.520Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:28.193Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:28.193Z",
+    "componentName": "/product/Women/false/51633",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:29.428Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:37.256Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:38.313Z",
+    "componentName": "/product/Women/false/51633",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:38.313Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:50.413Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:50.414Z",
+    "componentName": "/product/Women/false/46121",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:53.534Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:56.356Z",
+    "componentName": "Wildcraft Women Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:56.356Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:57:57.145Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:58:02.523Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:58:02.523Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:59:41.189Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

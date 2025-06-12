@@ -1,0 +1,335 @@
+[
+  {
+    "timestamp": "2025-06-02T21:26:28.724Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:26:28.796Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:26:28.796Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:26:49.729Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:06.478Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:06.478Z",
+    "componentName": "/product/Men/false/54514",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:08.473Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:10.079Z",
+    "componentName": "F Sports Men White Rodeo Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:10.079Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:28:15.865Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:44.754Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:44.754Z",
+    "componentName": "/product/Men/false/48457",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:45.983Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:50.820Z",
+    "componentName": "French Connection Men Multi Coloured Cargo Shorts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:50.820Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:30:55.255Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:31:49.983Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:31:49.983Z",
+    "componentName": "/product/Men/true/38560",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:31:55.139Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:18.224Z",
+    "componentName": "Nike Men Black Cap",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:18.224Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:20.793Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:48.615Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:48.615Z",
+    "componentName": "/product/Men/true/48575",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:50.205Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:51.370Z",
+    "componentName": "Revv Men Steel Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:51.370Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:32:54.982Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:06.703Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:10.865Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:49.909Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:49.909Z",
+    "componentName": "/product/Men/true/17152",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:52.321Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:58.581Z",
+    "componentName": "U.S. Polo Assn. Men Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:33:58.581Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:01.073Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:09.871Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:18.206Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:41.410Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:41.410Z",
+    "componentName": "/product/Men/true/48950",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:42.675Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:43.615Z",
+    "componentName": "Revv Men Steel Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:43.615Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:34:48.908Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:08.325Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:09.515Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:30.648Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:41.920Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:43.671Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:55.203Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:35:55.203Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-02T21:36:45.130Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

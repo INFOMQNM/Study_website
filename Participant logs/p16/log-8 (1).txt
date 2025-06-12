@@ -1,0 +1,371 @@
+[
+  {
+    "timestamp": "2025-06-05T13:31:42.751Z",
+    "componentName": [
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:31:42.825Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:31:42.825Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:28.883Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:28.883Z",
+    "componentName": "/product/Women/false/22314",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:30.380Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:32.173Z",
+    "componentName": "Wildcraft Women Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:32.174Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:39.689Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:32:56.164Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:00.072Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:05.641Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:06.516Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:11.867Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:13.968Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:29.158Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:29.158Z",
+    "componentName": "/product/Women/true/57095",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:30.522Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:31.785Z",
+    "componentName": "Elle Women Black Culottes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:31.785Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:34.617Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:46.089Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:46.090Z",
+    "componentName": "/product/Women/false/15262",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:47.390Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:48.363Z",
+    "componentName": "ADIDAS Originals Women SL 72 Purple Casual Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:48.364Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:33:49.951Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:21.257Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:21.257Z",
+    "componentName": "/product/Women/false/30956",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:22.971Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:23.964Z",
+    "componentName": "Fabindia Women Mustard Tussar Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:23.965Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:25.733Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:30.404Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:36.807Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:36.807Z",
+    "componentName": "/product/Women/true/10498",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:38.671Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:39.693Z",
+    "componentName": "Flying Machine Women RN Blue Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:39.693Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:40.946Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:52.715Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:53.828Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:54.635Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:55.291Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:34:56.821Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:13.941Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:13.941Z",
+    "componentName": "/product/Women/true/49005",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:14.745Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:15.522Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:16.344Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:16.968Z",
+    "componentName": "Lucera Women Silver Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:16.968Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:18.769Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:20.810Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:22.092Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:25.316Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:25.317Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:35:27.422Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

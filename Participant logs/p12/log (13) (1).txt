@@ -1,0 +1,275 @@
+[
+  {
+    "timestamp": "2025-06-01T15:10:23.049Z",
+    "componentName": [
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:23.321Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:23.321Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:33.548Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:44.011Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:44.011Z",
+    "componentName": "/product/Men/true/16202",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:45.391Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:48.100Z",
+    "componentName": "Puma Men Logo Hooded Black SweatShirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:48.100Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:51.380Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:10:53.582Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:03.528Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:03.528Z",
+    "componentName": "/product/Men/true/53628",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:04.835Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:07.736Z",
+    "componentName": "Q&Q Men Black Dial Analogue Watch C152J202Y",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:07.736Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:10.811Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:12.998Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:43.429Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:43.429Z",
+    "componentName": "/product/Men/false/16020",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:45.170Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:47.919Z",
+    "componentName": "Turtle Solid Men Grey Trouser",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:47.919Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:53.250Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:11:56.712Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:02.459Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:36.189Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:36.189Z",
+    "componentName": "/product/Men/true/25447",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:37.318Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:41.169Z",
+    "componentName": "Nike Men Casual Navy Blue Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:41.169Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:43.837Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:12:49.978Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:24.060Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:24.061Z",
+    "componentName": "/product/Men/true/48583",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:25.281Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:28.405Z",
+    "componentName": "Revv Men Steel Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:28.405Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:30.186Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:43.289Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:13:43.289Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:16:08.137Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

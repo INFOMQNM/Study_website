@@ -1,0 +1,46 @@
+timestamp,componentName,action,control
+2025-06-07T12:49:13.519Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-06-07T12:49:13.519Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-07T12:49:13.519Z,practicality: Will you wear this item more than once a month?,start,False
+2025-06-07T12:49:13.519Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-06-07T12:49:13.519Z,personal_finances: Does this item fit in your budget?,start,False
+2025-06-07T12:49:13.854Z,/end,stop,False
+2025-06-07T12:49:13.854Z,/,start,False
+2025-06-07T12:49:27.100Z,/,start,False
+2025-06-07T12:49:31.228Z,/,stop,False
+2025-06-07T12:49:31.228Z,/product/Women/true/14717,start,False
+2025-06-07T12:49:34.409Z,Does this purchase align with your environmental values?,start,False
+2025-06-07T12:49:39.470Z,Jealous 21 Women Casual Top Black Tops,buy,False
+2025-06-07T12:49:39.470Z,Does this purchase align with your environmental values?,stop,False
+2025-06-07T12:49:42.492Z,/,start,False
+2025-06-07T12:50:17.143Z,/,stop,False
+2025-06-07T12:50:17.143Z,/product/Women/false/32585,start,False
+2025-06-07T12:50:20.412Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-07T12:50:23.334Z,Only  Women Black Trousers,buy,False
+2025-06-07T12:50:23.334Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-06-07T12:50:25.758Z,/,start,False
+2025-06-07T12:50:35.158Z,/,stop,False
+2025-06-07T12:50:35.159Z,/product/Women/false/58519,start,False
+2025-06-07T12:50:37.001Z,Will you wear this item more than once a month?,start,False
+2025-06-07T12:50:39.193Z,Tonga Women Grey Top,buy,False
+2025-06-07T12:50:39.194Z,Will you wear this item more than once a month?,stop,False
+2025-06-07T12:50:41.591Z,/,start,False
+2025-06-07T12:51:02.407Z,/,stop,False
+2025-06-07T12:51:02.407Z,/product/Women/true/22714,start,False
+2025-06-07T12:51:03.647Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-06-07T12:51:04.914Z,Nike Women Dunk High Skinny Olive Casual Shoes,buy,False
+2025-06-07T12:51:04.914Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-06-07T12:51:09.587Z,/,start,False
+2025-06-07T12:51:11.207Z,/cart,start,False
+2025-06-07T12:51:17.700Z,/,start,False
+2025-06-07T12:51:27.545Z,/,stop,False
+2025-06-07T12:51:27.546Z,/product/Women/true/6880,start,False
+2025-06-07T12:51:29.467Z,Does this item fit in your budget?,start,False
+2025-06-07T12:51:31.022Z,Forever New Women Long Black Jacket,buy,False
+2025-06-07T12:51:31.022Z,Does this item fit in your budget?,stop,False
+2025-06-07T12:51:35.196Z,/cart,start,False
+2025-06-07T12:51:42.619Z,/,start,False
+2025-06-07T12:52:11.784Z,/cart,start,False
+2025-06-07T12:52:18.867Z,/cart,stop,False
+2025-06-07T12:52:18.867Z,/end,start,False
+2025-06-07T12:52:24.303Z,/end,stop,False

@@ -1,0 +1,67 @@
+timestamp,componentName,action,control
+2025-06-07T12:34:17.343Z,personal_finances: Does this item fit in your budget?,start,True
+2025-06-07T12:34:17.343Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-06-07T12:34:17.343Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:34:17.343Z,sustainability: Is this item produced sustainably?,start,True
+2025-06-07T12:34:17.343Z,practicality: Will you wear this item more than once a month?,start,True
+2025-06-07T12:34:17.735Z,/end,stop,True
+2025-06-07T12:34:17.735Z,/,start,True
+2025-06-07T12:34:27.265Z,/cart,start,True
+2025-06-07T12:34:29.175Z,/,start,True
+2025-06-07T12:34:31.517Z,/,start,True
+2025-06-07T12:34:40.646Z,/,stop,True
+2025-06-07T12:34:40.647Z,/product/Women/true/12532,start,True
+2025-06-07T12:34:42.264Z,Does this item fit in your budget?,start,True
+2025-06-07T12:34:45.680Z,Does this item fit in your budget?,stop,True
+2025-06-07T12:34:48.595Z,/cart,start,True
+2025-06-07T12:34:50.439Z,/,start,True
+2025-06-07T12:35:04.671Z,/,stop,True
+2025-06-07T12:35:04.672Z,/product/Women/true/27891,start,True
+2025-06-07T12:35:06.530Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-06-07T12:35:08.175Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-06-07T12:35:11.194Z,/,start,True
+2025-06-07T12:35:16.090Z,/,stop,True
+2025-06-07T12:35:16.090Z,/product/Women/true/38026,start,True
+2025-06-07T12:35:17.807Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:35:19.218Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-07T12:35:22.716Z,/,start,True
+2025-06-07T12:35:34.053Z,/,stop,True
+2025-06-07T12:35:34.053Z,/product/Women/true/57095,start,True
+2025-06-07T12:35:37.817Z,Is this item produced sustainably?,start,True
+2025-06-07T12:35:39.788Z,Is this item produced sustainably?,stop,True
+2025-06-07T12:35:41.574Z,/,start,True
+2025-06-07T12:35:42.691Z,/cart,start,True
+2025-06-07T12:35:44.880Z,/,start,True
+2025-06-07T12:36:09.132Z,/,stop,True
+2025-06-07T12:36:09.132Z,/product/Women/false/48319,start,True
+2025-06-07T12:36:10.663Z,Will you wear this item more than once a month?,start,True
+2025-06-07T12:36:11.830Z,Will you wear this item more than once a month?,stop,True
+2025-06-07T12:36:15.797Z,/,start,True
+2025-06-07T12:36:27.612Z,/,stop,True
+2025-06-07T12:36:27.612Z,/product/Women/false/58030,start,True
+2025-06-07T12:36:29.091Z,Does this item fit in your budget?,start,True
+2025-06-07T12:36:30.491Z,Does this item fit in your budget?,stop,True
+2025-06-07T12:36:32.893Z,/,start,True
+2025-06-07T12:36:33.763Z,/cart,start,True
+2025-06-07T12:36:38.877Z,/,start,True
+2025-06-07T12:37:04.946Z,/,stop,True
+2025-06-07T12:37:04.946Z,/product/Women/true/22714,start,True
+2025-06-07T12:37:06.742Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-06-07T12:37:07.901Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-06-07T12:37:10.354Z,/,start,True
+2025-06-07T12:37:16.202Z,/cart,start,True
+2025-06-07T12:37:27.529Z,/,start,True
+2025-06-07T12:37:37.282Z,/,stop,True
+2025-06-07T12:37:37.282Z,/product/Women/true/49041,start,True
+2025-06-07T12:37:38.383Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-07T12:37:39.484Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-07T12:37:41.449Z,/,start,True
+2025-06-07T12:37:44.315Z,/,stop,True
+2025-06-07T12:37:44.315Z,/product/Women/true/49005,start,True
+2025-06-07T12:37:45.539Z,Is this item produced sustainably?,start,True
+2025-06-07T12:37:46.791Z,Is this item produced sustainably?,stop,True
+2025-06-07T12:37:50.008Z,/,start,True
+2025-06-07T12:38:27.410Z,/cart,start,True
+2025-06-07T12:38:43.699Z,/cart,stop,True
+2025-06-07T12:38:43.699Z,/end,start,True
+2025-06-07T12:39:28.021Z,/end,stop,True

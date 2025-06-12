@@ -1,0 +1,68 @@
+timestamp,componentName,action,control
+2025-05-27T09:43:47.199Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-27T09:43:47.199Z,practicality: Will you wear this item more than once a month?,start,False
+2025-05-27T09:43:47.199Z,personal_finances: Does this item fit in your budget?,start,False
+2025-05-27T09:43:47.199Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-27T09:43:47.199Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-05-27T09:43:47.272Z,/end,stop,False
+2025-05-27T09:43:47.272Z,/,start,False
+2025-05-27T09:44:10.745Z,/,stop,False
+2025-05-27T09:44:10.745Z,/product/Women/false/19012,start,False
+2025-05-27T09:44:12.358Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-27T09:44:16.014Z,ADIDAS Originals Women Supergirl TT Pink Jacket,buy,False
+2025-05-27T09:44:16.014Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-27T09:44:20.354Z,/product/Women/false/19012,stop,False
+2025-05-27T09:44:20.355Z,/,start,False
+2025-05-27T09:44:48.268Z,/,stop,False
+2025-05-27T09:44:48.268Z,/product/Women/false/32585,start,False
+2025-05-27T09:44:49.556Z,Will you wear this item more than once a month?,start,False
+2025-05-27T09:44:53.978Z,Only  Women Black Trousers,buy,False
+2025-05-27T09:44:53.978Z,Will you wear this item more than once a month?,stop,False
+2025-05-27T09:44:59.046Z,/,start,False
+2025-05-27T09:45:13.641Z,/,stop,False
+2025-05-27T09:45:13.641Z,/product/Women/true/46087,start,False
+2025-05-27T09:45:14.595Z,Does this item fit in your budget?,start,False
+2025-05-27T09:45:23.844Z,Does this item fit in your budget?,stop,False
+2025-05-27T09:45:25.465Z,/product/Women/true/46087,stop,False
+2025-05-27T09:45:25.465Z,/,start,False
+2025-05-27T09:45:37.181Z,/,stop,False
+2025-05-27T09:45:37.181Z,/product/Women/true/18964,start,False
+2025-05-27T09:45:42.820Z,/product/Women/true/18964,stop,False
+2025-05-27T09:45:42.820Z,/,start,False
+2025-05-27T09:45:50.545Z,/,stop,False
+2025-05-27T09:45:50.545Z,/product/Women/true/34756,start,False
+2025-05-27T09:45:51.775Z,Is this item produced sustainably?,start,False
+2025-05-27T09:45:52.968Z,Puma Women Aurora Blue Shoes,buy,False
+2025-05-27T09:45:52.968Z,Is this item produced sustainably?,stop,False
+2025-05-27T09:45:53.986Z,/cart,start,False
+2025-05-27T09:46:16.007Z,/,start,False
+2025-05-27T09:46:26.453Z,/,stop,False
+2025-05-27T09:46:26.453Z,/product/Women/true/34756,start,False
+2025-05-27T09:46:27.528Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-05-27T09:46:28.762Z,Puma Women Aurora Blue Shoes,buy,False
+2025-05-27T09:46:28.763Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-05-27T09:46:31.501Z,/,start,False
+2025-05-27T09:46:39.935Z,/,stop,False
+2025-05-27T09:46:39.935Z,/product/Women/true/49005,start,False
+2025-05-27T09:46:40.761Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-27T09:46:41.917Z,Lucera Women Silver Ring,buy,False
+2025-05-27T09:46:41.917Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-27T09:46:44.273Z,/,start,False
+2025-05-27T09:47:04.237Z,/,stop,False
+2025-05-27T09:47:04.238Z,/product/Women/true/48569,start,False
+2025-05-27T09:47:05.392Z,Will you wear this item more than once a month?,start,False
+2025-05-27T09:47:06.629Z,Lucera Women Black & Silver Bracelet,buy,False
+2025-05-27T09:47:06.629Z,Will you wear this item more than once a month?,stop,False
+2025-05-27T09:47:08.858Z,/cart,start,False
+2025-05-27T09:47:15.830Z,/cart,stop,False
+2025-05-27T09:47:15.830Z,/end,start,False
+2025-05-27T10:19:28.564Z,/,start,True
+2025-05-27T10:19:29.055Z,/,start,True
+2025-05-27T10:19:47.979Z,/,stop,True
+2025-05-27T10:19:47.980Z,/product/Women/true/30002,start,True
+2025-05-27T10:19:49.159Z,Does this item fit in your budget?,start,True
+2025-05-27T10:19:51.393Z,Does this item fit in your budget?,stop,True
+2025-05-27T10:19:58.118Z,/cart,start,True
+2025-05-27T10:20:21.095Z,/cart,stop,True
+2025-05-27T10:20:21.095Z,/end,start,True
+2025-05-27T10:20:24.159Z,/end,stop,True

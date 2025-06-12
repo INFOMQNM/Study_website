@@ -1,0 +1,95 @@
+timestamp,componentName,action,control
+2025-06-05T13:54:25.044Z,/,start,FALSE
+2025-06-05T13:54:33.583Z,/,stop,FALSE
+2025-06-05T13:54:33.583Z,/product/Women/true/22714,start,FALSE
+2025-06-05T13:54:34.658Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-05T13:54:41.962Z,Nike Women Dunk High Skinny Olive Casual Shoes,buy,FALSE
+2025-06-05T13:54:41.962Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-05T13:54:44.506Z,/product/Women/true/22714,stop,FALSE
+2025-06-05T13:54:44.506Z,/product/Women/true/22714,stop,FALSE
+2025-06-05T13:54:44.506Z,/,start,FALSE
+2025-06-05T13:55:12.733Z,/,stop,FALSE
+2025-06-05T13:55:12.734Z,/product/Women/true/20011,start,FALSE
+2025-06-05T13:55:18.681Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-05T13:55:26.314Z,United Colors of Benetton Women Red Striped Top,buy,FALSE
+2025-06-05T13:55:26.315Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-05T13:55:27.898Z,/product/Women/true/20011,stop,FALSE
+2025-06-05T13:55:27.898Z,/,start,FALSE
+2025-06-05T13:55:34.398Z,/,stop,FALSE
+2025-06-05T13:55:34.398Z,/cart,start,FALSE
+2025-06-05T13:55:43.943Z,/cart,stop,FALSE
+2025-06-05T13:55:43.943Z,/,stop,FALSE
+2025-06-05T13:55:43.943Z,/,stop,FALSE
+2025-06-05T13:55:43.943Z,/product/Women/false/32585,start,FALSE
+2025-06-05T13:55:49.343Z,Will you wear this item more than 10 times?,start,FALSE
+2025-06-05T13:55:53.002Z,Only  Women Black Trousers,buy,FALSE
+2025-06-05T13:55:53.003Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-06-05T13:55:54.212Z,/product/Women/false/32585,stop,FALSE
+2025-06-05T13:55:54.212Z,/,start,FALSE
+2025-06-05T13:56:02.214Z,/,stop,FALSE
+2025-06-05T13:56:02.214Z,/product/Women/true/2589,start,FALSE
+2025-06-05T13:56:05.620Z,Does this item fit in your budget?,start,FALSE
+2025-06-05T13:56:08.557Z,Quechua Women Maroon Cap,buy,FALSE
+2025-06-05T13:56:08.557Z,Does this item fit in your budget?,stop,FALSE
+2025-06-05T13:56:09.750Z,/product/Women/true/2589,stop,FALSE
+2025-06-05T13:56:09.750Z,/,start,FALSE
+2025-06-05T13:56:11.890Z,/,stop,FALSE
+2025-06-05T13:56:11.890Z,/cart,start,FALSE
+2025-06-05T13:56:14.404Z,/cart,stop,FALSE
+2025-06-05T13:56:14.404Z,/,start,FALSE
+2025-06-05T13:56:36.473Z,/,stop,FALSE
+2025-06-05T13:56:36.473Z,/cart,start,FALSE
+2025-06-05T13:56:50.473Z,/cart,stop,FALSE
+2025-06-05T13:56:50.473Z,/,start,FALSE
+2025-06-05T13:57:04.804Z,/,stop,FALSE
+2025-06-05T13:57:04.804Z,/product/Women/false/59777,start,FALSE
+2025-06-05T13:57:07.520Z,/product/Women/false/59777,stop,FALSE
+2025-06-05T13:57:07.520Z,/,start,FALSE
+2025-06-05T13:57:28.193Z,/,stop,FALSE
+2025-06-05T13:57:28.193Z,/product/Women/false/51633,start,FALSE
+2025-06-05T13:57:29.428Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-05T13:57:37.256Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-05T13:57:38.313Z,/product/Women/false/51633,stop,FALSE
+2025-06-05T13:57:38.313Z,/,start,FALSE
+2025-06-05T13:57:50.413Z,/,stop,FALSE
+2025-06-05T13:57:50.414Z,/product/Women/false/46121,start,FALSE
+2025-06-05T13:57:53.534Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-05T13:57:56.356Z,Wildcraft Women Black Jacket,buy,FALSE
+2025-06-05T13:57:56.356Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-05T13:57:57.145Z,/product/Women/false/46121,stop,FALSE
+2025-06-05T13:57:57.145Z,/cart,start,FALSE
+2025-06-05T13:58:02.523Z,/cart,stop,FALSE
+2025-06-05T13:42:50.264Z,/,start,TRUE
+2025-06-05T13:43:17.506Z,/,stop,TRUE
+2025-06-05T13:43:17.506Z,/product/Women/true/27891,start,TRUE
+2025-06-05T13:43:25.042Z,/product/Women/true/27891,stop,TRUE
+2025-06-05T13:43:25.042Z,/,start,TRUE
+2025-06-05T13:43:48.323Z,/,stop,TRUE
+2025-06-05T13:43:48.324Z,/product/Women/true/57095,start,TRUE
+2025-06-05T13:43:58.167Z,/product/Women/true/57095,stop,TRUE
+2025-06-05T13:43:58.167Z,/,start,TRUE
+2025-06-05T13:44:35.756Z,/,stop,TRUE
+2025-06-05T13:44:35.756Z,/product/Women/true/46087,start,TRUE
+2025-06-05T13:44:39.485Z,/product/Women/true/46087,stop,TRUE
+2025-06-05T13:44:39.485Z,/,start,TRUE
+2025-06-05T13:45:12.887Z,/,stop,TRUE
+2025-06-05T13:45:12.887Z,/product/Women/true/59467,start,TRUE
+2025-06-05T13:45:16.799Z,/product/Women/true/59467,stop,TRUE
+2025-06-05T13:45:16.799Z,/,start,TRUE
+2025-06-05T13:45:50.518Z,/,stop,TRUE
+2025-06-05T13:45:50.518Z,/product/Women/true/10135,start,TRUE
+2025-06-05T13:45:54.029Z,/product/Women/true/10135,stop,TRUE
+2025-06-05T13:45:54.030Z,/,start,TRUE
+2025-06-05T13:46:24.687Z,/,stop,TRUE
+2025-06-05T13:46:24.687Z,/cart,start,TRUE
+2025-06-05T13:46:30.365Z,/cart,stop,TRUE
+2025-06-05T13:46:30.365Z,/,start,TRUE
+2025-06-05T13:46:44.728Z,/,stop,TRUE
+2025-06-05T13:46:44.728Z,/product/Women/true/57069,start,TRUE
+2025-06-05T13:46:56.310Z,/product/Women/true/57069,stop,TRUE
+2025-06-05T13:46:56.310Z,/,start,TRUE
+2025-06-05T13:47:06.825Z,/,stop,TRUE
+2025-06-05T13:47:06.825Z,/product/Women/true/48659,start,TRUE
+2025-06-05T13:47:09.995Z,/product/Women/true/48659,stop,TRUE
+2025-06-05T13:47:09.995Z,/cart,start,TRUE
+2025-06-05T13:47:20.694Z,/cart,stop,TRUE

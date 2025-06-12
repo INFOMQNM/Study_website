@@ -1,0 +1,51 @@
+timestamp,componentName,action,control
+2025-05-27T10:20:24.162Z,practicality: Will you wear this item more than once a month?,start,True
+2025-05-27T10:20:24.162Z,sustainability: Is this item produced sustainably?,start,True
+2025-05-27T10:20:24.162Z,long_term: Will this purchase bring you long-term satisfaction?,start,True
+2025-05-27T10:20:24.162Z,personal_finances: Are you sure you are not overspending on this purchase?,start,True
+2025-05-27T10:20:24.162Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-27T10:20:24.241Z,/end,stop,True
+2025-05-27T10:20:24.241Z,/,start,True
+2025-05-27T10:21:15.690Z,/cart,start,True
+2025-05-27T13:41:56.229Z,/,start,True
+2025-05-27T13:43:33.072Z,/,start,True
+2025-05-27T13:44:19.674Z,/men,start,True
+2025-05-27T13:47:14.756Z,/men,stop,True
+2025-05-27T13:47:14.756Z,/product/Men/true/12213,start,True
+2025-05-27T13:47:16.076Z,Will you wear this item more than once a month?,start,True
+2025-05-27T13:47:20.758Z,Will you wear this item more than once a month?,stop,True
+2025-05-27T13:47:24.699Z,/product/Men/true/12213,stop,True
+2025-05-27T13:47:24.699Z,/men,start,True
+2025-05-27T13:48:01.704Z,/men,stop,True
+2025-05-27T13:48:01.704Z,/product/Men/true/5970,start,True
+2025-05-27T13:48:03.075Z,Is this item produced sustainably?,start,True
+2025-05-27T13:48:04.004Z,Is this item produced sustainably?,stop,True
+2025-05-27T13:48:05.168Z,/product/Men/true/5970,stop,True
+2025-05-27T13:48:05.168Z,/men,start,True
+2025-05-27T13:49:17.116Z,/men,stop,True
+2025-05-27T13:49:17.116Z,/product/Men/true/42598,start,True
+2025-05-27T13:49:18.089Z,Will this purchase bring you long-term satisfaction?,start,True
+2025-05-27T13:49:19.017Z,Will this purchase bring you long-term satisfaction?,stop,True
+2025-05-27T13:49:19.840Z,/cart,start,True
+2025-05-27T13:49:26.349Z,/men,start,True
+2025-05-27T13:49:39.329Z,/men,stop,True
+2025-05-27T13:49:39.329Z,/product/Men/false/44230,start,True
+2025-05-27T13:49:40.878Z,Are you sure you are not overspending on this purchase?,start,True
+2025-05-27T13:49:41.901Z,Are you sure you are not overspending on this purchase?,stop,True
+2025-05-27T13:49:44.789Z,/men,start,True
+2025-05-27T13:50:59.556Z,/men,stop,True
+2025-05-27T13:50:59.556Z,/product/Men/false/29750,start,True
+2025-05-27T13:51:00.730Z,Are you sure you are not buying this just because you saw it on social media?,start,True
+2025-05-27T13:51:01.472Z,Are you sure you are not buying this just because you saw it on social media?,stop,True
+2025-05-27T13:51:02.781Z,/men,start,True
+2025-05-27T13:51:49.393Z,/men,stop,True
+2025-05-27T13:51:49.393Z,/product/Men/false/19339,start,True
+2025-05-27T13:51:50.980Z,Will you wear this item more than once a month?,start,True
+2025-05-27T13:51:52.022Z,Will you wear this item more than once a month?,stop,True
+2025-05-27T13:51:53.601Z,/men,start,True
+2025-05-27T13:51:55.029Z,/cart,start,True
+2025-05-27T13:51:58.494Z,/men,start,True
+2025-05-27T13:52:23.694Z,/cart,start,True
+2025-05-27T13:52:24.676Z,/cart,stop,True
+2025-05-27T13:52:24.676Z,/end,start,True
+2025-05-27T13:53:36.916Z,/end,stop,True

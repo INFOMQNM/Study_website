@@ -1,0 +1,56 @@
+timestamp,componentName,action,control
+2025-05-28T16:13:55.405Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-05-28T16:13:55.405Z,long_term: Will this purchase bring you long-term satisfaction?,start,False
+2025-05-28T16:13:55.405Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-05-28T16:13:55.405Z,practicality: Will you wear this item more than once a month?,start,False
+2025-05-28T16:13:55.405Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-28T16:13:55.502Z,/end,stop,False
+2025-05-28T16:13:55.502Z,/,start,False
+2025-05-28T16:14:30.552Z,/men,start,False
+2025-05-28T16:15:10.298Z,/men,stop,False
+2025-05-28T16:15:10.298Z,/product/Men/false/42104,start,False
+2025-05-28T16:15:11.902Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-28T16:15:27.885Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-28T16:15:30.362Z,Will this purchase bring you long-term satisfaction?,start,False
+2025-05-28T16:15:44.419Z,ADIDAS Men Navy Blue Shorts,buy,False
+2025-05-28T16:15:44.419Z,Will this purchase bring you long-term satisfaction?,stop,False
+2025-05-28T16:15:48.423Z,/,start,False
+2025-05-28T16:15:49.947Z,/men,start,False
+2025-05-28T16:17:14.208Z,/men,stop,False
+2025-05-28T16:17:14.208Z,/product/Men/true/59126,start,False
+2025-05-28T16:17:16.906Z,/men,start,False
+2025-05-28T16:17:48.689Z,/men,stop,False
+2025-05-28T16:17:48.690Z,/product/Men/false/6609,start,False
+2025-05-28T16:17:56.587Z,Does this purchase align with your environmental values?,start,False
+2025-05-28T16:17:58.226Z,Spykar Men's Stripes White Top,buy,False
+2025-05-28T16:17:58.226Z,Does this purchase align with your environmental values?,stop,False
+2025-05-28T16:18:00.167Z,/,start,False
+2025-05-28T16:18:28.496Z,/men,start,False
+2025-05-28T16:18:45.042Z,/men,stop,False
+2025-05-28T16:18:45.042Z,/product/Men/false/44230,start,False
+2025-05-28T16:18:46.077Z,Will you wear this item more than once a month?,start,False
+2025-05-28T16:18:47.092Z,Nike Men Blue Sneakers,buy,False
+2025-05-28T16:18:47.092Z,Will you wear this item more than once a month?,stop,False
+2025-05-28T16:18:49.165Z,/cart,start,False
+2025-05-28T16:18:57.477Z,/,start,False
+2025-05-28T16:19:02.477Z,/men,start,False
+2025-05-28T16:19:11.219Z,/men,stop,False
+2025-05-28T16:19:11.219Z,/product/Men/true/42598,start,False
+2025-05-28T16:19:14.320Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-05-28T16:19:15.388Z,United Colors of Benetton Men Blue Shirt,buy,False
+2025-05-28T16:19:15.388Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-05-28T16:19:17.407Z,/cart,start,False
+2025-05-28T16:19:20.929Z,/,start,False
+2025-05-28T16:19:29.885Z,/men,start,False
+2025-05-28T16:19:43.380Z,/cart,start,False
+2025-05-28T16:19:59.117Z,/,start,False
+2025-05-28T16:20:01.955Z,/men,start,False
+2025-05-28T16:20:27.838Z,/men,stop,False
+2025-05-28T16:20:27.838Z,/product/Men/true/39021,start,False
+2025-05-28T16:20:29.239Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-28T16:20:30.404Z,CASIO ENTICER Men Navy Dial Analogue Watch A629,buy,False
+2025-05-28T16:20:30.404Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-28T16:20:31.454Z,/cart,start,False
+2025-05-28T16:20:38.008Z,/cart,stop,False
+2025-05-28T16:20:38.008Z,/end,start,False
+2025-05-28T16:20:41.546Z,/end,stop,False

@@ -1,0 +1,299 @@
+[
+  {
+    "timestamp": "2025-06-05T13:37:44.715Z",
+    "componentName": [
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:37:44.785Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:37:44.785Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:00.716Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:14.906Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:14.906Z",
+    "componentName": "/product/Men/false/24845",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:16.389Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:20.837Z",
+    "componentName": "Wildcraft Men Wind Cheaters Beige Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:20.838Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:22.356Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:43.859Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:43.859Z",
+    "componentName": "/product/Men/true/12870",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:45.335Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:50.828Z",
+    "componentName": "Lee Cooper MenCasual Black Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:50.829Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:38:52.643Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:19.725Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:19.725Z",
+    "componentName": "/product/Men/true/16059",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:20.884Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:32.862Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:34.625Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:46.944Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:46.944Z",
+    "componentName": "/product/Men/false/40281",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:48.018Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:52.104Z",
+    "componentName": "Scullers Men Beige Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:52.104Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:39:53.692Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:11.203Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:13.912Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:38.356Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:38.356Z",
+    "componentName": "/product/Men/true/53628",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:39.790Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:44.512Z",
+    "componentName": "Q&Q Men Black Dial Analogue Watch C152J202Y",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:44.512Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:45.888Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:48.401Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:40:50.477Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:09.490Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:09.490Z",
+    "componentName": "/product/Men/true/42598",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:10.569Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:13.974Z",
+    "componentName": "United Colors of Benetton Men Blue Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:13.974Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:15.135Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:17.125Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:17.125Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-05T13:41:19.091Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

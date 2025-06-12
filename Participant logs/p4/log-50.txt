@@ -1,0 +1,353 @@
+[
+  {
+    "timestamp": "2025-05-26T13:33:24.044Z",
+    "componentName": [
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:33:24.112Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:33:24.112Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:33:26.006Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:00.795Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:00.795Z",
+    "componentName": "/product/Men/true/26134",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:03.674Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:05.494Z",
+    "componentName": "John Miller Men Black Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:05.494Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:10.090Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:22.504Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:22.504Z",
+    "componentName": "/product/Men/true/53628",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:23.276Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:24.210Z",
+    "componentName": "Q&Q Men Black Dial Analogue Watch C152J202Y",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:24.210Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:27.435Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:36.598Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:39.328Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:48.003Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:48.003Z",
+    "componentName": "/product/Men/true/17152",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:49.517Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:50.606Z",
+    "componentName": "U.S. Polo Assn. Men Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:50.606Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:35:52.553Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:36:21.027Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:36:30.666Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:12.060Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:12.060Z",
+    "componentName": "/product/Men/false/22406",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:13.438Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:14.239Z",
+    "componentName": "Mark Taylor Men Purple Striped Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:14.239Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:15.328Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:22.346Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:38.275Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:40.934Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:54.896Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:54.896Z",
+    "componentName": "/product/Men/false/3647",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:55.661Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:56.389Z",
+    "componentName": "Fila Men's Paramount White Navy Shoe",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:56.389Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:37:57.235Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:38:04.498Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:38:27.013Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:38:41.501Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:06.030Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:06.030Z",
+    "componentName": "/product/Men/true/48956",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:06.803Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:07.601Z",
+    "componentName": "Revv Men Steel Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:07.601Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:08.969Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:10.249Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:19.122Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:19.122Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:40:33.315Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-26T13:40:45.378Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

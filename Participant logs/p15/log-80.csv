@@ -1,0 +1,56 @@
+timestamp,componentName,action,control
+2025-06-02T21:57:57.732Z,personal_finances: Does this item fit in your budget?,start,False
+2025-06-02T21:57:57.732Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-02T21:57:57.732Z,practicality: Will you wear this item more than once a month?,start,False
+2025-06-02T21:57:57.732Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-06-02T21:57:57.732Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-02T21:57:57.801Z,/end,stop,False
+2025-06-02T21:57:57.801Z,/,start,False
+2025-06-02T21:59:27.249Z,/,stop,False
+2025-06-02T21:59:27.249Z,/product/Women/false/32585,start,False
+2025-06-02T21:59:28.095Z,Does this item fit in your budget?,start,False
+2025-06-02T21:59:30.989Z,Does this item fit in your budget?,stop,False
+2025-06-02T21:59:33.177Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-02T21:59:45.234Z,Only  Women Black Trousers,buy,False
+2025-06-02T21:59:45.235Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-02T21:59:47.237Z,/,start,False
+2025-06-02T21:59:53.692Z,/men,start,False
+2025-06-02T22:00:50.953Z,/,start,False
+2025-06-02T22:01:01.765Z,/,stop,False
+2025-06-02T22:01:01.765Z,/product/Women/false/46121,start,False
+2025-06-02T22:01:02.809Z,Will you wear this item more than once a month?,start,False
+2025-06-02T22:01:04.863Z,Wildcraft Women Black Jacket,buy,False
+2025-06-02T22:01:04.864Z,Will you wear this item more than once a month?,stop,False
+2025-06-02T22:01:07.168Z,/men,start,False
+2025-06-02T22:01:31.070Z,/cart,start,False
+2025-06-02T22:01:43.009Z,/men,start,False
+2025-06-02T22:02:24.292Z,/men,stop,False
+2025-06-02T22:02:24.292Z,/product/Men/false/48947,start,False
+2025-06-02T22:02:25.104Z,Does this purchase align with your environmental values?,start,False
+2025-06-02T22:02:39.629Z,Revv Men Steel Ring,buy,False
+2025-06-02T22:02:39.630Z,Does this purchase align with your environmental values?,stop,False
+2025-06-02T22:02:42.061Z,/men,start,False
+2025-06-02T22:02:43.217Z,/cart,start,False
+2025-06-02T22:02:44.370Z,/,start,False
+2025-06-02T22:02:51.830Z,/men,start,False
+2025-06-02T22:03:19.956Z,/men,stop,False
+2025-06-02T22:03:19.956Z,/product/Men/false/3647,start,False
+2025-06-02T22:03:20.856Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-02T22:03:38.662Z,Fila Men's Paramount White Navy Shoe,buy,False
+2025-06-02T22:03:38.662Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-06-02T22:03:39.852Z,/cart,start,False
+2025-06-02T22:03:41.488Z,/,start,False
+2025-06-02T22:03:49.696Z,/men,start,False
+2025-06-02T22:03:55.616Z,/,start,False
+2025-06-02T22:04:04.800Z,/,stop,False
+2025-06-02T22:04:04.800Z,/product/Women/false/48683,start,False
+2025-06-02T22:04:05.582Z,Does this item fit in your budget?,start,False
+2025-06-02T22:04:06.978Z,Lucera Women Silver Earrings,buy,False
+2025-06-02T22:04:06.978Z,Does this item fit in your budget?,stop,False
+2025-06-02T22:04:08.086Z,/cart,start,False
+2025-06-02T22:04:11.703Z,/cart,stop,False
+2025-06-02T22:04:11.703Z,/end,start,False
+2025-06-02T22:04:24.352Z,/cart,start,False
+2025-06-02T22:05:46.710Z,/cart,stop,False
+2025-06-02T22:05:46.710Z,/end,start,False
+2025-06-02T22:05:48.098Z,/end,stop,False

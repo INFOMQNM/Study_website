@@ -1,0 +1,329 @@
+[
+  {
+    "timestamp": "2025-05-26T11:38:14.482Z",
+    "componentName": [
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      },
+      {
+        "category": "long_term",
+        "text": "Are you sure you are not buying this item on impulse? Do you really need it?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:38:14.554Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:38:14.555Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:38:25.496Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:39:19.095Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:39:47.999Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:40:53.203Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:40:53.203Z",
+    "componentName": "/product/Men/true/31287",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:40:54.467Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:04.692Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:05.759Z",
+    "componentName": "/product/Men/true/31287",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:05.759Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:30.755Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:30.755Z",
+    "componentName": "/product/Men/true/24311",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:31.740Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:32.639Z",
+    "componentName": "ADIDAS Men Black Shorts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:32.639Z",
+    "componentName": "Are you sure you are not buying this item on impulse? Do you really need it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:35.532Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:41:53.386Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:05.331Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:15.408Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:15.408Z",
+    "componentName": "/product/Men/true/42598",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:16.436Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:18.131Z",
+    "componentName": "United Colors of Benetton Men Blue Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:18.131Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:19.401Z",
+    "componentName": "/product/Men/true/42598",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:19.401Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:40.812Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:40.812Z",
+    "componentName": "/product/Men/true/24770",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:41.735Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:42.538Z",
+    "componentName": "Spalding Men Game Grey Orange Flip Flops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:42.539Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:44.219Z",
+    "componentName": "/product/Men/true/24770",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:42:44.219Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:14.292Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:41.825Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:41.826Z",
+    "componentName": "/product/Men/true/48950",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:43.711Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:44.405Z",
+    "componentName": "Revv Men Steel Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:44.406Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:47.450Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:43:51.158Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:32.787Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:32.787Z",
+    "componentName": "/product/Men/true/17152",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:36.654Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:37.877Z",
+    "componentName": "U.S. Polo Assn. Men Solid Black Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:37.877Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:40.142Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:47.986Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:44:47.987Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:47:07.026Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

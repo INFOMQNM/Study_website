@@ -1,0 +1,389 @@
+[
+  {
+    "timestamp": "2025-06-01T15:57:18.909Z",
+    "componentName": [
+      {
+        "category": "personal_finances",
+        "text": "Does this item fit in your budget?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:19.229Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:19.229Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:21.124Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:22.729Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:44.190Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:44.190Z",
+    "componentName": "/product/Women/true/43523",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:45.393Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:47.210Z",
+    "componentName": "French Connection Women Beige Trousers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:47.211Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:57:51.485Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:33.509Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:33.509Z",
+    "componentName": "/product/Women/true/19125",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:35.713Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:38.162Z",
+    "componentName": "Lotto Women XL Kelly Blue Slippers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:38.162Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:40.271Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:41.622Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:58:46.808Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:05.353Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:05.353Z",
+    "componentName": "/product/Women/false/44237",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:06.873Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:08.959Z",
+    "componentName": "Nike Women White and Green Sneakers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:08.959Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:10.689Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:50.972Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:50.972Z",
+    "componentName": "/product/Women/true/14717",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:52.710Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:55.176Z",
+    "componentName": "Jealous 21 Women Casual Top Black Tops",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:55.176Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T15:59:59.451Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:15.441Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:24.482Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:29.609Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:29.609Z",
+    "componentName": "/product/Women/true/30002",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:30.459Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:31.570Z",
+    "componentName": "Aspen Women White Dial Watch",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:31.571Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:33.109Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:34.953Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:00:40.727Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:26.870Z",
+    "componentName": "/",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:26.870Z",
+    "componentName": "/product/Women/false/48683",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:27.905Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:29.199Z",
+    "componentName": "Lucera Women Silver Earrings",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:29.200Z",
+    "componentName": "Does this item fit in your budget?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:31.987Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:33.703Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:39.309Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:01:56.834Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:01.536Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:05.241Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:19.518Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:19.518Z",
+    "componentName": "/product/Men/true/38560",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:20.361Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:21.956Z",
+    "componentName": "Nike Men Black Cap",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:21.956Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:23.273Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:29.183Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:02:29.183Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-06-01T16:07:46.869Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

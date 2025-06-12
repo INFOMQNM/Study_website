@@ -1,0 +1,311 @@
+[
+  {
+    "timestamp": "2025-05-26T11:51:10.001Z",
+    "componentName": [
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:51:10.086Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:51:10.087Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:51:36.009Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:12.468Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:12.468Z",
+    "componentName": "/product/Men/true/2467",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:23.327Z",
+    "componentName": "/product/Men/true/2467",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:23.327Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:25.083Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:25.083Z",
+    "componentName": "/product/Men/true/2467",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:25.763Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:30.691Z",
+    "componentName": "Nike Men White Cap",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:30.691Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:33.943Z",
+    "componentName": "/product/Men/true/2467",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:52:33.944Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:14.269Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:14.269Z",
+    "componentName": "/product/Men/false/8848",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:17.713Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:19.211Z",
+    "componentName": "Mark Taylor Men Blue Striped Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:19.211Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:23.226Z",
+    "componentName": "/product/Men/false/8848",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:53:23.226Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:40.147Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:40.147Z",
+    "componentName": "/product/Men/false/3647",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:43.453Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:44.598Z",
+    "componentName": "Fila Men's Paramount White Navy Shoe",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:44.598Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:46.488Z",
+    "componentName": "/product/Men/false/3647",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:46.488Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:56.400Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:56.400Z",
+    "componentName": "/product/Men/false/24845",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:57.567Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:58.798Z",
+    "componentName": "Wildcraft Men Wind Cheaters Beige Jacket",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:54:58.799Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:02.449Z",
+    "componentName": "/product/Men/false/24845",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:02.450Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:32.976Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:32.976Z",
+    "componentName": "/product/Men/false/39028",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:35.104Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:36.911Z",
+    "componentName": "CASIO ENTICER Men Black Dial Watch A642",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:36.911Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:39.375Z",
+    "componentName": "/product/Men/false/39028",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:39.375Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:49.497Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:55.198Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:55:55.198Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T11:56:16.589Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-26T11:56:18.469Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

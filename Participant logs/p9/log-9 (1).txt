@@ -1,0 +1,329 @@
+[
+  {
+    "timestamp": "2025-05-28T16:13:55.405Z",
+    "componentName": [
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Does this purchase align with your environmental values?"
+      },
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:13:55.502Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:13:55.502Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:14:30.552Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:10.298Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:10.298Z",
+    "componentName": "/product/Men/false/42104",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:11.902Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:27.885Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:30.362Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:44.419Z",
+    "componentName": "ADIDAS Men Navy Blue Shorts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:44.419Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:48.423Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:15:49.947Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:14.208Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:14.208Z",
+    "componentName": "/product/Men/true/59126",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:16.906Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:48.689Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:48.690Z",
+    "componentName": "/product/Men/false/6609",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:56.587Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:58.226Z",
+    "componentName": "Spykar Men's Stripes White Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:17:58.226Z",
+    "componentName": "Does this purchase align with your environmental values?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:00.167Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:28.496Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:45.042Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:45.042Z",
+    "componentName": "/product/Men/false/44230",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:46.077Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:47.092Z",
+    "componentName": "Nike Men Blue Sneakers",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:47.092Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:49.165Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:18:57.477Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:02.477Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:11.219Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:11.219Z",
+    "componentName": "/product/Men/true/42598",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:14.320Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:15.388Z",
+    "componentName": "United Colors of Benetton Men Blue Shirt",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:15.388Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:17.407Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:20.929Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:29.885Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:43.380Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:19:59.117Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:01.955Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:27.838Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:27.838Z",
+    "componentName": "/product/Men/true/39021",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:29.239Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:30.404Z",
+    "componentName": "CASIO ENTICER Men Navy Dial Analogue Watch A629",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:30.404Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:31.454Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:38.008Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:38.008Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-28T16:20:41.546Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]

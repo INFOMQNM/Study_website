@@ -1,0 +1,55 @@
+timestamp,componentName,action,control
+2025-05-27T13:54:49.465Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T13:54:49.465Z,personal_finances: Does this item fit in your budget?,start,False
+2025-05-27T13:54:49.465Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-05-27T13:54:49.465Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-27T13:54:49.465Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-27T13:54:49.546Z,/end,stop,False
+2025-05-27T13:54:49.547Z,/,start,False
+2025-05-27T13:55:27.168Z,/men,start,False
+2025-05-27T13:55:59.504Z,/men,stop,False
+2025-05-27T13:55:59.505Z,/product/Men/false/6609,start,False
+2025-05-27T13:56:00.580Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T13:56:28.822Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-27T13:56:40.568Z,/men,start,False
+2025-05-27T13:57:30.364Z,/men,stop,False
+2025-05-27T13:57:30.364Z,/product/Men/true/44919,start,False
+2025-05-27T13:57:31.183Z,Does this item fit in your budget?,start,False
+2025-05-27T13:57:40.041Z,Puma Men Black Shorts,buy,False
+2025-05-27T13:57:40.041Z,Does this item fit in your budget?,stop,False
+2025-05-27T13:57:42.448Z,/men,start,False
+2025-05-27T13:58:06.609Z,/cart,start,False
+2025-05-27T13:58:19.960Z,/men,stop,False
+2025-05-27T13:58:19.961Z,/product/Men/true/38560,start,False
+2025-05-27T13:58:21.129Z,Will you wear this item more than 10 times?,start,False
+2025-05-27T13:58:38.565Z,Nike Men Black Cap,buy,False
+2025-05-27T13:58:38.566Z,Will you wear this item more than 10 times?,stop,False
+2025-05-27T13:58:44.963Z,/men,start,False
+2025-05-27T13:59:03.683Z,/men,stop,False
+2025-05-27T13:59:03.683Z,/product/Men/true/25447,start,False
+2025-05-27T13:59:06.817Z,/product/Men/true/25447,stop,False
+2025-05-27T13:59:06.817Z,/men,start,False
+2025-05-27T13:59:51.391Z,/men,stop,False
+2025-05-27T13:59:51.391Z,/product/Men/false/54514,start,False
+2025-05-27T13:59:52.392Z,Is this item produced sustainably?,start,False
+2025-05-27T14:00:00.519Z,F Sports Men White Rodeo Shoes,buy,False
+2025-05-27T14:00:00.519Z,Is this item produced sustainably?,stop,False
+2025-05-27T14:00:03.090Z,/men,start,False
+2025-05-27T14:00:05.558Z,/cart,start,False
+2025-05-27T14:00:08.084Z,/men,start,False
+2025-05-27T14:00:13.420Z,/men,stop,False
+2025-05-27T14:00:13.421Z,/product/Men/false/6609,start,False
+2025-05-27T14:00:14.091Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-27T14:00:41.631Z,Spykar Men's Stripes White Top,buy,False
+2025-05-27T14:00:41.632Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-27T14:00:43.547Z,/cart,start,False
+2025-05-27T14:00:54.635Z,/men,start,False
+2025-05-27T14:01:29.517Z,/men,stop,False
+2025-05-27T14:01:29.518Z,/product/Men/true/24288,start,False
+2025-05-27T14:01:31.226Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-27T14:01:36.681Z,Quiksilver Men Grey Sweatshirt,buy,False
+2025-05-27T14:01:36.681Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-27T14:01:38.313Z,/cart,start,False
+2025-05-27T14:01:43.690Z,/cart,stop,False
+2025-05-27T14:01:43.690Z,/end,start,False
+2025-05-27T14:01:46.036Z,/end,stop,False

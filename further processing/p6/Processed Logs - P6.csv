@@ -1,0 +1,85 @@
+timestamp,componentName,action,control
+2025-05-27T09:46:06.305Z,/,start,TRUE
+2025-05-27T09:46:32.208Z,/,stop,TRUE
+2025-05-27T09:46:32.208Z,/product/Women/true/27891,start,TRUE
+2025-05-27T09:46:37.263Z,/product/Women/true/27891,stop,TRUE
+2025-05-27T09:46:37.263Z,/,start,TRUE
+2025-05-27T09:46:48.177Z,/,stop,TRUE
+2025-05-27T09:46:48.177Z,/product/Women/true/12532,start,TRUE
+2025-05-27T09:46:53.735Z,/product/Women/true/12532,stop,TRUE
+2025-05-27T09:46:53.735Z,/,start,TRUE
+2025-05-27T09:47:10.011Z,/,stop,TRUE
+2025-05-27T09:47:10.011Z,/product/Women/true/52193,start,TRUE
+2025-05-27T09:47:14.841Z,/product/Women/true/52193,stop,TRUE
+2025-05-27T09:47:14.841Z,/,start,TRUE
+2025-05-27T09:47:28.327Z,/,stop,TRUE
+2025-05-27T09:47:28.327Z,/product/Women/false/48496,start,TRUE
+2025-05-27T09:47:32.264Z,/product/Women/false/48496,stop,TRUE
+2025-05-27T09:47:32.264Z,/cart,start,TRUE
+2025-05-27T09:47:35.618Z,/cart,stop,TRUE
+2025-05-27T09:47:35.618Z,/,start,TRUE
+2025-05-27T09:47:48.300Z,/,stop,TRUE
+2025-05-27T09:47:48.300Z,/product/Women/true/22714,start,TRUE
+2025-05-27T09:47:51.255Z,/product/Women/true/22714,stop,TRUE
+2025-05-27T09:47:51.255Z,/cart,start,TRUE
+2025-05-27T09:47:56.626Z,/cart,stop,TRUE
+2025-05-27T09:36:05.040Z,/,start,FALSE
+2025-05-27T09:36:41.677Z,/,stop,FALSE
+2025-05-27T09:36:41.677Z,/product/Women/false/27863,start,FALSE
+2025-05-27T09:36:43.445Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-27T09:36:44.886Z,Scullers For Her Printed Purple Shirt,buy,FALSE
+2025-05-27T09:36:44.887Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-27T09:36:49.493Z,/product/Women/false/27863,stop,FALSE
+2025-05-27T09:36:49.493Z,/,start,FALSE
+2025-05-27T09:37:08.875Z,/,stop,FALSE
+2025-05-27T09:37:08.875Z,/product/Women/true/27905,start,FALSE
+2025-05-27T09:37:11.052Z,/product/Women/true/27905,stop,FALSE
+2025-05-27T09:37:11.052Z,/,start,FALSE
+2025-05-27T09:37:20.302Z,/,start,FALSE
+2025-05-27T09:37:20.302Z,/cart,stop,FALSE
+2025-05-27T09:37:22.757Z,/cart,stop,FALSE
+2025-05-27T09:37:22.757Z,/,start,FALSE
+2025-05-27T09:37:38.767Z,/,stop,FALSE
+2025-05-27T09:37:38.767Z,/product/Women/true/43523,start,FALSE
+2025-05-27T09:37:40.378Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-05-27T09:37:41.412Z,French Connection Women Beige Trousers,buy,FALSE
+2025-05-27T09:37:41.412Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-05-27T09:37:38.767Z,/product/Women/true/43523,stop,FALSE
+2025-05-27T09:37:43.502Z,/,start,FALSE
+2025-05-27T09:38:54.297Z,/,stop,FALSE
+2025-05-27T09:38:54.297Z,/product/Women/false/32585,start,FALSE
+2025-05-27T09:38:56.606Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-05-27T09:38:59.104Z,Only  Women Black Trousers,buy,FALSE
+2025-05-27T09:38:59.104Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-05-27T09:39:00.662Z,/product/Women/false/32585,stop,FALSE
+2025-05-27T09:39:00.662Z,/,start,FALSE
+2025-05-27T09:39:55.357Z,/,stop,FALSE
+2025-05-27T09:39:55.357Z,/cart,start,FALSE
+2025-05-27T09:40:08.307Z,/cart,stop,FALSE
+2025-05-27T09:40:08.307Z,/,start,FALSE
+2025-05-27T09:40:17.288Z,/,stop,FALSE
+2025-05-27T09:40:17.288Z,/product/Women/true/49041,start,FALSE
+2025-05-27T09:40:18.592Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-27T09:40:19.474Z,Lucera Women Silver Ring,buy,FALSE
+2025-05-27T09:40:19.474Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-27T09:40:20.400Z,/product/Women/true/49041,stop,FALSE
+2025-05-27T09:40:20.400Z,/,start,FALSE
+2025-05-27T09:40:43.785Z,/,stop,FALSE
+2025-05-27T09:40:43.786Z,/product/Women/false/20755,start,FALSE
+2025-05-27T09:40:45.045Z,Is this item produced sustainably?,start,FALSE
+2025-05-27T09:40:46.353Z,Carlton London Women Peep Toe Denim Blue Casual shoes,buy,FALSE
+2025-05-27T09:40:46.353Z,Is this item produced sustainably?,stop,FALSE
+2025-05-27T09:40:47.670Z,/product/Women/false/20755,stop,FALSE
+2025-05-27T09:40:47.670Z,/,start,FALSE
+2025-05-27T09:41:22.092Z,/,stop,FALSE
+2025-05-27T09:41:22.092Z,/product/Women/true/52193,start,FALSE
+2025-05-27T09:41:23.381Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-05-27T09:41:24.428Z,Lencia Sterling Silver Earrings,buy,FALSE
+2025-05-27T09:41:24.429Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-05-27T09:41:25.828Z,/product/Women/true/52193,stop,FALSE
+2025-05-27T09:41:25.828Z,/cart,start,FALSE
+2025-05-27T09:41:30.243Z,/cart,stop,FALSE
+2025-05-27T09:41:30.243Z,/,start,FALSE
+2025-05-27T09:42:10.453Z,/,stop,FALSE
+2025-05-27T09:42:10.453Z,/cart,start,FALSE
+2025-05-27T09:42:12.401Z,/cart,stop,FALSE

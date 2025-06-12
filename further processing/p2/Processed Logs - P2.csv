@@ -1,0 +1,86 @@
+timestamp,componentName,action,control
+2025-05-26T11:59:44.772Z,/,start,TRUE
+2025-05-26T11:59:54.209Z,/,stop,TRUE
+2025-05-26T11:59:54.209Z,/men,start,TRUE
+2025-05-26T12:00:22.900Z,/men,stop,TRUE
+2025-05-26T12:00:22.900Z,/product/Men/true/2467,start,TRUE
+2025-05-26T12:00:32.071Z,/product/Men/true/2467,stop,TRUE
+2025-05-26T12:00:32.071Z,/men,start,TRUE
+2025-05-26T12:00:40.983Z,/men,stop,TRUE
+2025-05-26T12:00:40.984Z,/product/Men/false/31458,start,TRUE
+2025-05-26T12:00:46.628Z,/product/Men/false/31458,stop,TRUE
+2025-05-26T12:00:46.628Z,/,start,TRUE
+2025-05-26T12:00:49.341Z,/,stop,TRUE
+2025-05-26T12:00:49.341Z,/men,start,TRUE
+2025-05-26T12:01:19.635Z,/men,stop,TRUE
+2025-05-26T12:01:19.635Z,/product/Men/false/40771,start,TRUE
+2025-05-26T12:01:27.094Z,/product/Men/false/40771,stop,TRUE
+2025-05-26T12:01:27.094Z,/men,start,TRUE
+2025-05-26T12:02:07.273Z,/men,stop,TRUE
+2025-05-26T12:02:07.273Z,/product/Men/true/6753,start,TRUE
+2025-05-26T12:02:11.617Z,/product/Men/true/6753,stop,TRUE
+2025-05-26T12:02:11.617Z,/,start,TRUE
+2025-05-26T12:02:12.989Z,/,start,TRUE
+2025-05-26T12:02:14.789Z,/men,start,TRUE
+2025-05-26T12:02:38.345Z,/men,stop,TRUE
+2025-05-26T12:02:38.345Z,/product/Men/false/3647,start,TRUE
+2025-05-26T12:02:42.512Z,/product/Men/false/3647,stop,TRUE
+2025-05-26T12:02:42.512Z,/cart,start,TRUE
+2025-05-26T12:02:56.893Z,/cart,stop,TRUE
+2025-05-26T12:02:56.893Z,/,start,TRUE
+2025-05-26T12:02:57.979Z,/,stop,TRUE
+2025-05-26T12:02:57.979Z,/men,start,TRUE
+2025-05-26T12:03:35.085Z,/men,stop,TRUE
+2025-05-26T12:03:35.085Z,/product/Men/false/54226,start,TRUE
+2025-05-26T12:03:39.469Z,/product/Men/false/54226,stop,TRUE
+2025-05-26T12:03:39.469Z,/men,start,TRUE
+2025-05-26T12:03:44.992Z,/men,stop,TRUE
+2025-05-26T12:03:44.992Z,/product/Men/false/29848,start,TRUE
+2025-05-26T12:03:48.721Z,/product/Men/false/29848,stop,TRUE
+2025-05-26T12:03:48.721Z,/cart,start,TRUE
+2025-05-26T12:04:01.346Z,/cart,stop,TRUE
+2025-05-26T11:51:10.087Z,/,start,FALSE
+2025-05-26T11:51:36.009Z,/,stop,FALSE
+2025-05-26T11:51:36.009Z,/men,start,FALSE
+2025-05-26T11:52:12.468Z,/men,stop,FALSE
+2025-05-26T11:52:12.468Z,/product/Men/true/2467,start,FALSE
+2025-05-26T11:52:23.327Z,/product/Men/true/2467,stop,FALSE
+2025-05-26T11:52:23.327Z,/men,start,FALSE
+2025-05-26T11:52:25.083Z,/men,stop,FALSE
+2025-05-26T11:52:25.083Z,/product/Men/true/2467,start,FALSE
+2025-05-26T11:52:25.763Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-05-26T11:52:30.691Z,Nike Men White Cap,buy,FALSE
+2025-05-26T11:52:30.691Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-05-26T11:52:33.943Z,/product/Men/true/2467,stop,FALSE
+2025-05-26T11:52:33.944Z,/men,start,FALSE
+2025-05-26T11:53:14.269Z,/men,stop,FALSE
+2025-05-26T11:53:14.269Z,/product/Men/false/8848,start,FALSE
+2025-05-26T11:53:17.713Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-05-26T11:53:19.211Z,Mark Taylor Men Blue Striped Shirt,buy,FALSE
+2025-05-26T11:53:19.211Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-05-26T11:53:23.226Z,/product/Men/false/8848,stop,FALSE
+2025-05-26T11:53:23.226Z,/men,start,FALSE
+2025-05-26T11:54:40.147Z,/men,stop,FALSE
+2025-05-26T11:54:40.147Z,/product/Men/false/3647,start,FALSE
+2025-05-26T11:54:43.453Z,Is this item produced sustainably?,start,FALSE
+2025-05-26T11:54:44.598Z,Fila Men's Paramount White Navy Shoe,buy,FALSE
+2025-05-26T11:54:44.598Z,Is this item produced sustainably?,stop,FALSE
+2025-05-26T11:54:46.488Z,/product/Men/false/3647,stop,FALSE
+2025-05-26T11:54:46.488Z,/men,start,FALSE
+2025-05-26T11:54:56.400Z,/men,stop,FALSE
+2025-05-26T11:54:56.400Z,/product/Men/false/24845,start,FALSE
+2025-05-26T11:54:57.567Z,Will you wear this item more than once a month?,start,FALSE
+2025-05-26T11:54:58.798Z,Wildcraft Men Wind Cheaters Beige Jacket,buy,FALSE
+2025-05-26T11:54:58.799Z,Will you wear this item more than once a month?,stop,FALSE
+2025-05-26T11:55:02.449Z,/product/Men/false/24845,stop,FALSE
+2025-05-26T11:55:02.450Z,/men,start,FALSE
+2025-05-26T11:55:32.976Z,/men,stop,FALSE
+2025-05-26T11:55:32.976Z,/product/Men/false/39028,start,FALSE
+2025-05-26T11:55:35.104Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-05-26T11:55:36.911Z,CASIO ENTICER Men Black Dial Watch A642,buy,FALSE
+2025-05-26T11:55:36.911Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-05-26T11:55:39.375Z,/product/Men/false/39028,stop,FALSE
+2025-05-26T11:55:39.375Z,/men,start,FALSE
+2025-05-26T11:55:49.497Z,/men,stop,
+2025-05-26T11:55:49.497Z,/cart,start,FALSE
+2025-05-26T11:55:55.198Z,/cart,stop,FALSE

@@ -1,0 +1,42 @@
+timestamp,componentName,action,control
+2025-06-02T21:51:04.357Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-06-02T21:51:04.357Z,personal_finances: Does this item fit in your budget?,start,True
+2025-06-02T21:51:04.357Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-06-02T21:51:04.357Z,practicality: Will you wear this item more than once a month?,start,True
+2025-06-02T21:51:04.357Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-02T21:51:04.429Z,/end,stop,True
+2025-06-02T21:51:04.429Z,/,start,True
+2025-06-02T21:51:19.504Z,/men,start,True
+2025-06-02T21:52:05.625Z,/,start,True
+2025-06-02T21:52:29.737Z,/,stop,True
+2025-06-02T21:52:29.737Z,/product/Women/true/10777,start,True
+2025-06-02T21:52:31.273Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,True
+2025-06-02T21:52:33.310Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,True
+2025-06-02T21:52:36.322Z,/,start,True
+2025-06-02T21:53:16.465Z,/,stop,True
+2025-06-02T21:53:16.465Z,/product/Women/true/34756,start,True
+2025-06-02T21:53:17.401Z,Does this item fit in your budget?,start,True
+2025-06-02T21:53:18.476Z,Does this item fit in your budget?,stop,True
+2025-06-02T21:53:20.739Z,/men,start,True
+2025-06-02T21:54:34.077Z,/men,stop,True
+2025-06-02T21:54:34.077Z,/product/Men/true/48575,start,True
+2025-06-02T21:54:34.922Z,Does this purchase align with your environmental values?,start,True
+2025-06-02T21:54:36.125Z,Does this purchase align with your environmental values?,stop,True
+2025-06-02T21:54:37.642Z,/men,start,True
+2025-06-02T21:54:39.691Z,/,start,True
+2025-06-02T21:54:58.854Z,/,stop,True
+2025-06-02T21:54:58.854Z,/product/Women/true/52193,start,True
+2025-06-02T21:55:00.026Z,Will you wear this item more than once a month?,start,True
+2025-06-02T21:55:01.033Z,Will you wear this item more than once a month?,stop,True
+2025-06-02T21:55:03.470Z,/men,start,True
+2025-06-02T21:55:53.891Z,/men,stop,True
+2025-06-02T21:55:53.891Z,/product/Men/false/48457,start,True
+2025-06-02T21:55:54.913Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-02T21:55:55.987Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-02T21:55:58.310Z,/cart,start,True
+2025-06-02T21:56:02.157Z,/cart,stop,True
+2025-06-02T21:56:02.158Z,/end,start,True
+2025-06-02T21:56:07.102Z,/cart,start,True
+2025-06-02T21:56:27.358Z,/cart,stop,True
+2025-06-02T21:56:27.358Z,/end,start,True
+2025-06-02T21:56:29.465Z,/end,stop,True

@@ -1,0 +1,47 @@
+timestamp,componentName,action,control
+2025-06-05T13:32:31.321Z,sustainability: Does this purchase align with your environmental values?,start,True
+2025-06-05T13:32:31.321Z,personal_finances: Does this item fit in your budget?,start,True
+2025-06-05T13:32:31.321Z,practicality: Will you wear this item more than 10 times?,start,True
+2025-06-05T13:32:31.321Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-05T13:32:31.321Z,long_term: Will this purchase bring you long-term satisfaction?,start,True
+2025-06-05T13:32:31.389Z,/end,stop,True
+2025-06-05T13:32:31.389Z,/,start,True
+2025-06-05T13:33:26.022Z,/,stop,True
+2025-06-05T13:33:26.022Z,/product/Women/true/6880,start,True
+2025-06-05T13:33:27.548Z,Does this purchase align with your environmental values?,start,True
+2025-06-05T13:33:29.730Z,Does this purchase align with your environmental values?,stop,True
+2025-06-05T13:33:32.126Z,/men,start,True
+2025-06-05T13:33:34.736Z,/cart,start,True
+2025-06-05T13:33:39.102Z,/men,start,True
+2025-06-05T13:33:52.162Z,/men,stop,True
+2025-06-05T13:33:52.162Z,/product/Men/true/17152,start,True
+2025-06-05T13:33:53.305Z,Does this item fit in your budget?,start,True
+2025-06-05T13:33:54.971Z,Does this item fit in your budget?,stop,True
+2025-06-05T13:33:55.711Z,/men,start,True
+2025-06-05T13:34:30.623Z,/men,stop,True
+2025-06-05T13:34:30.623Z,/product/Men/true/26134,start,True
+2025-06-05T13:34:31.838Z,Will you wear this item more than 10 times?,start,True
+2025-06-05T13:34:33.171Z,Will you wear this item more than 10 times?,stop,True
+2025-06-05T13:34:33.860Z,/men,start,True
+2025-06-05T13:34:44.834Z,/men,stop,True
+2025-06-05T13:34:44.834Z,/product/Men/true/42598,start,True
+2025-06-05T13:34:47.852Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,True
+2025-06-05T13:34:49.109Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,True
+2025-06-05T13:34:49.878Z,/men,start,True
+2025-06-05T13:34:59.579Z,/cart,start,True
+2025-06-05T13:35:03.359Z,/men,start,True
+2025-06-05T13:35:26.833Z,/men,stop,True
+2025-06-05T13:35:26.833Z,/product/Men/false/29568,start,True
+2025-06-05T13:35:28.231Z,Will this purchase bring you long-term satisfaction?,start,True
+2025-06-05T13:35:29.512Z,Will this purchase bring you long-term satisfaction?,stop,True
+2025-06-05T13:35:30.362Z,/men,start,True
+2025-06-05T13:35:31.411Z,/cart,start,True
+2025-06-05T13:35:33.152Z,/men,start,True
+2025-06-05T13:36:00.133Z,/men,stop,True
+2025-06-05T13:36:00.133Z,/product/Men/true/53628,start,True
+2025-06-05T13:36:01.108Z,Does this purchase align with your environmental values?,start,True
+2025-06-05T13:36:02.213Z,Does this purchase align with your environmental values?,stop,True
+2025-06-05T13:36:03.137Z,/cart,start,True
+2025-06-05T13:36:12.171Z,/cart,stop,True
+2025-06-05T13:36:12.171Z,/end,start,True
+2025-06-05T13:36:15.525Z,/end,stop,True

@@ -1,0 +1,51 @@
+timestamp,componentName,action,control
+2025-06-01T14:43:26.424Z,sustainability: Does this purchase align with your environmental values?,start,False
+2025-06-01T14:43:26.424Z,practicality: Will you wear this item more than once a month?,start,False
+2025-06-01T14:43:26.424Z,social_influence: Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-01T14:43:26.424Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T14:43:26.424Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T14:43:26.920Z,/end,stop,False
+2025-06-01T14:43:26.920Z,/,start,False
+2025-06-01T14:43:30.116Z,/cart,start,False
+2025-06-01T14:43:32.783Z,/,start,False
+2025-06-01T14:43:39.211Z,/,stop,False
+2025-06-01T14:43:39.212Z,/product/Women/true/14717,start,False
+2025-06-01T14:43:40.897Z,Does this purchase align with your environmental values?,start,False
+2025-06-01T14:43:47.556Z,Jealous 21 Women Casual Top Black Tops,buy,False
+2025-06-01T14:43:47.556Z,Does this purchase align with your environmental values?,stop,False
+2025-06-01T14:43:52.455Z,/,start,False
+2025-06-01T14:44:06.872Z,/,stop,False
+2025-06-01T14:44:06.872Z,/product/Women/true/57095,start,False
+2025-06-01T14:44:09.480Z,Will you wear this item more than once a month?,start,False
+2025-06-01T14:44:13.714Z,Elle Women Black Culottes,buy,False
+2025-06-01T14:44:13.715Z,Will you wear this item more than once a month?,stop,False
+2025-06-01T14:44:16.863Z,/,start,False
+2025-06-01T14:44:47.186Z,/,stop,False
+2025-06-01T14:44:47.187Z,/product/Women/true/34756,start,False
+2025-06-01T14:44:48.774Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,False
+2025-06-01T14:44:57.425Z,Puma Women Aurora Blue Shoes,buy,False
+2025-06-01T14:44:57.425Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,False
+2025-06-01T14:45:03.707Z,/,start,False
+2025-06-01T14:45:21.163Z,/,stop,False
+2025-06-01T14:45:21.163Z,/product/Women/true/52193,start,False
+2025-06-01T14:45:22.501Z,Are you sure you are not overspending on this purchase?,start,False
+2025-06-01T14:45:25.981Z,Lencia Sterling Silver Earrings,buy,False
+2025-06-01T14:45:25.981Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-06-01T14:45:30.185Z,/cart,start,False
+2025-06-01T14:45:32.190Z,/,start,False
+2025-06-01T14:45:44.609Z,/,stop,False
+2025-06-01T14:45:44.609Z,/product/Women/false/59777,start,False
+2025-06-01T14:45:46.050Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-06-01T14:45:49.839Z,Estelle Women Gold Bracelet,buy,False
+2025-06-01T14:45:49.839Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-06-01T14:45:55.555Z,/,start,False
+2025-06-01T14:46:01.689Z,/,stop,False
+2025-06-01T14:46:01.690Z,/product/Women/true/30002,start,False
+2025-06-01T14:46:04.206Z,Does this purchase align with your environmental values?,start,False
+2025-06-01T14:46:06.497Z,Aspen Women White Dial Watch,buy,False
+2025-06-01T14:46:06.498Z,Does this purchase align with your environmental values?,stop,False
+2025-06-01T14:46:10.546Z,/,start,False
+2025-06-01T14:46:45.779Z,/cart,start,False
+2025-06-01T14:46:52.108Z,/cart,stop,False
+2025-06-01T14:46:52.108Z,/end,start,False
+2025-06-01T15:07:08.466Z,/end,stop,False

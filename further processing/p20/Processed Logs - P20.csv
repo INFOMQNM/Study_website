@@ -1,0 +1,80 @@
+timestamp,componentName,action,control
+2025-06-07T12:49:13.854Z,/,start,FALSE
+2025-06-07T12:49:31.228Z,/,stop,FALSE
+2025-06-07T12:49:31.228Z,/product/Women/true/14717,start,FALSE
+2025-06-07T12:49:34.409Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-07T12:49:39.470Z,Jealous 21 Women Casual Top Black Tops,buy,FALSE
+2025-06-07T12:49:39.470Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-07T12:49:42.492Z,/product/Women/true/14717,stop,FALSE
+2025-06-07T12:49:42.492Z,/,start,FALSE
+2025-06-07T12:50:17.143Z,/,stop,FALSE
+2025-06-07T12:50:17.143Z,/product/Women/false/32585,start,FALSE
+2025-06-07T12:50:20.412Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-06-07T12:50:23.334Z,Only  Women Black Trousers,buy,FALSE
+2025-06-07T12:50:23.334Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-06-07T12:50:25.758Z,/product/Women/false/32585,stop,FALSE
+2025-06-07T12:50:25.758Z,/,start,FALSE
+2025-06-07T12:50:35.158Z,/,stop,FALSE
+2025-06-07T12:50:35.159Z,/product/Women/false/58519,start,FALSE
+2025-06-07T12:50:37.001Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-07T12:50:39.193Z,Tonga Women Grey Top,buy,FALSE
+2025-06-07T12:50:39.194Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-07T12:50:41.591Z,/product/Women/false/58519,stop,FALSE
+2025-06-07T12:50:41.591Z,/,start,FALSE
+2025-06-07T12:51:02.407Z,/,stop,FALSE
+2025-06-07T12:51:02.407Z,/product/Women/true/22714,start,FALSE
+2025-06-07T12:51:03.647Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-06-07T12:51:04.914Z,Nike Women Dunk High Skinny Olive Casual Shoes,buy,FALSE
+2025-06-07T12:51:04.914Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-06-07T12:51:09.587Z,/product/Women/true/22714,stop,FALSE
+2025-06-07T12:51:09.587Z,/,start,FALSE
+2025-06-07T12:51:11.207Z,/,stop,FALSE
+2025-06-07T12:51:11.207Z,/cart,start,FALSE
+2025-06-07T12:51:17.700Z,/cart,stop,FALSE
+2025-06-07T12:51:17.700Z,/,start,FALSE
+2025-06-07T12:51:27.545Z,/,stop,FALSE
+2025-06-07T12:51:27.546Z,/product/Women/true/6880,start,FALSE
+2025-06-07T12:51:29.467Z,Does this item fit in your budget?,start,FALSE
+2025-06-07T12:51:31.022Z,Forever New Women Long Black Jacket,buy,FALSE
+2025-06-07T12:51:31.022Z,Does this item fit in your budget?,stop,FALSE
+2025-06-07T12:51:35.196Z,/product/Women/true/6880,stop,FALSE
+2025-06-07T12:51:35.196Z,/cart,start,FALSE
+2025-06-07T12:51:42.619Z,/cart,stop,FALSE
+2025-06-07T12:51:42.619Z,/,start,FALSE
+2025-06-07T12:52:11.784Z,/,stop,FALSE
+2025-06-07T12:52:11.784Z,/cart,start,FALSE
+2025-06-07T12:52:18.867Z,/cart,stop,FALSE
+2025-06-07T12:54:46.781Z,/,start,TRUE
+2025-06-07T12:55:10.235Z,/,stop,TRUE
+2025-06-07T12:55:10.235Z,/product/Women/false/26905,start,TRUE
+2025-06-07T12:55:18.026Z,/product/Women/false/26905,stop,TRUE
+2025-06-07T12:55:18.026Z,/,start,TRUE
+2025-06-07T12:55:36.897Z,/,stop,TRUE
+2025-06-07T12:55:36.898Z,/product/Women/true/12536,start,TRUE
+2025-06-07T12:55:42.981Z,/product/Women/true/12536,stop,TRUE
+2025-06-07T12:55:42.981Z,/,start,TRUE
+2025-06-07T12:56:02.546Z,/,stop,TRUE
+2025-06-07T12:56:02.546Z,/product/Women/true/57095,start,TRUE
+2025-06-07T12:56:06.821Z,/product/Women/true/57095,stop,TRUE
+2025-06-07T12:56:06.821Z,/,start,TRUE
+2025-06-07T12:56:24.114Z,/,stop,TRUE
+2025-06-07T12:56:24.114Z,/product/Women/true/2589,start,TRUE
+2025-06-07T12:56:27.942Z,/product/Women/true/2589,stop,TRUE
+2025-06-07T12:56:27.942Z,/cart,start,TRUE
+2025-06-07T12:56:33.076Z,/cart,stop,TRUE
+2025-06-07T12:56:33.076Z,/,start,TRUE
+2025-06-07T12:56:56.931Z,/,stop,TRUE
+2025-06-07T12:56:56.931Z,/product/Women/true/34756,start,TRUE
+2025-06-07T12:57:01.391Z,/product/Women/true/34756,stop,TRUE
+2025-06-07T12:57:01.391Z,/,start,TRUE
+2025-06-07T12:57:25.220Z,/,stop,TRUE
+2025-06-07T12:57:25.220Z,/product/Women/false/59777,start,TRUE
+2025-06-07T12:57:30.110Z,/product/Women/false/59777,stop,TRUE
+2025-06-07T12:57:30.110Z,/,start,TRUE
+2025-06-07T12:58:00.381Z,/,stop,TRUE
+2025-06-07T12:58:00.381Z,/product/Women/false/21693,start,TRUE
+2025-06-07T12:58:06.738Z,/product/Women/false/21693,stop,TRUE
+2025-06-07T12:58:06.738Z,/,start,TRUE
+2025-06-07T12:58:12.428Z,/,stop,TRUE
+2025-06-07T12:58:12.428Z,/cart,start,TRUE
+2025-06-07T12:58:16.700Z,/cart,stop,TRUE

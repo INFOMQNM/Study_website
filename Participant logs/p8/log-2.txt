@@ -1,0 +1,299 @@
+[
+  {
+    "timestamp": "2025-05-27T10:20:24.162Z",
+    "componentName": [
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than once a month?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just because you saw it on social media?"
+      }
+    ],
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:20:24.241Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:20:24.241Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T10:21:15.690Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:41:56.229Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:43:33.072Z",
+    "componentName": "/",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:44:19.674Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:14.756Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:14.756Z",
+    "componentName": "/product/Men/true/12213",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:16.076Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:20.758Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:24.699Z",
+    "componentName": "/product/Men/true/12213",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:47:24.699Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:01.704Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:01.704Z",
+    "componentName": "/product/Men/true/5970",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:03.075Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:04.004Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:05.168Z",
+    "componentName": "/product/Men/true/5970",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:48:05.168Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:17.116Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:17.116Z",
+    "componentName": "/product/Men/true/42598",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:18.089Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:19.017Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:19.840Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:26.349Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:39.329Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:39.329Z",
+    "componentName": "/product/Men/false/44230",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:40.878Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:41.901Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:49:44.789Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:50:59.556Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:50:59.556Z",
+    "componentName": "/product/Men/false/29750",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:00.730Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:01.472Z",
+    "componentName": "Are you sure you are not buying this just because you saw it on social media?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:02.781Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:49.393Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:49.393Z",
+    "componentName": "/product/Men/false/19339",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:50.980Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:52.022Z",
+    "componentName": "Will you wear this item more than once a month?",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:53.601Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:55.029Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:51:58.494Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:52:23.694Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:52:24.676Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:52:24.676Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": true
+  },
+  {
+    "timestamp": "2025-05-27T13:53:36.916Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": true
+  }
+]

@@ -1,0 +1,81 @@
+timestamp,componentName,action,control
+2025-06-01T14:38:06.770Z,/,start,TRUE
+2025-06-01T14:38:10.237Z,/,stop,TRUE
+2025-06-01T14:38:10.237Z,/cart,start,TRUE
+2025-06-01T14:38:23.359Z,/cart,stop,TRUE
+2025-06-01T14:38:23.359Z,/,start,TRUE
+2025-06-01T14:38:42.706Z,/,stop,TRUE
+2025-06-01T14:38:42.706Z,/product/Women/true/49041,start,TRUE
+2025-06-01T14:38:47.501Z,/product/Women/true/49041,stop,TRUE
+2025-06-01T14:38:47.501Z,/,start,TRUE
+2025-06-01T14:38:53.473Z,/,stop,TRUE
+2025-06-01T14:38:53.473Z,/product/Women/true/10135,start,TRUE
+2025-06-01T14:39:02.960Z,/product/Women/true/10135,stop,TRUE
+2025-06-01T14:39:02.960Z,/,start,TRUE
+2025-06-01T14:39:29.687Z,/,stop,TRUE
+2025-06-01T14:39:29.687Z,/product/Women/false/37949,start,TRUE
+2025-06-01T14:39:37.990Z,/product/Women/false/37949,stop,TRUE
+2025-06-01T14:39:37.990Z,/,start,TRUE
+2025-06-01T14:40:21.999Z,/,stop,TRUE
+2025-06-01T14:40:22.000Z,/product/Women/true/44667,start,TRUE
+2025-06-01T14:40:30.228Z,/product/Women/true/44667,stop,TRUE
+2025-06-01T14:40:30.228Z,/cart,start,TRUE
+2025-06-01T14:40:35.582Z,/cart,stop,TRUE
+2025-06-01T14:40:35.582Z,/,start,TRUE
+2025-06-01T14:41:04.009Z,/,stop,TRUE
+2025-06-01T14:41:04.009Z,/product/Women/false/13386,start,TRUE
+2025-06-01T14:41:09.047Z,/product/Women/false/13386,stop,TRUE
+2025-06-01T14:41:09.047Z,/cart,start,TRUE
+2025-06-01T14:41:16.510Z,/cart,stop,TRUE
+2025-06-01T14:43:26.920Z,/,start,FALSE
+2025-06-01T14:43:30.116Z,/,stop,FALSE
+2025-06-01T14:43:30.116Z,/cart,start,FALSE
+2025-06-01T14:43:32.783Z,/cart,stop,FALSE
+2025-06-01T14:43:32.783Z,/,start,FALSE
+2025-06-01T14:43:39.211Z,/,stop,FALSE
+2025-06-01T14:43:39.212Z,/product/Women/true/14717,start,FALSE
+2025-06-01T14:43:40.897Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-01T14:43:47.556Z,Jealous 21 Women Casual Top Black Tops,buy,FALSE
+2025-06-01T14:43:47.556Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-01T14:43:52.455Z,/product/Women/true/14717,stop,FALSE
+2025-06-01T14:43:52.455Z,/,start,FALSE
+2025-06-01T14:44:06.872Z,/,stop,FALSE
+2025-06-01T14:44:06.872Z,/product/Women/true/57095,start,FALSE
+2025-06-01T14:44:09.480Z,Will you wear this item more than once a month?,start,FALSE
+2025-06-01T14:44:13.714Z,Elle Women Black Culottes,buy,FALSE
+2025-06-01T14:44:13.715Z,Will you wear this item more than once a month?,stop,FALSE
+2025-06-01T14:44:13.715Z,/product/Women/true/57095,stop,FALSE
+2025-06-01T14:44:16.863Z,/,start,FALSE
+2025-06-01T14:44:47.186Z,/,stop,FALSE
+2025-06-01T14:44:47.187Z,/product/Women/true/34756,start,FALSE
+2025-06-01T14:44:48.774Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-06-01T14:44:57.425Z,Puma Women Aurora Blue Shoes,buy,FALSE
+2025-06-01T14:44:57.425Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-06-01T14:45:03.707Z,/product/Women/true/34756,stop,FALSE
+2025-06-01T14:45:03.707Z,/,start,FALSE
+2025-06-01T14:45:21.163Z,/,stop,FALSE
+2025-06-01T14:45:21.163Z,/product/Women/true/52193,start,FALSE
+2025-06-01T14:45:22.501Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-06-01T14:45:25.981Z,Lencia Sterling Silver Earrings,buy,FALSE
+2025-06-01T14:45:25.981Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-06-01T14:45:30.185Z,/product/Women/true/52193,stop,FALSE
+2025-06-01T14:45:30.185Z,/cart,start,FALSE
+2025-06-01T14:45:32.190Z,/cart,stop,FALSE
+2025-06-01T14:45:32.190Z,/,start,FALSE
+2025-06-01T14:45:44.609Z,/,stop,FALSE
+2025-06-01T14:45:44.609Z,/product/Women/false/59777,start,FALSE
+2025-06-01T14:45:46.050Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-01T14:45:49.839Z,Estelle Women Gold Bracelet,buy,FALSE
+2025-06-01T14:45:49.839Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-01T14:45:55.555Z,/product/Women/false/59777,stop,FALSE
+2025-06-01T14:45:55.555Z,/,start,FALSE
+2025-06-01T14:46:01.689Z,/,stop,FALSE
+2025-06-01T14:46:01.690Z,/product/Women/true/30002,start,FALSE
+2025-06-01T14:46:04.206Z,Does this purchase align with your environmental values?,start,FALSE
+2025-06-01T14:46:06.497Z,Aspen Women White Dial Watch,buy,FALSE
+2025-06-01T14:46:06.498Z,Does this purchase align with your environmental values?,stop,FALSE
+2025-06-01T14:46:10.546Z,/product/Women/true/30002,stop,FALSE
+2025-06-01T14:46:10.546Z,/,start,FALSE
+2025-06-01T14:46:45.779Z,/,stop,FALSE
+2025-06-01T14:46:45.779Z,/cart,start,FALSE
+2025-06-01T14:46:52.108Z,/cart,stop,FALSE

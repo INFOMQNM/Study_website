@@ -1,0 +1,78 @@
+timestamp,componentName,action,control
+2025-05-26T13:53:22.002Z,/,start,FALSE
+2025-05-26T13:53:34.939Z,/,stop,FALSE
+2025-05-26T13:53:34.939Z,/men,start,FALSE
+2025-05-26T13:54:17.859Z,/men,stop,FALSE
+2025-05-26T13:54:17.859Z,/product/Men/false/29568,start,FALSE
+2025-05-26T13:54:19.182Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-26T13:54:26.561Z,Vans Men Baxter Black Shoes,buy,FALSE
+2025-05-26T13:54:26.562Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-26T13:54:31.167Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-05-26T13:54:32.218Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-05-26T13:54:33.661Z,/product/Men/false/29568,stop,FALSE
+2025-05-26T13:54:33.661Z,/men,start,FALSE
+2025-05-26T13:55:12.193Z,/men,stop,FALSE
+2025-05-26T13:55:12.193Z,/product/Men/false/13299,start,FALSE
+2025-05-26T13:55:13.232Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,start,FALSE
+2025-05-26T13:55:18.088Z,Gini and Jony Men Solid White Shorts,buy,FALSE
+2025-05-26T13:55:18.089Z,Are you sure you are not buying this just to impress others? Do you genuinely like it?,stop,FALSE
+2025-05-26T13:55:20.022Z,/product/Men/false/13299,stop,FALSE
+2025-05-26T13:55:20.022Z,/men,start,FALSE
+2025-05-26T13:55:38.574Z,/men,stop,FALSE
+2025-05-26T13:55:38.574Z,/product/Men/true/48559,start,FALSE
+2025-05-26T13:55:40.242Z,Is this item produced sustainably?,start,FALSE
+2025-05-26T13:55:47.684Z,Is this item produced sustainably?,stop,FALSE
+2025-05-26T13:55:49.314Z,/product/Men/true/48559,stop,FALSE
+2025-05-26T13:55:49.314Z,/men,start,FALSE
+2025-05-26T13:55:53.908Z,/men,stop,FALSE
+2025-05-26T13:55:53.908Z,/product/Men/true/48559,start,FALSE
+2025-05-26T13:55:54.948Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-05-26T13:55:55.747Z,Revv Men Steel Bracelet,buy,FALSE
+2025-05-26T13:55:55.747Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-05-26T13:55:57.169Z,/product/Men/true/48559,stop,FALSE
+2025-05-26T13:55:57.169Z,/men,start,FALSE
+2025-05-26T13:56:18.846Z,/men,stop,FALSE
+2025-05-26T13:56:18.846Z,/product/Men/false/6609,start,FALSE
+2025-05-26T13:56:20.018Z,Will you wear this item more than 10 times?,start,FALSE
+2025-05-26T13:56:21.096Z,Spykar Men's Stripes White Top,buy,FALSE
+2025-05-26T13:56:21.096Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-05-26T13:56:23.894Z,/product/Men/false/6609,stop,FALSE
+2025-05-26T13:56:23.894Z,/men,start,FALSE
+2025-05-26T13:56:25.110Z,/men,stop,FALSE
+2025-05-26T13:56:25.110Z,/cart,start,FALSE
+2025-05-26T13:56:35.334Z,/cart,stop,FALSE
+2025-05-26T13:56:35.334Z,/men,start,FALSE
+2025-05-26T13:57:57.539Z,/men,stop,FALSE
+2025-05-26T13:57:57.539Z,/product/Men/true/48952,start,FALSE
+2025-05-26T13:57:58.559Z,Will this purchase bring you long-term satisfaction?,start,FALSE
+2025-05-26T13:58:02.234Z,Revv Men Steel Ring,buy,FALSE
+2025-05-26T13:58:02.235Z,Will this purchase bring you long-term satisfaction?,stop,FALSE
+2025-05-26T13:58:03.649Z,/product/Men/true/48952,stop,FALSE
+2025-05-26T13:58:03.649Z,/cart,start,FALSE
+2025-05-26T13:58:14.907Z,/cart,stop,FALSE
+2025-05-26T13:46:36.193Z,/,start,TRUE
+2025-05-26T13:46:53.536Z,/,stop,TRUE
+2025-05-26T13:46:53.536Z,/men,start,TRUE
+2025-05-26T13:47:14.263Z,/men,stop,TRUE
+2025-05-26T13:47:14.263Z,/product/Men/true/53628,start,TRUE
+2025-05-26T13:47:23.118Z,/product/Men/true/53628,stop,TRUE
+2025-05-26T13:47:23.118Z,/men,start,TRUE
+2025-05-26T13:48:00.318Z,/men,stop,TRUE
+2025-05-26T13:48:00.318Z,/product/Men/true/17152,start,TRUE
+2025-05-26T13:48:04.933Z,/product/Men/true/17152,stop,TRUE
+2025-05-26T13:48:04.933Z,/men,start,TRUE
+2025-05-26T13:48:25.742Z,/men,stop,TRUE
+2025-05-26T13:48:25.743Z,/product/Men/true/25447,start,TRUE
+2025-05-26T13:48:29.781Z,/product/Men/true/25447,stop,TRUE
+2025-05-26T13:48:29.781Z,/men,start,TRUE
+2025-05-26T13:48:50.859Z,/men,stop,TRUE
+2025-05-26T13:48:50.860Z,/product/Men/false/29848,start,TRUE
+2025-05-26T13:48:56.890Z,/product/Men/false/29848,stop,TRUE
+2025-05-26T13:48:56.890Z,/cart,start,TRUE
+2025-05-26T13:49:03.524Z,/cart,stop,TRUE
+2025-05-26T13:49:03.524Z,/men,start,TRUE
+2025-05-26T13:49:52.736Z,/men,stop,TRUE
+2025-05-26T13:49:52.736Z,/product/Men/true/18207,start,TRUE
+2025-05-26T13:49:58.020Z,/product/Men/true/18207,stop,TRUE
+2025-05-26T13:49:58.020Z,/cart,start,TRUE
+2025-05-26T13:50:15.319Z,/cart,stop,TRUE

@@ -1,0 +1,81 @@
+timestamp,componentName,action,control
+2025-06-01T13:54:33.753Z,/,start,TRUE
+2025-06-01T13:54:43.761Z,/,stop,TRUE
+2025-06-01T13:54:43.761Z,/men,start,TRUE
+2025-06-01T13:55:02.973Z,/men,stop,TRUE
+2025-06-01T13:55:02.973Z,/product/Men/true/5970,start,TRUE
+2025-06-01T13:55:11.311Z,/product/Men/true/5970,stop,TRUE
+2025-06-01T13:55:11.311Z,/men,start,TRUE
+2025-06-01T13:55:25.264Z,/men,stop,TRUE
+2025-06-01T13:55:25.265Z,/product/Men/false/26679,start,TRUE
+2025-06-01T13:55:31.316Z,/product/Men/false/26679,stop,TRUE
+2025-06-01T13:55:31.316Z,/men,start,TRUE
+2025-06-01T13:55:45.941Z,/men,stop,TRUE
+2025-06-01T13:55:45.941Z,/product/Men/false/48457,start,TRUE
+2025-06-01T13:55:53.678Z,/product/Men/false/48457,stop,TRUE
+2025-06-01T13:55:53.678Z,/men,start,TRUE
+2025-06-01T13:56:23.832Z,/men,stop,TRUE
+2025-06-01T13:56:23.832Z,/product/Men/true/38560,start,TRUE
+2025-06-01T13:56:33.341Z,/product/Men/true/38560,stop,TRUE
+2025-06-01T13:56:33.341Z,/men,start,TRUE
+2025-06-01T13:56:38.554Z,/men,stop,TRUE
+2025-06-01T13:56:38.554Z,/cart,start,TRUE
+2025-06-01T13:56:40.636Z,/cart,stop,TRUE
+2025-06-01T13:56:40.636Z,/men,start,TRUE
+2025-06-01T13:57:19.982Z,/men,stop,TRUE
+2025-06-01T13:57:19.982Z,/product/Men/true/59126,start,TRUE
+2025-06-01T13:57:26.867Z,/product/Men/true/59126,stop,TRUE
+2025-06-01T13:57:26.867Z,/men,start,TRUE
+2025-06-01T13:57:42.013Z,/men,stop,TRUE
+2025-06-01T13:57:42.013Z,/product/Men/true/48562,start,TRUE
+2025-06-01T13:57:50.359Z,/product/Men/true/48562,stop,TRUE
+2025-06-01T13:57:50.359Z,/cart,start,TRUE
+2025-06-01T13:57:57.066Z,/cart,stop,TRUE
+2025-06-01T13:47:03.552Z,/,start,FALSE
+2025-06-01T13:47:23.760Z,/,stop,FALSE
+2025-06-01T13:47:23.760Z,/men,start,FALSE
+2025-06-01T13:47:40.255Z,/men,stop,FALSE
+2025-06-01T13:47:40.255Z,/product/Men/true/7054,start,FALSE
+2025-06-01T13:47:42.655Z,Is this item produced sustainably?,start,FALSE
+2025-06-01T13:47:56.669Z,s.Oliver Men Striped Dark Grey Shirt,buy,FALSE
+2025-06-01T13:47:56.669Z,Is this item produced sustainably?,stop,FALSE
+2025-06-01T13:48:02.590Z,/product/Men/true/7054,stop,FALSE
+2025-06-01T13:48:02.590Z,/men,start,FALSE
+2025-06-01T13:48:16.981Z,/men,stop,FALSE
+2025-06-01T13:48:16.981Z,/product/Men/true/26134,start,FALSE
+2025-06-01T13:48:22.988Z,Are you sure you are not buying this just because you saw it on social media?,start,FALSE
+2025-06-01T13:48:29.121Z,John Miller Men Black Trousers,buy,FALSE
+2025-06-01T13:48:29.121Z,Are you sure you are not buying this just because you saw it on social media?,stop,FALSE
+2025-06-01T13:48:37.156Z,/product/Men/true/26134,stop,FALSE
+2025-06-01T13:48:37.156Z,/men,start,FALSE
+2025-06-01T13:48:56.002Z,/men,stop,FALSE
+2025-06-01T13:48:56.003Z,/product/Men/true/17152,start,FALSE
+2025-06-01T13:48:58.006Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,FALSE
+2025-06-01T13:49:02.657Z,U.S. Polo Assn. Men Solid Black Jacket,buy,FALSE
+2025-06-01T13:49:02.658Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,FALSE
+2025-06-01T13:49:06.466Z,/product/Men/true/17152,stop,FALSE
+2025-06-01T13:49:06.466Z,/men,start,FALSE
+2025-06-01T13:49:29.738Z,/men,stop,FALSE
+2025-06-01T13:49:29.738Z,/product/Men/false/12511,start,FALSE
+2025-06-01T13:49:33.836Z,Are you sure you are not overspending on this purchase?,start,FALSE
+2025-06-01T13:49:36.660Z,Red Tape Men Casual Brown Casual Shoes,buy,FALSE
+2025-06-01T13:49:36.660Z,Are you sure you are not overspending on this purchase?,stop,FALSE
+2025-06-01T13:49:39.893Z,/product/Men/false/12511,stop,FALSE
+2025-06-01T13:49:39.893Z,/men,start,FALSE
+2025-06-01T13:50:19.305Z,/men,stop,FALSE
+2025-06-01T13:50:19.305Z,/product/Men/false/48578,start,FALSE
+2025-06-01T13:50:21.044Z,Will you wear this item more than 10 times?,start,FALSE
+2025-06-01T13:50:22.665Z,Revv Men Steel Bracelet,buy,FALSE
+2025-06-01T13:50:22.666Z,Will you wear this item more than 10 times?,stop,FALSE
+2025-06-01T13:50:26.151Z,/product/Men/false/48578,stop,FALSE
+2025-06-01T13:50:26.151Z,/cart,start,FALSE
+2025-06-01T13:50:30.654Z,/cart,stop,FALSE
+2025-06-01T13:50:30.654Z,/men,start,FALSE
+2025-06-01T13:50:41.922Z,/men,stop,FALSE
+2025-06-01T13:50:41.923Z,/product/Men/true/48950,start,FALSE
+2025-06-01T13:50:43.225Z,Is this item produced sustainably?,start,FALSE
+2025-06-01T13:50:47.240Z,Revv Men Steel Ring,buy,FALSE
+2025-06-01T13:50:47.241Z,Is this item produced sustainably?,stop,FALSE
+2025-06-01T13:50:51.255Z,/product/Men/true/48950,stop,FALSE
+2025-06-01T13:50:51.255Z,/cart,start,FALSE
+2025-06-01T13:51:58.012Z,/cart,stop,FALSE

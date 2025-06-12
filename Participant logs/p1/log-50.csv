@@ -1,0 +1,56 @@
+timestamp,componentName,action,control
+2025-05-26T11:38:14.482Z,social_influence: Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T11:38:14.482Z,long_term: Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T11:38:14.482Z,practicality: Will you wear this item more than 10 times?,start,False
+2025-05-26T11:38:14.482Z,sustainability: Is this item produced sustainably?,start,False
+2025-05-26T11:38:14.482Z,personal_finances: Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T11:38:14.554Z,/end,stop,False
+2025-05-26T11:38:14.555Z,/,start,False
+2025-05-26T11:38:25.496Z,/men,start,False
+2025-05-26T11:39:19.095Z,/,start,False
+2025-05-26T11:39:47.999Z,/men,start,False
+2025-05-26T11:40:53.203Z,/men,stop,False
+2025-05-26T11:40:53.203Z,/product/Men/true/31287,start,False
+2025-05-26T11:40:54.467Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T11:41:04.692Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-26T11:41:05.759Z,/product/Men/true/31287,stop,False
+2025-05-26T11:41:05.759Z,/men,start,False
+2025-05-26T11:41:30.755Z,/men,stop,False
+2025-05-26T11:41:30.755Z,/product/Men/true/24311,start,False
+2025-05-26T11:41:31.740Z,Are you sure you are not buying this item on impulse? Do you really need it?,start,False
+2025-05-26T11:41:32.639Z,ADIDAS Men Black Shorts,buy,False
+2025-05-26T11:41:32.639Z,Are you sure you are not buying this item on impulse? Do you really need it?,stop,False
+2025-05-26T11:41:35.532Z,/men,start,False
+2025-05-26T11:41:53.386Z,/,start,False
+2025-05-26T11:42:05.331Z,/men,start,False
+2025-05-26T11:42:15.408Z,/men,stop,False
+2025-05-26T11:42:15.408Z,/product/Men/true/42598,start,False
+2025-05-26T11:42:16.436Z,Will you wear this item more than 10 times?,start,False
+2025-05-26T11:42:18.131Z,United Colors of Benetton Men Blue Shirt,buy,False
+2025-05-26T11:42:18.131Z,Will you wear this item more than 10 times?,stop,False
+2025-05-26T11:42:19.401Z,/product/Men/true/42598,stop,False
+2025-05-26T11:42:19.401Z,/men,start,False
+2025-05-26T11:42:40.812Z,/men,stop,False
+2025-05-26T11:42:40.812Z,/product/Men/true/24770,start,False
+2025-05-26T11:42:41.735Z,Is this item produced sustainably?,start,False
+2025-05-26T11:42:42.538Z,Spalding Men Game Grey Orange Flip Flops,buy,False
+2025-05-26T11:42:42.539Z,Is this item produced sustainably?,stop,False
+2025-05-26T11:42:44.219Z,/product/Men/true/24770,stop,False
+2025-05-26T11:42:44.219Z,/men,start,False
+2025-05-26T11:43:14.292Z,/cart,start,False
+2025-05-26T11:43:41.825Z,/men,stop,False
+2025-05-26T11:43:41.826Z,/product/Men/true/48950,start,False
+2025-05-26T11:43:43.711Z,Are you sure you are not overspending on this purchase?,start,False
+2025-05-26T11:43:44.405Z,Revv Men Steel Ring,buy,False
+2025-05-26T11:43:44.406Z,Are you sure you are not overspending on this purchase?,stop,False
+2025-05-26T11:43:47.450Z,/cart,start,False
+2025-05-26T11:43:51.158Z,/men,start,False
+2025-05-26T11:44:32.787Z,/men,stop,False
+2025-05-26T11:44:32.787Z,/product/Men/true/17152,start,False
+2025-05-26T11:44:36.654Z,Are you sure you are not buying this just because you saw it on social media?,start,False
+2025-05-26T11:44:37.877Z,U.S. Polo Assn. Men Solid Black Jacket,buy,False
+2025-05-26T11:44:37.877Z,Are you sure you are not buying this just because you saw it on social media?,stop,False
+2025-05-26T11:44:40.142Z,/cart,start,False
+2025-05-26T11:44:47.986Z,/cart,stop,False
+2025-05-26T11:44:47.987Z,/end,start,False
+2025-05-26T11:47:07.026Z,/end,stop,False

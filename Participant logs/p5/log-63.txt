@@ -1,0 +1,305 @@
+[
+  {
+    "timestamp": "2025-05-26T13:53:21.903Z",
+    "componentName": [
+      {
+        "category": "practicality",
+        "text": "Will you wear this item more than 10 times?"
+      },
+      {
+        "category": "long_term",
+        "text": "Will this purchase bring you long-term satisfaction?"
+      },
+      {
+        "category": "social_influence",
+        "text": "Are you sure you are not buying this just to impress others? Do you genuinely like it?"
+      },
+      {
+        "category": "sustainability",
+        "text": "Is this item produced sustainably?"
+      },
+      {
+        "category": "personal_finances",
+        "text": "Are you sure you are not overspending on this purchase?"
+      }
+    ],
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:53:22.002Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:53:22.002Z",
+    "componentName": "/",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:53:34.939Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:53:37.682Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:17.859Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:17.859Z",
+    "componentName": "/product/Men/false/29568",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:19.182Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:26.561Z",
+    "componentName": "Vans Men Baxter Black Shoes",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:26.562Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:31.167Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:32.218Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:54:33.661Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:12.193Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:12.193Z",
+    "componentName": "/product/Men/false/13299",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:13.232Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:18.088Z",
+    "componentName": "Gini and Jony Men Solid White Shorts",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:18.089Z",
+    "componentName": "Are you sure you are not buying this just to impress others? Do you genuinely like it?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:20.022Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:38.574Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:38.574Z",
+    "componentName": "/product/Men/true/48559",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:40.242Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:47.684Z",
+    "componentName": "Is this item produced sustainably?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:49.314Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:53.908Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:53.908Z",
+    "componentName": "/product/Men/true/48559",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:54.948Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:55.747Z",
+    "componentName": "Revv Men Steel Bracelet",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:55.747Z",
+    "componentName": "Are you sure you are not overspending on this purchase?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:55:57.169Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:18.846Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:18.846Z",
+    "componentName": "/product/Men/false/6609",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:20.018Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:21.096Z",
+    "componentName": "Spykar Men's Stripes White Top",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:21.096Z",
+    "componentName": "Will you wear this item more than 10 times?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:23.894Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:25.110Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:56:35.334Z",
+    "componentName": "/men",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:57:57.539Z",
+    "componentName": "/men",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:57:57.539Z",
+    "componentName": "/product/Men/true/48952",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:57:58.559Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:58:02.234Z",
+    "componentName": "Revv Men Steel Ring",
+    "action": "buy",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:58:02.235Z",
+    "componentName": "Will this purchase bring you long-term satisfaction?",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:58:03.649Z",
+    "componentName": "/cart",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:58:14.907Z",
+    "componentName": "/cart",
+    "action": "stop",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T13:58:14.907Z",
+    "componentName": "/end",
+    "action": "start",
+    "control": false
+  },
+  {
+    "timestamp": "2025-05-26T14:00:37.720Z",
+    "componentName": "/end",
+    "action": "stop",
+    "control": false
+  }
+]
